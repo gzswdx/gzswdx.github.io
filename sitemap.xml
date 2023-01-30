@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.shuzisharing.com/archives/baa625c0.html</loc>
+    
+    <lastmod>2023-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shuzisharing.com/archives/435ec760.html</loc>
     
     <lastmod>2023-01-30</lastmod>
@@ -630,6 +639,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.shuzisharing.com/tags/%E7%A4%BE%E4%BC%9A/</loc>
+    <lastmod>2023-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -662,6 +678,13 @@
   
   <url>
     <loc>https://www.shuzisharing.com/categories/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</loc>
+    <lastmod>2023-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shuzisharing.com/categories/%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/</loc>
     <lastmod>2023-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
