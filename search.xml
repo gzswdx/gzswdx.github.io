@@ -100,49 +100,6 @@
       </tags>
   </entry>
   <entry>
-    <title>什么是数字形态化能力？</title>
-    <url>/archives/6a6a4bd5.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字形态化能力内涵"><a href="#数字形态化能力内涵" class="headerlink" title="数字形态化能力内涵"></a>数字形态化能力内涵</h3><p>数字形态化能力，顾名思义，就是数字形态化的能力。什么是数字形态化呢？形态化是指事物的呈现形式或形态。数字形态化能力，就是人把生产生活等现实世界转化为数字形态而呈现出来的能力。</p>
-<p>其现实表现，跟<a href="https://baike.baidu.com/item/%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F/22197545?fr=aladdin">数字孪生</a>很像。但它不仅仅在于把现实世界，在数字世界重新映射一遍。更重要的是，通过数字形态化，建立现实世界“物”的自主生产体系。</p>
-<h3 id="数字形态化的变革目标和目的"><a href="#数字形态化的变革目标和目的" class="headerlink" title="数字形态化的变革目标和目的"></a>数字形态化的变革目标和目的</h3><p><img src="https://pic.imgdb.cn/item/6310a75516f2c2beb176d1e3.png" alt="数字形态化前后社会生产体系的变革"><br>我们可以看看，在数字化转型之前，社会生产，主要的是普遍以人的劳动力组织开展生产，其中人是生产各方面的主体。而在数字化转型后，社会生产，普遍的以“物”的数字化组织开展个性化生产。人是完成数字化的主体，负责数字化后的生产运维和管理。人要完成从生产的主体解放出来，这是数字形态化的目标和目的所在。</p>
-<h3 id="突破口寻找的路径"><a href="#突破口寻找的路径" class="headerlink" title="突破口寻找的路径"></a>突破口寻找的路径</h3><p>而在这个数字形态化过程种，我们普遍的大众，该怎么去把握呢？这就需要我们了解数字形态化的过程，通过数字形态化的过程，来构建我们可以参与的数字形态化进程和能力需要。其根本要抓住数字形态化能力的内涵，通过对比数字化转型前后，社会生产体系的变革，对数字化转型后的对社会生产体系的改变要有深刻的认识，从而找到突破口。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何从零开始使用数据思维解决问题？</title>
     <url>/archives/b206e222.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="什么是数据思维？"><a href="#什么是数据思维？" class="headerlink" title="什么是数据思维？"></a>什么是数据思维？</h3><p>我们先来看看什么是数据思维？企业、组织要用数据，通过相关数据处理和分析，可以帮助它们降低成本、提高效率、开发新产品、做出更明智的业务决策等等，这是企业使用数据的思维。个人怎么来使用数据思维呢？个人要具备的数据思维，是将掌握的数据转化为个人参与数字红利机会的过程和逻辑。总结起来就是，<strong>要有利用数据解决问题的思维。</strong></p>
@@ -242,13 +199,12 @@
       </tags>
   </entry>
   <entry>
-    <title>数字化的“两化”形态关系</title>
-    <url>/archives/d1e1c240.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>从<a href="http://www.shuzisharing.com/archives/f7172f47.html">数字化的定义</a>：数字形态化和数字资本化，可知数字化实践的内容也基于此。</p>
-<h3 id="数字形态化"><a href="#数字形态化" class="headerlink" title="数字形态化"></a>数字形态化</h3><p>一方面发展“物”的业务数字形态化，让“物”数字可测量、可管控、可自主生产等。与此同时，在这个“化”的过程中，市场因素起着推波助澜的作用，没有市场和资本的介入，数字化就难以为继，“物”的数字技术也将难以为继。因此，数字资本化，即是数字市场化参与。在数字经济时代，在数字经济概念内核中，数字化更多的是从市场经济角度强调的数字化，即数字资本化。所以另一方面，数字化是数字经济活动中的数字资本化的发展。</p>
-<p>数字形态化，主要专注于数字技术层面或角度，是数字化的物理和实现基础。在实践中，表现为数字技术的研发、生产组织或企业，各行各业的“物”的数字形态化改造、升级解决方案和技术。比如从事数字形态化基础构建的芯片、存储、传输、通信、定位、感知类等可通用数字形态技术研发、生产的组织。它们主要是“物”的可数字测量性方面的数字形态化技术实现。像华为、比亚迪等更多的属于此类。</p>
-<h3 id="数字资本化"><a href="#数字资本化" class="headerlink" title="数字资本化"></a>数字资本化</h3><p>数字资本化，则主要专注于数字市场、数字经济层面或数字化解决方案集成服务方面，它更多的是从市场参与角度来实践。比如市场模式、市场规则、市场服务、市场权属、交易、流通、监管等等方面，是一种关注于市场，参与竞争、分配的数字化发展。像为各行各业提供数字形态化解决方案的集成服务商，数字化形态产品的交易、应用、平台运营或数字经济行为等。<br><img src="https://pic.imgdb.cn/item/6310a63f16f2c2beb1761eef.jpg"></p>
-<h3 id="二者的关系"><a href="#二者的关系" class="headerlink" title="二者的关系"></a>二者的关系</h3><p>在市场经济中，<strong>数字形态化和数字资本化在一定程度上是相辅相成、相互促进的，并不是一个非此即彼的孤立存在。</strong>任何一个组织或企业的数字化过程，<strong>必然同时包含着数字形态化和数字资本化两种相互交织的形态</strong>。这是市场法则所决定的，否则，很难在市场中生存下来。同时，<strong>二者不是并重的</strong>。在数字经济中，二者的主次是以参与市场的主要切入点为依据。有的组织或企业是以数字形态化为主，比如华为。有的是以数字资本化为主，比如市场上的那些数字化集成服务商，诸如阿里，京东等。<strong>二者不是非此即彼的存在，且是有主次的存在</strong>。</p>
+    <title>什么是数字形态化能力？</title>
+    <url>/archives/6a6a4bd5.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字形态化能力内涵"><a href="#数字形态化能力内涵" class="headerlink" title="数字形态化能力内涵"></a>数字形态化能力内涵</h3><p>数字形态化能力，顾名思义，就是数字形态化的能力。什么是数字形态化呢？形态化是指事物的呈现形式或形态。数字形态化能力，就是人把生产生活等现实世界转化为数字形态而呈现出来的能力。</p>
+<p>其现实表现，跟<a href="https://baike.baidu.com/item/%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F/22197545?fr=aladdin">数字孪生</a>很像。但它不仅仅在于把现实世界，在数字世界重新映射一遍。更重要的是，通过数字形态化，建立现实世界“物”的自主生产体系。</p>
+<h3 id="数字形态化的变革目标和目的"><a href="#数字形态化的变革目标和目的" class="headerlink" title="数字形态化的变革目标和目的"></a>数字形态化的变革目标和目的</h3><p><img src="https://pic.imgdb.cn/item/6310a75516f2c2beb176d1e3.png" alt="数字形态化前后社会生产体系的变革"><br>我们可以看看，在数字化转型之前，社会生产，主要的是普遍以人的劳动力组织开展生产，其中人是生产各方面的主体。而在数字化转型后，社会生产，普遍的以“物”的数字化组织开展个性化生产。人是完成数字化的主体，负责数字化后的生产运维和管理。人要完成从生产的主体解放出来，这是数字形态化的目标和目的所在。</p>
+<h3 id="突破口寻找的路径"><a href="#突破口寻找的路径" class="headerlink" title="突破口寻找的路径"></a>突破口寻找的路径</h3><p>而在这个数字形态化过程种，我们普遍的大众，该怎么去把握呢？这就需要我们了解数字形态化的过程，通过数字形态化的过程，来构建我们可以参与的数字形态化进程和能力需要。其根本要抓住数字形态化能力的内涵，通过对比数字化转型前后，社会生产体系的变革，对数字化转型后的对社会生产体系的改变要有深刻的认识，从而找到突破口。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -340,67 +296,6 @@
       </tags>
   </entry>
   <entry>
-    <title>数字化对社会的变革</title>
-    <url>/archives/cc50d4eb.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>数字化所带的变革，已经使人越来越感觉到深刻改变了我们的生存状态。</p>
-<h3 id="组织结构变革"><a href="#组织结构变革" class="headerlink" title="组织结构变革"></a>组织结构变革</h3><p>在组织结构方面，数字化的信息传递结构变化，突破了经典资源依赖理论的权力机制，使得组织间关系从双边关系，转向网状组织形态，形成了资源利益基础上的合作机制。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a52916f2c2beb1755d3b.jpg"></p>
-<p><a href="https://u.jd.com/7CuiVyX">《价值共生:数字化时代的组织管理》</a>一书，从组织管理角度，概括了数字化的本质特征：连接、共生和当下，认为数字化时代组织管理应该具有六个关键认知：一是一切正在转化为数据；二是连接比拥有更重要；三是开放、信任和协同是关键；四是从竞争逻辑转向共生逻辑；五是顾客主义；六是长期主义，并由此构建起了数字化时代组织管理的框架。</p>
-<h3 id="运营管理变革"><a href="#运营管理变革" class="headerlink" title="运营管理变革"></a>运营管理变革</h3><p>在企业运营管理中，数字化既能赋能企业，使企业运营管理的效率提升，又能使能企业，使企业实现价值创新。在<a href="https://u.jd.com/7tuGxeH">《全数字化赋能:迎击颠覆者的竞争战略》</a>一书中，作者以颠覆者的视角，论述了颠覆者如何转型业务而引发市场变革，并提供了组织迫切需要的尖端研究、规范化见解和“下一步行动”。作者认为，成熟的组织和机构可以利用这些信息转守为攻，一跃成为颠覆者。作者并指出，这也正是每一位首席执行官和政府领导者的头等要务。要处理好“全数字化旋涡”效应，组织和政府必须将敏捷性提升到新的高度，做到不仅改变自己的做事方式，而且对适应性调整习以为常。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a56b16f2c2beb1759023.jpg"></p>
-<h3 id="市场变革"><a href="#市场变革" class="headerlink" title="市场变革"></a>市场变革</h3><p>在市场、资本视角，在互联网基础设施短缺时，接入可及性差异是数字鸿沟的主要表现形态，即“接入鸿沟”。随着数字化的浪潮，人们运用互联网市场获得的、相比其他市场而言的超额收益，即互联网红利，替代了早期的接入鸿沟，成为了数字鸿沟的新形态。并进一步解释，接入鸿沟是基础设施短缺的后果，可以通过公共政策来改善；而影响人们从互联网红利中受益的主要因素则是互联网资本，一种凝聚以往投入形成的、具有互联网市场进入机会、能够通过互联网市场获益的组合资产。在互联网市场中，一方面人们把多种资产、包括“僵化”资产转化为互联网资本；另一方面通过互联网平台的匹配或操控扩大可转化资产的规模、提高转化率，让多种形态、多样化的互联网资本成为影响人们从互联网红利中受益差异的主要因素和机制。</p>
-<h3 id="个体生存变革"><a href="#个体生存变革" class="headerlink" title="个体生存变革"></a>个体生存变革</h3><p>在个体生存方面，数字化时代，寻求建立一个具有包容性、能够产生多方数字信任、充分保护公民隐私权的数字社会，可能远比想象更为艰难，进行数字化善治以实现有品质、有尊严的数字化生存是我们共同的向往。在<a href="https://u.jd.com/7duwTcw">《交往在云端:数字时代的人际关系》</a>一书告诉我们，互联网和移动电话颠覆了人们对于自身和人际关系的许多传统认知，它使得人们“交往在云端”，回答了数字时代的人们的人际关系问题。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a5ad16f2c2beb175b4b0.png"></p>
-<p>于此同时，数字化的电子阅读，彻底改变了人们的阅读行为和习性，使得人们从“沉浸式”的深度阅读转变到以超级注意力为认知特征的“浏览式”阅读，而呈现“快”、“泛”、“短”、“浅”、“碎”的特点。</p>
-<h3 id="抓住数字化变革的逻辑"><a href="#抓住数字化变革的逻辑" class="headerlink" title="抓住数字化变革的逻辑"></a>抓住数字化变革的逻辑</h3><p>可以说，数字化全面变革了我们的生活环境和社会形态。无论是从数字化的“两化”（数字形态化和数字资本化）生产力方面，还是从社会变革的上层建筑方面；无论是从微观个体，还是从宏观组织方面都形成了数字化所独有的内在逻辑。组织结构因数字化，呈扁平网状化，带来的是连接、沟通效率的提升，由此也带来了参与市场方式、利益分配及分配差异的转变，他们相辅相成，具有协调融为一体的内在要求。</p>
-<h3 id="数字化的质疑"><a href="#数字化的质疑" class="headerlink" title="数字化的质疑"></a>数字化的质疑</h3><p>此种生态下的个体，数字化首当其冲。需要构建一个什么的数字化生存环境。在这个环境中，如何生活，才能更符合世界本来的面目。在反思人这一数字化浪潮中的服务本体时，有人表现出对数字化的质疑。</p>
-<p>在<a href="https://u.jd.com/7wuMSND">《技术至死:数字化生存的阴暗面》</a>一书中，作者提出一个问题：一旦道德、伦理和公共事务等问题被所谓的「技术」重构，变得简单可控，世界将变成什么样？他认为，只有当人们对“技术解决方案主义”进行仔细审视并承认制度的瑕疵时，技术才可以被称为一种进步的力量。如果我们看不到数字化生存的阴暗面，就终将毁于我们所热爱的「技术」。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a5da16f2c2beb175d555.jpg"></p>
-<p>于此同时，<a href="https://u.jd.com/7IuCkBh">《数字狂想（那些困扰我们的互联网意识形态）》</a>一书质疑了，数字时代似乎互联网就是所有问题的答案，就连问题是什么都变得不再重要了的现象和存在。提出了诸如：大数据真的能解释一切吗？开发APP就能带来关注度吗？关注度真的能转变为消费吗？在这场狂欢中，谁是赢家？等等这些问题，思考了我们不曾反思的问题。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a60416f2c2beb175f37b.jpg"></p>
-<p><a href="https://u.jd.com/7Mu6Nnc">《数字乌托邦: 一部数字时代的尖锐反思史》</a>告诫我们，在技术带来的一切美好繁荣景象背后，当我们兴致勃勃地拥抱互联网，享受智能设备所带来的便捷的同时，忽略了一个极其危险的事实——我们正渐渐地沦为技术工具的奴役。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a61b16f2c2beb1760146.jpg"></p>
-<p><a href="https://u.jd.com/7Mu6Nnc">《数字乌托邦: 一部数字时代的尖锐反思史》</a>驳斥了科技天堂的观点，阐述了科技的伪善面具，揭示了它如何以各种方式一边丰富我们的生活和工作，一边桎梏我们的思维，窥探我们的隐私，让我们不再习惯动用大脑，并对所有技术产生深深的依赖。旨在帮助生活在技术穹顶之下的我们拨开迷雾，看透当下互联网时代的本质，认清科技使人类生存智慧退化的事实。为了防止这种现象愈演愈烈，卡尔还向我们指出了夺回主动权的出路：放慢追求科技的脚步，减少使用智能设备，认真调动大脑思考，重新审视我们与技术的关系。</p>
-<h3 id="数字化的边界问题"><a href="#数字化的边界问题" class="headerlink" title="数字化的边界问题"></a>数字化的边界问题</h3><p>由此可见，数字化作用无可替代性同时，它也是存在边界的。在哪些方面我们可以大胆的依赖它、发展它、丰富它；在哪些方面又不能太放任它，需限制、放弃它，是有其固有边界的。数字化进程中，数字形态化以科技、生产力的方式，变革我们的生活、生产方式的同时，数字资本化以上层建筑的方式，在社会组织结构、组织管理、商业模式、运作方式等方面变革我们的数字化生存。</p>
-<p>毫无疑问，从技术、生产力视角，数字形态化本身没有对错之分，而引发人们质疑数字化存在的因素。即在数字形态化方面，数字化很难成为引起质疑的焦点，但是就是这一点，人们对它的争议不断。相比起来，人们质疑它的，多表现在数字资本化方面。这是资本的固有特性在数字化上所带来的必然表现。</p>
-<p>如果说在数字形态化方面数字化是简单可控的，那么在数字资本化方面数字化则更多的表现为复杂性和多重性。尽管如此，它们共同构筑了对全社会数字化变革的底层逻辑。可以说，数字经济时代，一切变革的都由这个底层逻辑所生发出来。抓住这个逻辑，便抓住了数字化，进而抓住了数字经济。明确了当前数字化实践的这两个维度，对于数字化的把握就能删繁就简、抓住要旨，构建出数字化的实践框架，从而指导数字经济的发展，甚至是城市和地区的数字经济发展抓手。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>怎样才是“数字化”的正确打开姿势</title>
     <url>/archives/f7172f47.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="抓住数字化内涵的重要性"><a href="#抓住数字化内涵的重要性" class="headerlink" title="抓住数字化内涵的重要性"></a>抓住数字化内涵的重要性</h3><p>数字经济时代,以互联网为依托、以数字资源为核心要素、以信息技术为内生动力、以融合创新为典型特征的数字形态，作为一种新的变革力量在各方面革故鼎新，数字化迎来了飞速发展期。</p>
@@ -452,40 +347,74 @@
       </tags>
   </entry>
   <entry>
-    <title>不容错过的信息素养类国家级一流高校课程</title>
-    <url>/archives/fb7ceda1.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>在<a href="https://www.icourse163.org/"><strong>中国大学MOOC</strong></a></p>
-<p><img src="https://pic.imgdb.cn/item/630e1dee16f2c2beb12f9310.png"></p>
-<p>和<a href="https://www.xuetangx.com/"><strong>学堂在线</strong></a></p>
-<p><img src="https://pic.imgdb.cn/item/630e1df016f2c2beb12f9428.png"></p>
-<p>上，有一大批国内顶级高校的精品课程，可供大家免费学习，是个不错的免费白嫖的学习平台。对于信息素养类的学习，有如下几个不可多得可供免费白嫖的国家级一流课程，给大家收集好，有需要的千万不要错过！</p>
-<h3 id="信息素养与实践——给你一双学术慧眼"><a href="#信息素养与实践——给你一双学术慧眼" class="headerlink" title="信息素养与实践——给你一双学术慧眼"></a>信息素养与实践——给你一双学术慧眼</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
-<p><strong>初次开课时间</strong>：2018 年12 月17 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-1003640003">学习链接</a></strong></font></p>
-<h3 id="信息组织原理与利用"><a href="#信息组织原理与利用" class="headerlink" title="信息组织原理与利用"></a>信息组织原理与利用</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
-<p><strong>初次开课时间</strong>：2018 年10 月10 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-1002918014?tid=1466921441">学习链接</a></strong></font></p>
-<h3 id="信息素养通识教程：数字化生存的必修课"><a href="#信息素养通识教程：数字化生存的必修课" class="headerlink" title="信息素养通识教程：数字化生存的必修课"></a>信息素养通识教程：数字化生存的必修课</h3><p><strong>开设学校</strong>：<font color=green>中山大学</font></p>
-<p><strong>初次开课时间</strong>：2017 年9 月15 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/SYSU-1001936003">学习链接</a></strong></font></p>
-<h3 id="信息素养：效率提升与终身学习的新引擎"><a href="#信息素养：效率提升与终身学习的新引擎" class="headerlink" title="信息素养：效率提升与终身学习的新引擎"></a>信息素养：效率提升与终身学习的新引擎</h3><p><strong>开设学校</strong>：<font color=green>四川师范大学</font></p>
-<p><strong>初次开课时间</strong>：2017 年9 月10 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/SICNU-1002031014">学习链接</a></strong></font></p>
-<h3 id="网络信息计量与评价"><a href="#网络信息计量与评价" class="headerlink" title="网络信息计量与评价"></a>网络信息计量与评价</h3><p><strong>开设学校</strong>：<font color=green>北京师范大学</font></p>
-<p><strong>初次开课时间</strong>：2017 年9 月1 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/BNU-1001998011">学习链接</a></strong></font></p>
-<h3 id="信息素养——学术研究的必修课"><a href="#信息素养——学术研究的必修课" class="headerlink" title="信息素养——学术研究的必修课"></a>信息素养——学术研究的必修课</h3><p><strong>开设学校</strong>： <font color=green>清华大学</font></p>
-<p><strong>初次开课时间</strong>：2016 年6 月1 日</p>
-<p><font color=green size=10><strong><a href="https://www.xuetangx.com/course/THU12051000419/12424396?channel=i.area.manual_search">学习链接</a></strong></font></p>
-<h3 id="信息检索"><a href="#信息检索" class="headerlink" title="信息检索"></a>信息检索</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
-<p><strong>初次开课时间</strong>：2014 年9 月1 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-29001">学习链接</a></strong></font></p>
-<h3 id="信息管理学基础"><a href="#信息管理学基础" class="headerlink" title="信息管理学基础"></a>信息管理学基础</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
-<p><strong>初次开课时间</strong>：2014 年9 月1 日</p>
-<p><strong><a href="https://www.icourse163.org/course/WHU-21013?tid=1468374457">学习链接</a></strong></font></p>
-<h3 id="文献管理与信息分析"><a href="#文献管理与信息分析" class="headerlink" title="文献管理与信息分析"></a>文献管理与信息分析</h3><p><strong>开设学校</strong>： <font color=green>中山大学中国科学技术大学</font></p>
-<p><strong>初次开课时间</strong>：2014 年5 月27 日</p>
-<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/USTC-9002">学习链接</a></strong></font></p>
+    <title>数字化的“两化”形态关系</title>
+    <url>/archives/d1e1c240.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>从<a href="http://www.shuzisharing.com/archives/f7172f47.html">数字化的定义</a>：数字形态化和数字资本化，可知数字化实践的内容也基于此。</p>
+<h3 id="数字形态化"><a href="#数字形态化" class="headerlink" title="数字形态化"></a>数字形态化</h3><p>一方面发展“物”的业务数字形态化，让“物”数字可测量、可管控、可自主生产等。与此同时，在这个“化”的过程中，市场因素起着推波助澜的作用，没有市场和资本的介入，数字化就难以为继，“物”的数字技术也将难以为继。因此，数字资本化，即是数字市场化参与。在数字经济时代，在数字经济概念内核中，数字化更多的是从市场经济角度强调的数字化，即数字资本化。所以另一方面，数字化是数字经济活动中的数字资本化的发展。</p>
+<p>数字形态化，主要专注于数字技术层面或角度，是数字化的物理和实现基础。在实践中，表现为数字技术的研发、生产组织或企业，各行各业的“物”的数字形态化改造、升级解决方案和技术。比如从事数字形态化基础构建的芯片、存储、传输、通信、定位、感知类等可通用数字形态技术研发、生产的组织。它们主要是“物”的可数字测量性方面的数字形态化技术实现。像华为、比亚迪等更多的属于此类。</p>
+<h3 id="数字资本化"><a href="#数字资本化" class="headerlink" title="数字资本化"></a>数字资本化</h3><p>数字资本化，则主要专注于数字市场、数字经济层面或数字化解决方案集成服务方面，它更多的是从市场参与角度来实践。比如市场模式、市场规则、市场服务、市场权属、交易、流通、监管等等方面，是一种关注于市场，参与竞争、分配的数字化发展。像为各行各业提供数字形态化解决方案的集成服务商，数字化形态产品的交易、应用、平台运营或数字经济行为等。<br><img src="https://pic.imgdb.cn/item/6310a63f16f2c2beb1761eef.jpg"></p>
+<h3 id="二者的关系"><a href="#二者的关系" class="headerlink" title="二者的关系"></a>二者的关系</h3><p>在市场经济中，<strong>数字形态化和数字资本化在一定程度上是相辅相成、相互促进的，并不是一个非此即彼的孤立存在。</strong>任何一个组织或企业的数字化过程，<strong>必然同时包含着数字形态化和数字资本化两种相互交织的形态</strong>。这是市场法则所决定的，否则，很难在市场中生存下来。同时，<strong>二者不是并重的</strong>。在数字经济中，二者的主次是以参与市场的主要切入点为依据。有的组织或企业是以数字形态化为主，比如华为。有的是以数字资本化为主，比如市场上的那些数字化集成服务商，诸如阿里，京东等。<strong>二者不是非此即彼的存在，且是有主次的存在</strong>。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字化对社会的变革</title>
+    <url>/archives/cc50d4eb.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>数字化所带的变革，已经使人越来越感觉到深刻改变了我们的生存状态。</p>
+<h3 id="组织结构变革"><a href="#组织结构变革" class="headerlink" title="组织结构变革"></a>组织结构变革</h3><p>在组织结构方面，数字化的信息传递结构变化，突破了经典资源依赖理论的权力机制，使得组织间关系从双边关系，转向网状组织形态，形成了资源利益基础上的合作机制。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a52916f2c2beb1755d3b.jpg"></p>
+<p><a href="https://u.jd.com/7CuiVyX">《价值共生:数字化时代的组织管理》</a>一书，从组织管理角度，概括了数字化的本质特征：连接、共生和当下，认为数字化时代组织管理应该具有六个关键认知：一是一切正在转化为数据；二是连接比拥有更重要；三是开放、信任和协同是关键；四是从竞争逻辑转向共生逻辑；五是顾客主义；六是长期主义，并由此构建起了数字化时代组织管理的框架。</p>
+<h3 id="运营管理变革"><a href="#运营管理变革" class="headerlink" title="运营管理变革"></a>运营管理变革</h3><p>在企业运营管理中，数字化既能赋能企业，使企业运营管理的效率提升，又能使能企业，使企业实现价值创新。在<a href="https://u.jd.com/7tuGxeH">《全数字化赋能:迎击颠覆者的竞争战略》</a>一书中，作者以颠覆者的视角，论述了颠覆者如何转型业务而引发市场变革，并提供了组织迫切需要的尖端研究、规范化见解和“下一步行动”。作者认为，成熟的组织和机构可以利用这些信息转守为攻，一跃成为颠覆者。作者并指出，这也正是每一位首席执行官和政府领导者的头等要务。要处理好“全数字化旋涡”效应，组织和政府必须将敏捷性提升到新的高度，做到不仅改变自己的做事方式，而且对适应性调整习以为常。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a56b16f2c2beb1759023.jpg"></p>
+<h3 id="市场变革"><a href="#市场变革" class="headerlink" title="市场变革"></a>市场变革</h3><p>在市场、资本视角，在互联网基础设施短缺时，接入可及性差异是数字鸿沟的主要表现形态，即“接入鸿沟”。随着数字化的浪潮，人们运用互联网市场获得的、相比其他市场而言的超额收益，即互联网红利，替代了早期的接入鸿沟，成为了数字鸿沟的新形态。并进一步解释，接入鸿沟是基础设施短缺的后果，可以通过公共政策来改善；而影响人们从互联网红利中受益的主要因素则是互联网资本，一种凝聚以往投入形成的、具有互联网市场进入机会、能够通过互联网市场获益的组合资产。在互联网市场中，一方面人们把多种资产、包括“僵化”资产转化为互联网资本；另一方面通过互联网平台的匹配或操控扩大可转化资产的规模、提高转化率，让多种形态、多样化的互联网资本成为影响人们从互联网红利中受益差异的主要因素和机制。</p>
+<h3 id="个体生存变革"><a href="#个体生存变革" class="headerlink" title="个体生存变革"></a>个体生存变革</h3><p>在个体生存方面，数字化时代，寻求建立一个具有包容性、能够产生多方数字信任、充分保护公民隐私权的数字社会，可能远比想象更为艰难，进行数字化善治以实现有品质、有尊严的数字化生存是我们共同的向往。在<a href="https://u.jd.com/7duwTcw">《交往在云端:数字时代的人际关系》</a>一书告诉我们，互联网和移动电话颠覆了人们对于自身和人际关系的许多传统认知，它使得人们“交往在云端”，回答了数字时代的人们的人际关系问题。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a5ad16f2c2beb175b4b0.png"></p>
+<p>于此同时，数字化的电子阅读，彻底改变了人们的阅读行为和习性，使得人们从“沉浸式”的深度阅读转变到以超级注意力为认知特征的“浏览式”阅读，而呈现“快”、“泛”、“短”、“浅”、“碎”的特点。</p>
+<h3 id="抓住数字化变革的逻辑"><a href="#抓住数字化变革的逻辑" class="headerlink" title="抓住数字化变革的逻辑"></a>抓住数字化变革的逻辑</h3><p>可以说，数字化全面变革了我们的生活环境和社会形态。无论是从数字化的“两化”（数字形态化和数字资本化）生产力方面，还是从社会变革的上层建筑方面；无论是从微观个体，还是从宏观组织方面都形成了数字化所独有的内在逻辑。组织结构因数字化，呈扁平网状化，带来的是连接、沟通效率的提升，由此也带来了参与市场方式、利益分配及分配差异的转变，他们相辅相成，具有协调融为一体的内在要求。</p>
+<h3 id="数字化的质疑"><a href="#数字化的质疑" class="headerlink" title="数字化的质疑"></a>数字化的质疑</h3><p>此种生态下的个体，数字化首当其冲。需要构建一个什么的数字化生存环境。在这个环境中，如何生活，才能更符合世界本来的面目。在反思人这一数字化浪潮中的服务本体时，有人表现出对数字化的质疑。</p>
+<p>在<a href="https://u.jd.com/7wuMSND">《技术至死:数字化生存的阴暗面》</a>一书中，作者提出一个问题：一旦道德、伦理和公共事务等问题被所谓的「技术」重构，变得简单可控，世界将变成什么样？他认为，只有当人们对“技术解决方案主义”进行仔细审视并承认制度的瑕疵时，技术才可以被称为一种进步的力量。如果我们看不到数字化生存的阴暗面，就终将毁于我们所热爱的「技术」。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a5da16f2c2beb175d555.jpg"></p>
+<p>于此同时，<a href="https://u.jd.com/7IuCkBh">《数字狂想（那些困扰我们的互联网意识形态）》</a>一书质疑了，数字时代似乎互联网就是所有问题的答案，就连问题是什么都变得不再重要了的现象和存在。提出了诸如：大数据真的能解释一切吗？开发APP就能带来关注度吗？关注度真的能转变为消费吗？在这场狂欢中，谁是赢家？等等这些问题，思考了我们不曾反思的问题。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a60416f2c2beb175f37b.jpg"></p>
+<p><a href="https://u.jd.com/7Mu6Nnc">《数字乌托邦: 一部数字时代的尖锐反思史》</a>告诫我们，在技术带来的一切美好繁荣景象背后，当我们兴致勃勃地拥抱互联网，享受智能设备所带来的便捷的同时，忽略了一个极其危险的事实——我们正渐渐地沦为技术工具的奴役。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a61b16f2c2beb1760146.jpg"></p>
+<p><a href="https://u.jd.com/7Mu6Nnc">《数字乌托邦: 一部数字时代的尖锐反思史》</a>驳斥了科技天堂的观点，阐述了科技的伪善面具，揭示了它如何以各种方式一边丰富我们的生活和工作，一边桎梏我们的思维，窥探我们的隐私，让我们不再习惯动用大脑，并对所有技术产生深深的依赖。旨在帮助生活在技术穹顶之下的我们拨开迷雾，看透当下互联网时代的本质，认清科技使人类生存智慧退化的事实。为了防止这种现象愈演愈烈，卡尔还向我们指出了夺回主动权的出路：放慢追求科技的脚步，减少使用智能设备，认真调动大脑思考，重新审视我们与技术的关系。</p>
+<h3 id="数字化的边界问题"><a href="#数字化的边界问题" class="headerlink" title="数字化的边界问题"></a>数字化的边界问题</h3><p>由此可见，数字化作用无可替代性同时，它也是存在边界的。在哪些方面我们可以大胆的依赖它、发展它、丰富它；在哪些方面又不能太放任它，需限制、放弃它，是有其固有边界的。数字化进程中，数字形态化以科技、生产力的方式，变革我们的生活、生产方式的同时，数字资本化以上层建筑的方式，在社会组织结构、组织管理、商业模式、运作方式等方面变革我们的数字化生存。</p>
+<p>毫无疑问，从技术、生产力视角，数字形态化本身没有对错之分，而引发人们质疑数字化存在的因素。即在数字形态化方面，数字化很难成为引起质疑的焦点，但是就是这一点，人们对它的争议不断。相比起来，人们质疑它的，多表现在数字资本化方面。这是资本的固有特性在数字化上所带来的必然表现。</p>
+<p>如果说在数字形态化方面数字化是简单可控的，那么在数字资本化方面数字化则更多的表现为复杂性和多重性。尽管如此，它们共同构筑了对全社会数字化变革的底层逻辑。可以说，数字经济时代，一切变革的都由这个底层逻辑所生发出来。抓住这个逻辑，便抓住了数字化，进而抓住了数字经济。明确了当前数字化实践的这两个维度，对于数字化的把握就能删繁就简、抓住要旨，构建出数字化的实践框架，从而指导数字经济的发展，甚至是城市和地区的数字经济发展抓手。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -694,6 +623,129 @@
       </tags>
   </entry>
   <entry>
+    <title>普通人怎么提升数字安全能力</title>
+    <url>/archives/4430505.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic.imgdb.cn/item/630e1f7a16f2c2beb1307a92.jpg"></p>
+<h3 id="数字安全能力的重要性"><a href="#数字安全能力的重要性" class="headerlink" title="数字安全能力的重要性"></a>数字安全能力的重要性</h3><p>数字安全能力，是数字能力的重要构成部分。如果没有数字安全保障，那么我们的数字化的生存就无法保障。因此，掌握基本的数字安全能力，就能起到为我们的数字化生存，提供必要的保驾护航作用。</p>
+<h3 id="提升数字安全能力"><a href="#提升数字安全能力" class="headerlink" title="提升数字安全能力"></a>提升数字安全能力</h3><p>我们怎么来提升自己的数字安全能力呢？我们通过提升常见的数字安全识别及其防范能力，来培养我们的数字安全能力，有了这些常见的数字安全识别及防范能力，就积累了我们数字安全的视野和经验，对于应对其他数字安全提供了宝贵的经验。</p>
+<p>另外，我们在掌握这些数字安全技术方面的防范同时，还要注重数字的内容安全。在数字化生存当中，只有我们的数字内容安全得到保障，我们才有更好参与市场的机会，因此，数据内容安全问题，我们也不能忽视。</p>
+<p><img src="https://pic.imgdb.cn/item/630e1f8716f2c2beb1308338.jpg"></p>
+<h3 id="常见的数字安全识别与防范"><a href="#常见的数字安全识别与防范" class="headerlink" title="常见的数字安全识别与防范"></a>常见的数字安全识别与防范</h3><p>提升数字安全能力，要先掌握常见数字安全识别及其防范能力，常见的数字安全有以下六大类：</p>
+<p>一是，网络作骗识别及防范</p>
+<p>二是，恶意软件识别及防护</p>
+<p>三是，网络谣言识别及防护</p>
+<p>四是，手机安全识别及防范</p>
+<p>五是，账户安全的识别及防范</p>
+<p>六是，个人信息安全识别及防范</p>
+<p>我们通过这些常见的数字安全来培养我们的数字安全能力。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不容错过的信息素养类国家级一流高校课程</title>
+    <url>/archives/fb7ceda1.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>在<a href="https://www.icourse163.org/"><strong>中国大学MOOC</strong></a></p>
+<p><img src="https://pic.imgdb.cn/item/630e1dee16f2c2beb12f9310.png"></p>
+<p>和<a href="https://www.xuetangx.com/"><strong>学堂在线</strong></a></p>
+<p><img src="https://pic.imgdb.cn/item/630e1df016f2c2beb12f9428.png"></p>
+<p>上，有一大批国内顶级高校的精品课程，可供大家免费学习，是个不错的免费白嫖的学习平台。对于信息素养类的学习，有如下几个不可多得可供免费白嫖的国家级一流课程，给大家收集好，有需要的千万不要错过！</p>
+<h3 id="信息素养与实践——给你一双学术慧眼"><a href="#信息素养与实践——给你一双学术慧眼" class="headerlink" title="信息素养与实践——给你一双学术慧眼"></a>信息素养与实践——给你一双学术慧眼</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
+<p><strong>初次开课时间</strong>：2018 年12 月17 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-1003640003">学习链接</a></strong></font></p>
+<h3 id="信息组织原理与利用"><a href="#信息组织原理与利用" class="headerlink" title="信息组织原理与利用"></a>信息组织原理与利用</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
+<p><strong>初次开课时间</strong>：2018 年10 月10 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-1002918014?tid=1466921441">学习链接</a></strong></font></p>
+<h3 id="信息素养通识教程：数字化生存的必修课"><a href="#信息素养通识教程：数字化生存的必修课" class="headerlink" title="信息素养通识教程：数字化生存的必修课"></a>信息素养通识教程：数字化生存的必修课</h3><p><strong>开设学校</strong>：<font color=green>中山大学</font></p>
+<p><strong>初次开课时间</strong>：2017 年9 月15 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/SYSU-1001936003">学习链接</a></strong></font></p>
+<h3 id="信息素养：效率提升与终身学习的新引擎"><a href="#信息素养：效率提升与终身学习的新引擎" class="headerlink" title="信息素养：效率提升与终身学习的新引擎"></a>信息素养：效率提升与终身学习的新引擎</h3><p><strong>开设学校</strong>：<font color=green>四川师范大学</font></p>
+<p><strong>初次开课时间</strong>：2017 年9 月10 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/SICNU-1002031014">学习链接</a></strong></font></p>
+<h3 id="网络信息计量与评价"><a href="#网络信息计量与评价" class="headerlink" title="网络信息计量与评价"></a>网络信息计量与评价</h3><p><strong>开设学校</strong>：<font color=green>北京师范大学</font></p>
+<p><strong>初次开课时间</strong>：2017 年9 月1 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/BNU-1001998011">学习链接</a></strong></font></p>
+<h3 id="信息素养——学术研究的必修课"><a href="#信息素养——学术研究的必修课" class="headerlink" title="信息素养——学术研究的必修课"></a>信息素养——学术研究的必修课</h3><p><strong>开设学校</strong>： <font color=green>清华大学</font></p>
+<p><strong>初次开课时间</strong>：2016 年6 月1 日</p>
+<p><font color=green size=10><strong><a href="https://www.xuetangx.com/course/THU12051000419/12424396?channel=i.area.manual_search">学习链接</a></strong></font></p>
+<h3 id="信息检索"><a href="#信息检索" class="headerlink" title="信息检索"></a>信息检索</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
+<p><strong>初次开课时间</strong>：2014 年9 月1 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/WHU-29001">学习链接</a></strong></font></p>
+<h3 id="信息管理学基础"><a href="#信息管理学基础" class="headerlink" title="信息管理学基础"></a>信息管理学基础</h3><p><strong>开设学校</strong>：<font color=green>武汉大学</font></p>
+<p><strong>初次开课时间</strong>：2014 年9 月1 日</p>
+<p><strong><a href="https://www.icourse163.org/course/WHU-21013?tid=1468374457">学习链接</a></strong></font></p>
+<h3 id="文献管理与信息分析"><a href="#文献管理与信息分析" class="headerlink" title="文献管理与信息分析"></a>文献管理与信息分析</h3><p><strong>开设学校</strong>： <font color=green>中山大学中国科学技术大学</font></p>
+<p><strong>初次开课时间</strong>：2014 年5 月27 日</p>
+<p><font color=green size=10><strong><a href="https://www.icourse163.org/course/USTC-9002">学习链接</a></strong></font></p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>搜索力进阶——必须掌握的那些通用搜索引擎</title>
     <url>/archives/e2474543.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="Google搜索引擎"><a href="#Google搜索引擎" class="headerlink" title="Google搜索引擎"></a>Google搜索引擎</h3><p><a href="http://www.google.com/">www.google.com</a></p>
@@ -755,21 +807,24 @@
       </tags>
   </entry>
   <entry>
-    <title>普通人怎么提升数字安全能力</title>
-    <url>/archives/4430505.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic.imgdb.cn/item/630e1f7a16f2c2beb1307a92.jpg"></p>
-<h3 id="数字安全能力的重要性"><a href="#数字安全能力的重要性" class="headerlink" title="数字安全能力的重要性"></a>数字安全能力的重要性</h3><p>数字安全能力，是数字能力的重要构成部分。如果没有数字安全保障，那么我们的数字化的生存就无法保障。因此，掌握基本的数字安全能力，就能起到为我们的数字化生存，提供必要的保驾护航作用。</p>
-<h3 id="提升数字安全能力"><a href="#提升数字安全能力" class="headerlink" title="提升数字安全能力"></a>提升数字安全能力</h3><p>我们怎么来提升自己的数字安全能力呢？我们通过提升常见的数字安全识别及其防范能力，来培养我们的数字安全能力，有了这些常见的数字安全识别及防范能力，就积累了我们数字安全的视野和经验，对于应对其他数字安全提供了宝贵的经验。</p>
-<p>另外，我们在掌握这些数字安全技术方面的防范同时，还要注重数字的内容安全。在数字化生存当中，只有我们的数字内容安全得到保障，我们才有更好参与市场的机会，因此，数据内容安全问题，我们也不能忽视。</p>
-<p><img src="https://pic.imgdb.cn/item/630e1f8716f2c2beb1308338.jpg"></p>
-<h3 id="常见的数字安全识别与防范"><a href="#常见的数字安全识别与防范" class="headerlink" title="常见的数字安全识别与防范"></a>常见的数字安全识别与防范</h3><p>提升数字安全能力，要先掌握常见数字安全识别及其防范能力，常见的数字安全有以下六大类：</p>
-<p>一是，网络作骗识别及防范</p>
-<p>二是，恶意软件识别及防护</p>
-<p>三是，网络谣言识别及防护</p>
-<p>四是，手机安全识别及防范</p>
-<p>五是，账户安全的识别及防范</p>
-<p>六是，个人信息安全识别及防范</p>
-<p>我们通过这些常见的数字安全来培养我们的数字安全能力。</p>
+    <title>资本操控，又一伟大斗争场</title>
+    <url>/archives/deaf3e89.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="高层对资本的定性"><a href="#高层对资本的定性" class="headerlink" title="高层对资本的定性"></a>高层对资本的定性</h3><p>2022年4月29日，中共中央政治局就依法规范和引导我国资本健康发展进行了第三十八次集体学习，中共中央总书记习近平在主持学习时强调，资本是社会主义市场经济的重要生产要素，在社会主义市场经济条件下规范和引导资本发展，既是一个重大经济问题、也是一个重大政治问题，既是一个重大实践问题、也是一个重大理论问题，关系坚持社会主义基本经济制度，关系改革开放基本国策，关系高质量发展和共同富裕，关系国家安全和社会稳定。必须深化对新的时代条件下我国各类资本及其作用的认识，规范和引导资本健康发展，发挥其作为重要生产要素的积极作用。</p>
+<p><img src="https://pic.imgdb.cn/item/630e1bf416f2c2beb12e6ebd.png"><br>从习总书记的讲话中，可见高层对资本的定性和态度：<strong>规范和引导资本、让其发挥积极作用，用来发展社会主义市场经济</strong>。高层强调了正确对待“资本”对我们的发展十分重要，要正确对待“资本”，首先就要弄清楚究竟什么是资本？</p>
+<h3 id="究竟什么是资本？"><a href="#究竟什么是资本？" class="headerlink" title="究竟什么是资本？"></a>究竟什么是资本？</h3><p><img src="https://pic.imgdb.cn/item/630e1c4616f2c2beb12e9c4b.jpg"><br>马克思说：“<strong>资本不是任何物，而是一定的、社会的、属于一定历史社会形态的生产关系，它体现在一个物品上，给这个物品一种独特的社会性质。</strong>”</p>
+<p>也就是说，<strong>资本是生产关系，它可以通过“物”来体现</strong>。具体地说，资本不是某种特别的货币或是桌子、椅子等我们看的见的物质或财富，实际上它是生产关系，本质上是人与人的关系。<strong>这种关系它实际上反映了以物为媒介的、人对人的剥削关系</strong>，即<strong>资本也是一种由剩余劳动堆叠形成的社会权力</strong>，<strong>掌握了这种权力的人可以无偿地占有他人的劳动产品，对别人进行支配</strong>。这也是习总书记强调的对于资本的认识，关系坚持社会主义基本经济制度，关系改革开放基本国策，关系高质量发展和共同富裕，关系国家安全和社会稳定的所在。</p>
+<h3 id="资本的作用"><a href="#资本的作用" class="headerlink" title="资本的作用"></a>资本的作用</h3><p>从马克思对于资本的认识不难发现，<strong>资本的作用，就在于它能通过以“物”的操控来控制人。</strong>其<strong>积极作用</strong>的表现就是通过操控组织生产，创造社会财富。其<strong>消极作用</strong>就是通过“物”操控人、形成的剥削、占有及支配。</p>
+<p>简言之，我们<strong>社会主义市场经济对于资本的规范和引导，就在于资本能通过“物”的操控来实现组织社会生产、创造社会财富上，并要通过必要的手段，去掉资本的剥削、占有及支配的消极作用</strong>。</p>
+<h3 id="发挥资本积极作用，必然是个伟大斗争的过程"><a href="#发挥资本积极作用，必然是个伟大斗争的过程" class="headerlink" title="发挥资本积极作用，必然是个伟大斗争的过程"></a>发挥资本积极作用，必然是个伟大斗争的过程</h3><p>这一点在社会主义阶段，<strong>必然是个伟大斗争的过程</strong>。列宁在其著作《无产阶级专政时代的经济和政治》一文中指出，“<strong>在资本主义和共产主义之间有一个过渡时期，这在理论上是毫无疑义的。这个过渡时期不能不兼有这两种社会经济结构的特点或特性。这个过渡时期不能不是衰亡着的资本主义与生长着的共产主义彼此斗争的时期，换句话说，就是已被打败但还未被消灭的资本主义和已经诞生但还非常幼弱的共产主义彼此斗争的时期</strong>”。</p>
+<p>这就是说，在社会主义阶段，存在着共产主义因素与资本主义因素之间相互持续斗争的过程。毛泽东同志也曾指出：“<strong>革命的谁胜谁负，社会主义还是资本主义，要在一个很长的历史时期内才能解决。如果弄得不好，资本主义复辟将是随时可能的</strong>”。可见，这个斗争也必定是激烈的。这也是习总书记强调的要发挥伟大斗争精神的另一种解释所在。因为在社会主义阶段，<strong>规范和引导资本，包含着伟大斗争的历史必然性</strong>。</p>
+<h3 id="当前的资本操控"><a href="#当前的资本操控" class="headerlink" title="当前的资本操控"></a>当前的资本操控</h3><p>当前，资本的恶行已经暴露的十分露骨，大有操控之嫌。从恒大地产的2万多亿暴雷，对国民和国家的绑架，已经让成千上万的购房者深受其害。一个多星期前，<a href="https://www.ixigua.com/7133510207279366669">司马南向公安部、中央网信办实名举报：联想花钱操控舆论的事件</a>，加上之前爆出联想侵吞国有资产的料，再一次把资本操控的影子推上了浪尖。如果联想花钱操控舆论的事件成真，将是十分恶劣的事件，彻底暴露了资本对舆论的操控。</p>
+<iframe width="100%" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7133510207279366669?autoplay=1" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+
+<p>联想靠“烧钱”成长起来的事实，大家一直在诟病。这也是大家对于联想资本操控并不陌生的所在。其实，在资本操控方面，联想还与滴滴有说不清的关系和瓜葛。滴滴的CEO是柳传志的女儿——柳青；优步中国当年的负责人柳甄，也是柳传志的侄女，后期优步“贱卖”给了滴滴，联想和滴滴也曾有过直接的战略合作，滴滴曾给联想提供企业用车服务。滴滴背后的国资背景也十分强大，看看下面这张图表，不禁让人毛骨悚然。我们的国有资本去了哪里？帮了哪些？这里面暗含了什么？不得不发人深省。</p>
+<p><img src="https://pic.imgdb.cn/item/630e1c4d16f2c2beb12ea200.jpg"></p>
+<p>联想对于自身负面的事实，动用资本操控媒体和舆论，对别人利用自己的合法收入在美国买个房，值得发起那么大的资本操控吗？作为吃瓜群众，我们可能又要一次见证奇迹，静观后续事件发展。</p>
+<p>滴滴前期利用黑产，操控数十万幽灵司机，不是几件惊动全国的恶行死亡事件，不知道当今滴滴该有多横，毕竟有那么强大的国资背景背书，资本何惧之有呢？这些这强大的资本把持，均非常人努力所能及。</p>
+<p>国本、根基要回归初心、使命上来，注定我们必须要警惕资本操控，无论是国有、还是私有，资本的操控必须予以坚决地打击，割掉资本操控、剥削的尾巴，让其只发挥组织生产、创造财富的积极作用，必将是一场硬仗。其间任何的调和，都只会让人们不断地看清资本作恶的面目，而积累社会矛盾，以至于引发变革。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -800,19 +855,30 @@
 			</script>
 		]]></content>
       <categories>
-        <category>数字化</category>
+        <category>纵横捭阖</category>
       </categories>
       <tags>
-        <tag>数字能力</tag>
+        <tag>社会观察</tag>
       </tags>
   </entry>
   <entry>
-    <title>百度文库下载器，实测有效</title>
-    <url>/archives/8c5af1bb.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>经常被人问及百度文库下载不了，有没有什么方法。今天就给大家介绍一种最简单，实测有效的方法，使用下载工具进行下载。</p>
-<h3 id="百度文库下载工具使用方法："><a href="#百度文库下载工具使用方法：" class="headerlink" title="百度文库下载工具使用方法："></a>百度文库下载工具使用方法：</h3><p>1）双击打开程序，进入到百度APP登录提示框，<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a3991.png"><br>2）点击“确”定，设置下载“选项”，设置下载的保存路径和临时文件夹。<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a399e.png"><br>2）点击“登录账号”，进入到登录百度账号界面，<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a3975.png"><br>3）登录完成后，进入到下载对话框，把需要下载的文件浏览器路径，复制到“文档链接”处，点击“确定”，即可进行下载。<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a397a.png"></p>
-<h3 id="软件下载："><a href="#软件下载：" class="headerlink" title="软件下载："></a>软件下载：</h3><p><a href="https://jamaskii.lanzouw.com/b011ya3wh">点击这里下载</a></p>
-<p>下载提取密码:5av3</p>
+    <title>4款提高电脑使用效率的神器，你知道吗？</title>
+    <url>/archives/7dedb211.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="文件压缩工具Bandizip"><a href="#文件压缩工具Bandizip" class="headerlink" title="文件压缩工具Bandizip"></a>文件压缩工具Bandizip</h3><p>Bandizip 是一个强大的多功能压缩文件管理工具，可提供快速的解压缩和其他各种实用功能。 有付费和免费版，一般默认的下载免费版的就可以了。支持windows和mac操作系统。</p>
+<p><img src="http://www.bandisoft.com/bandizip/screenshots/imgs.cn/01.png" alt="img"></p>
+<p><strong>下载链接</strong>：</p>
+<p><a href="http://www.bandisoft.com/">http://www.bandisoft.com/</a></p>
+<h3 id="软件卸载工具Geek"><a href="#软件卸载工具Geek" class="headerlink" title="软件卸载工具Geek"></a>软件卸载工具Geek</h3><p>有评价Geek 说，“这些年来，我尝试了很多卸载程序。Geek Uninstaller 毫无疑问是我见过的最好的卸载程序”。</p>
+<p><img src="https://pic.imgdb.cn/item/630e1cfe16f2c2beb12f0e15.png"></p>
+<p><strong>下载链接</strong>：</p>
+<p><a href="https://geekuninstaller.com/">https://geekuninstaller.com/</a></p>
+<h3 id="文件资源管理器增强"><a href="#文件资源管理器增强" class="headerlink" title="文件资源管理器增强"></a>文件资源管理器增强</h3><p>实现打开多个文件夹，跟浏览器一样的在同一个窗口切换各个文件夹，是一款不可多得的文件资源管理神器。</p>
+<p><img src="http://qttabbar.wdfiles.com/local--files/repository/qttabbar_top.png" alt="QTTabBar"></p>
+<p><strong>下载链接</strong>：</p>
+<p><a href="http://qttabbar.wikidot.com/">http://qttabbar.wikidot.com/</a></p>
+<h3 id="集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器"><a href="#集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器" class="headerlink" title="集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器"></a>集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器</h3><p><img src="https://pic.imgdb.cn/item/630e1d0016f2c2beb12f0f32.png"></p>
+<p><strong>下载链接</strong>：</p>
+<p><a href="https://www.huochaipro.com/">https://www.huochaipro.com/</a></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -906,23 +972,12 @@
       </tags>
   </entry>
   <entry>
-    <title>4款提高电脑使用效率的神器，你知道吗？</title>
-    <url>/archives/7dedb211.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="文件压缩工具Bandizip"><a href="#文件压缩工具Bandizip" class="headerlink" title="文件压缩工具Bandizip"></a>文件压缩工具Bandizip</h3><p>Bandizip 是一个强大的多功能压缩文件管理工具，可提供快速的解压缩和其他各种实用功能。 有付费和免费版，一般默认的下载免费版的就可以了。支持windows和mac操作系统。</p>
-<p><img src="http://www.bandisoft.com/bandizip/screenshots/imgs.cn/01.png" alt="img"></p>
-<p><strong>下载链接</strong>：</p>
-<p><a href="http://www.bandisoft.com/">http://www.bandisoft.com/</a></p>
-<h3 id="软件卸载工具Geek"><a href="#软件卸载工具Geek" class="headerlink" title="软件卸载工具Geek"></a>软件卸载工具Geek</h3><p>有评价Geek 说，“这些年来，我尝试了很多卸载程序。Geek Uninstaller 毫无疑问是我见过的最好的卸载程序”。</p>
-<p><img src="https://pic.imgdb.cn/item/630e1cfe16f2c2beb12f0e15.png"></p>
-<p><strong>下载链接</strong>：</p>
-<p><a href="https://geekuninstaller.com/">https://geekuninstaller.com/</a></p>
-<h3 id="文件资源管理器增强"><a href="#文件资源管理器增强" class="headerlink" title="文件资源管理器增强"></a>文件资源管理器增强</h3><p>实现打开多个文件夹，跟浏览器一样的在同一个窗口切换各个文件夹，是一款不可多得的文件资源管理神器。</p>
-<p><img src="http://qttabbar.wdfiles.com/local--files/repository/qttabbar_top.png" alt="QTTabBar"></p>
-<p><strong>下载链接</strong>：</p>
-<p><a href="http://qttabbar.wikidot.com/">http://qttabbar.wikidot.com/</a></p>
-<h3 id="集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器"><a href="#集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器" class="headerlink" title="集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器"></a>集快速查找文件、打开应用程序、局域网秒传文件、局域网聊天于一体的神器</h3><p><img src="https://pic.imgdb.cn/item/630e1d0016f2c2beb12f0f32.png"></p>
-<p><strong>下载链接</strong>：</p>
-<p><a href="https://www.huochaipro.com/">https://www.huochaipro.com/</a></p>
+    <title>百度文库下载器，实测有效</title>
+    <url>/archives/8c5af1bb.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>经常被人问及百度文库下载不了，有没有什么方法。今天就给大家介绍一种最简单，实测有效的方法，使用下载工具进行下载。</p>
+<h3 id="百度文库下载工具使用方法："><a href="#百度文库下载工具使用方法：" class="headerlink" title="百度文库下载工具使用方法："></a>百度文库下载工具使用方法：</h3><p>1）双击打开程序，进入到百度APP登录提示框，<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a3991.png"><br>2）点击“确”定，设置下载“选项”，设置下载的保存路径和临时文件夹。<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a399e.png"><br>2）点击“登录账号”，进入到登录百度账号界面，<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a3975.png"><br>3）登录完成后，进入到下载对话框，把需要下载的文件浏览器路径，复制到“文档链接”处，点击“确定”，即可进行下载。<br><img src="https://pic.imgdb.cn/item/630e172f16f2c2beb12a397a.png"></p>
+<h3 id="软件下载："><a href="#软件下载：" class="headerlink" title="软件下载："></a>软件下载：</h3><p><a href="https://jamaskii.lanzouw.com/b011ya3wh">点击这里下载</a></p>
+<p>下载提取密码:5av3</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -968,107 +1023,6 @@
 <p>与此同时，为了帮助不懂软件项目的童鞋，它还有可界面化操作的网站，直接在浏览器中通过点击鼠标和键盘就能完成一份精美的简历制作。</p>
 <p><strong>在线制作网址</strong>: <strong><a href="https://huajian.smallpig.site/">https://huajian.smallpig.site</a></strong></p>
 <p><img src="https://pic.imgdb.cn/item/630e16a516f2c2beb129e590.png"></p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>网站工具分享</category>
-      </categories>
-      <tags>
-        <tag>网站工具分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>资本操控，又一伟大斗争场</title>
-    <url>/archives/deaf3e89.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="高层对资本的定性"><a href="#高层对资本的定性" class="headerlink" title="高层对资本的定性"></a>高层对资本的定性</h3><p>2022年4月29日，中共中央政治局就依法规范和引导我国资本健康发展进行了第三十八次集体学习，中共中央总书记习近平在主持学习时强调，资本是社会主义市场经济的重要生产要素，在社会主义市场经济条件下规范和引导资本发展，既是一个重大经济问题、也是一个重大政治问题，既是一个重大实践问题、也是一个重大理论问题，关系坚持社会主义基本经济制度，关系改革开放基本国策，关系高质量发展和共同富裕，关系国家安全和社会稳定。必须深化对新的时代条件下我国各类资本及其作用的认识，规范和引导资本健康发展，发挥其作为重要生产要素的积极作用。</p>
-<p><img src="https://pic.imgdb.cn/item/630e1bf416f2c2beb12e6ebd.png"><br>从习总书记的讲话中，可见高层对资本的定性和态度：<strong>规范和引导资本、让其发挥积极作用，用来发展社会主义市场经济</strong>。高层强调了正确对待“资本”对我们的发展十分重要，要正确对待“资本”，首先就要弄清楚究竟什么是资本？</p>
-<h3 id="究竟什么是资本？"><a href="#究竟什么是资本？" class="headerlink" title="究竟什么是资本？"></a>究竟什么是资本？</h3><p><img src="https://pic.imgdb.cn/item/630e1c4616f2c2beb12e9c4b.jpg"><br>马克思说：“<strong>资本不是任何物，而是一定的、社会的、属于一定历史社会形态的生产关系，它体现在一个物品上，给这个物品一种独特的社会性质。</strong>”</p>
-<p>也就是说，<strong>资本是生产关系，它可以通过“物”来体现</strong>。具体地说，资本不是某种特别的货币或是桌子、椅子等我们看的见的物质或财富，实际上它是生产关系，本质上是人与人的关系。<strong>这种关系它实际上反映了以物为媒介的、人对人的剥削关系</strong>，即<strong>资本也是一种由剩余劳动堆叠形成的社会权力</strong>，<strong>掌握了这种权力的人可以无偿地占有他人的劳动产品，对别人进行支配</strong>。这也是习总书记强调的对于资本的认识，关系坚持社会主义基本经济制度，关系改革开放基本国策，关系高质量发展和共同富裕，关系国家安全和社会稳定的所在。</p>
-<h3 id="资本的作用"><a href="#资本的作用" class="headerlink" title="资本的作用"></a>资本的作用</h3><p>从马克思对于资本的认识不难发现，<strong>资本的作用，就在于它能通过以“物”的操控来控制人。</strong>其<strong>积极作用</strong>的表现就是通过操控组织生产，创造社会财富。其<strong>消极作用</strong>就是通过“物”操控人、形成的剥削、占有及支配。</p>
-<p>简言之，我们<strong>社会主义市场经济对于资本的规范和引导，就在于资本能通过“物”的操控来实现组织社会生产、创造社会财富上，并要通过必要的手段，去掉资本的剥削、占有及支配的消极作用</strong>。</p>
-<h3 id="发挥资本积极作用，必然是个伟大斗争的过程"><a href="#发挥资本积极作用，必然是个伟大斗争的过程" class="headerlink" title="发挥资本积极作用，必然是个伟大斗争的过程"></a>发挥资本积极作用，必然是个伟大斗争的过程</h3><p>这一点在社会主义阶段，<strong>必然是个伟大斗争的过程</strong>。列宁在其著作《无产阶级专政时代的经济和政治》一文中指出，“<strong>在资本主义和共产主义之间有一个过渡时期，这在理论上是毫无疑义的。这个过渡时期不能不兼有这两种社会经济结构的特点或特性。这个过渡时期不能不是衰亡着的资本主义与生长着的共产主义彼此斗争的时期，换句话说，就是已被打败但还未被消灭的资本主义和已经诞生但还非常幼弱的共产主义彼此斗争的时期</strong>”。</p>
-<p>这就是说，在社会主义阶段，存在着共产主义因素与资本主义因素之间相互持续斗争的过程。毛泽东同志也曾指出：“<strong>革命的谁胜谁负，社会主义还是资本主义，要在一个很长的历史时期内才能解决。如果弄得不好，资本主义复辟将是随时可能的</strong>”。可见，这个斗争也必定是激烈的。这也是习总书记强调的要发挥伟大斗争精神的另一种解释所在。因为在社会主义阶段，<strong>规范和引导资本，包含着伟大斗争的历史必然性</strong>。</p>
-<h3 id="当前的资本操控"><a href="#当前的资本操控" class="headerlink" title="当前的资本操控"></a>当前的资本操控</h3><p>当前，资本的恶行已经暴露的十分露骨，大有操控之嫌。从恒大地产的2万多亿暴雷，对国民和国家的绑架，已经让成千上万的购房者深受其害。一个多星期前，<a href="https://www.ixigua.com/7133510207279366669">司马南向公安部、中央网信办实名举报：联想花钱操控舆论的事件</a>，加上之前爆出联想侵吞国有资产的料，再一次把资本操控的影子推上了浪尖。如果联想花钱操控舆论的事件成真，将是十分恶劣的事件，彻底暴露了资本对舆论的操控。</p>
-<iframe width="100%" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7133510207279366669?autoplay=1" referrerpolicy="unsafe-url" allowfullscreen></iframe>
-
-<p>联想靠“烧钱”成长起来的事实，大家一直在诟病。这也是大家对于联想资本操控并不陌生的所在。其实，在资本操控方面，联想还与滴滴有说不清的关系和瓜葛。滴滴的CEO是柳传志的女儿——柳青；优步中国当年的负责人柳甄，也是柳传志的侄女，后期优步“贱卖”给了滴滴，联想和滴滴也曾有过直接的战略合作，滴滴曾给联想提供企业用车服务。滴滴背后的国资背景也十分强大，看看下面这张图表，不禁让人毛骨悚然。我们的国有资本去了哪里？帮了哪些？这里面暗含了什么？不得不发人深省。</p>
-<p><img src="https://pic.imgdb.cn/item/630e1c4d16f2c2beb12ea200.jpg"></p>
-<p>联想对于自身负面的事实，动用资本操控媒体和舆论，对别人利用自己的合法收入在美国买个房，值得发起那么大的资本操控吗？作为吃瓜群众，我们可能又要一次见证奇迹，静观后续事件发展。</p>
-<p>滴滴前期利用黑产，操控数十万幽灵司机，不是几件惊动全国的恶行死亡事件，不知道当今滴滴该有多横，毕竟有那么强大的国资背景背书，资本何惧之有呢？这些这强大的资本把持，均非常人努力所能及。</p>
-<p>国本、根基要回归初心、使命上来，注定我们必须要警惕资本操控，无论是国有、还是私有，资本的操控必须予以坚决地打击，割掉资本操控、剥削的尾巴，让其只发挥组织生产、创造财富的积极作用，必将是一场硬仗。其间任何的调和，都只会让人们不断地看清资本作恶的面目，而积累社会矛盾，以至于引发变革。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>纵横捭阖</category>
-      </categories>
-      <tags>
-        <tag>社会观察</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网盘资源搜索利器</title>
-    <url>/archives/5c7af6de.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>网盘基本上就是个宝藏，什么图片、视频、音频、文档资源都可以在里面找到。找教程、找音乐、找文件模板、找图片等等，方便快捷，是搜索引擎之外的又一重要搜索渠道。</p>
-<h3 id="超能搜"><a href="#超能搜" class="headerlink" title="超能搜"></a>超能搜</h3><p>集合16个网盘搜索导航，不愧网盘资源搜索利器</p>
-<p><a href="http://www.chaonengso.com/">超能搜 - 百度网盘搜索神器 (chaonengso.com)</a></p>
-<p><img src="https://pic.imgdb.cn/item/630f623016f2c2beb1d789db.png"></p>
-<h3 id="U盘搜"><a href="#U盘搜" class="headerlink" title="U盘搜"></a>U盘搜</h3><p><a href="https://disk.upanso.com/search">https://disk.upanso.com/search</a></p>
-<p><img src="https://pic.imgdb.cn/item/630f623316f2c2beb1d78b53.png"></p>
-<h3 id="搜盘网"><a href="#搜盘网" class="headerlink" title="搜盘网"></a>搜盘网</h3><p><a href="http://www.soupan.info/">网盘搜索引擎 - 搜盘网 (soupan.info)</a></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1168,106 +1122,6 @@
       </categories>
       <tags>
         <tag>思想前沿</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数字营销好帮手</title>
-    <url>/archives/d27c11fe.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>数字营销基本上是我们数字经济时代，首选的营销手段。一个好的数字营销帮手，就能让我们的数字营销少走很多弯路。因此作为数字营销人，不断寻找数字营销手段，就是一项核心技能。</p>
-<h3 id="Similarweb"><a href="#Similarweb" class="headerlink" title="Similarweb"></a>Similarweb</h3><p>Similarweb可以分析任何网站的数据或者APP应用，并显示同类网站的情况，无愧是数字营销和研究的好帮手。</p>
-<p><img src="https://pic.imgdb.cn/item/630f74a716f2c2beb1e2693b.png"></p>
-<p>如搜百度网站的数字情况，<br><img src="https://pic.imgdb.cn/item/630f74a916f2c2beb1e26a6f.png"></p>
-<p>寻找其他网站，APP的数字营销渠道类似。</p>
-<p><strong>网址：</strong>点击下面链接访问！<br><a href="https://www.similarweb.com/zh/">站点流量 — 查看并分析任何网站 | Similarweb</a></p>
-<p><a href="https://www.shuzisharing.com/">数字素养空间 - 数字能力 (shuzisharing.com)</a></p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>网站工具分享</category>
-      </categories>
-      <tags>
-        <tag>网站工具分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用上这些英文写作神器，从此英语变母语</title>
-    <url>/archives/dda485e0.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic.imgdb.cn/item/630e33d116f2c2beb13be7a5.jpg"></p>
-<h3 id="QuillBot-SCl论文改写神器"><a href="#QuillBot-SCl论文改写神器" class="headerlink" title="QuillBot SCl论文改写神器"></a>QuillBot SCl论文改写神器</h3><p><a href="https://quillbot.com/">https://quillbot.com/</a></p>
-<h3 id="Wordvice-Al-Proofreader-英文自动校对工具"><a href="#Wordvice-Al-Proofreader-英文自动校对工具" class="headerlink" title="Wordvice Al Proofreader 英文自动校对工具"></a>Wordvice Al Proofreader 英文自动校对工具</h3><p>一款英文自动校对工具，可为您自动检测文本各类语言使用错误，完成准确高效的校对。</p>
-<p><a href="https://wordvice.ai/cn">https://wordvice.ai/cn</a></p>
-<h3 id="Grammarly-在线语法校对工具"><a href="#Grammarly-在线语法校对工具" class="headerlink" title="Grammarly 在线语法校对工具"></a>Grammarly 在线语法校对工具</h3><p>能够对语法，标点和拼写错误的地方进行检测，同时也会给出修改意见，支持Windows、Mac、ios和Android，可以查重</p>
-<p><a href="https://www.grammarly.com/">https://www.grammarly.com</a></p>
-<h3 id="languagetool-语法与拼写进行检查工具"><a href="#languagetool-语法与拼写进行检查工具" class="headerlink" title="languagetool 语法与拼写进行检查工具"></a>languagetool 语法与拼写进行检查工具</h3><p>用于对语法与拼写进行检查的工具，免费的在线检测软件，提供中文界面，具有英文校对功能，支持多种语言，能够给出错误原因，提供修改方法，直接复制段落，即可检测。</p>
-<p><a href="https://languagetool.org/">https:&#x2F;languagetool.org</a></p>
-<h3 id="Checker-拼写、语法和样式检测工具"><a href="#Checker-拼写、语法和样式检测工具" class="headerlink" title="Checker 拼写、语法和样式检测工具"></a>Checker 拼写、语法和样式检测工具</h3><p>能够即时检测并修改拼写、语法和样式错误，以不同颜色的Highlight出错误并修改意见，让文章句式更加准确。</p>
-<p><a href="http://www.1checker.com/">http://www.1checker.com/</a></p>
-<p><img src="https://pic.imgdb.cn/item/630e327216f2c2beb13b4416.jpg"></p>
-<h3 id="StyleWriter-英文润色软件"><a href="#StyleWriter-英文润色软件" class="headerlink" title="StyleWriter 英文润色软件"></a>StyleWriter 英文润色软件</h3><p>具有校对功能，指出语法、拼写、标点、大写字母等错误，将需要润色的地方用颜色标注出来，自动给出修改意见。</p>
-<p><a href="http://www.stylewriter-usa.com/">http://www.stylewriter-usa.com</a></p>
-<h3 id="writeful-自动词组搭配搜集"><a href="#writeful-自动词组搭配搜集" class="headerlink" title="writeful 自动词组搭配搜集"></a>writeful 自动词组搭配搜集</h3><p>能够自动从google的图书、学术、网页上搜集一个词组的搭配，并给出了每种搭配的百分比，还会配上例句，很直观，很方便。现在也推出了word插件，类似grammarly的风格，兼具语法提示和修改功能</p>
-<p><a href="https://www.writeful.com/">https:&#x2F;www.writeful.com/</a></p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>网站工具分享</category>
-      </categories>
-      <tags>
-        <tag>网站工具分享</tag>
       </tags>
   </entry>
   <entry>
@@ -1377,29 +1231,23 @@
       </tags>
   </entry>
   <entry>
-    <title>从《隐入尘烟》看教员同志成功的秘诀：人心的力量</title>
-    <url>/archives/2ba2beb.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="从《隐入尘烟》说来"><a href="#从《隐入尘烟》说来" class="headerlink" title="从《隐入尘烟》说来"></a>从《隐入尘烟》说来</h3><p>《隐入尘烟》，其实对我来说，电影里面的那些场景是比较熟悉和容易理解的，没有代差、没有不可言喻的领悟。但是看后，我还是得到了新的认识——人心的力量。这得感谢导演的用心和对底层人民的理解。</p>
-<p><img src="https://pic.imgdb.cn/item/631b74b716f2c2beb12fdb05.png"></p>
-<p>老四马有铁，可以说一生都在为三哥劳作，当三哥利用完他，当他要成为负担砸在三哥手里时，三哥却想起来要做为家人给他找个伴，成个家。就这样，马有铁跟同样命运的曹贵英结合到了一起。于是，两个命运悲惨、操劳的一生的人，才首次彼此感受到被关心、被照顾、被彼此理解，所以他们抛开一切世俗，用心、努力地过好自己的日子。他们勤劳、不怨天尤人、默默耕耘，习惯被忽略、被嘲笑。</p>
-<p><img src="https://pic.imgdb.cn/item/631b755616f2c2beb13063fd.png"></p>
-<h3 id="穷人的特点"><a href="#穷人的特点" class="headerlink" title="穷人的特点"></a>穷人的特点</h3><p>他们善良，为别人考虑的太多、惟独为自己考虑的太少。在村里的富豪——张永福，需要他的熊猫血救命时，他却毫无索求的无偿地一次又一次地捐献了自己的生命之血，即使是抽不出来也要满足别人需要，只希望富豪能够活下来，把富豪欠村里面的地租、水费还了，让村民有个好生活。</p>
-<p><img src="https://pic.imgdb.cn/item/631b758c16f2c2beb1308e65.png"></p>
-<p>尽管影片最后也没透露他救的富豪有没有救活生存下来，可以说这是<strong>极其精彩的一段，非常深刻</strong>。它揭露了富豪的富是怎么来的，一个穷人的穷又是怎么来的。<strong>富豪靠吸血，穷人靠无偿的献血，只为富豪能够把欠他们的，本该属于他们的钱还给他们</strong>。</p>
-<p>想象现在的富豪——恒大许先生，再看看广大的购房者，哪个不是把自己的一生都搭进去，无偿给许先生献血了，还要许先生好好活着，就为了把本该属于他们的东西要回来。可以说他们也是真正的雷锋，但是他们却没有雷锋那么好的运气。其中，对于这种深刻的刻画，还有很多，比如老三（三哥）的富怎么来的，为什么比老四马有铁过得好，都有深刻的刻画。</p>
-<p>他们不喜欢占人便宜、生怕欠了别人什么，宁可天下人负我，我不可负天下人。马有铁在自己唯一的寄托——妻子曹贵英死后，虽然自己已生无可念，但他还是秉守做人的原则，要把他们认为欠别人的东西逐一还清，然后安静地给世界一个告别。</p>
-<p><img src="https://pic.imgdb.cn/item/631b75fb16f2c2beb130e758.png"></p>
-<h3 id="穷人真的是差吗？"><a href="#穷人真的是差吗？" class="headerlink" title="穷人真的是差吗？"></a>穷人真的是差吗？</h3><p>把这些综合起来，基本就不难看清我们的一个底层社会现实。比如我们，都喜欢追逐名利，都希望出人头地、荣华富贵。并且，我们还坚定地认为，我们的荣华富贵是我们的奋斗所致，是我们的天经地义、天道酬勤而理所当然的；而穷人的穷困潦倒、悲惨的一生，是他们的不努力、傻、脑子不够聪明，人不够精明，他们理当如此。</p>
-<p>如果是这样，我想教员同志革命的一生，中国革命的道路，都不可能是走农村包围城市而取得成功的。因为那时的革命都是从老少边穷地区的农村开始的，是极度贫困的地方，就是放在当前，其中很多地方还是国家的深度贫困地区。那些农村地区，主要就是极度贫穷的、命运极度悲惨的农民，如果他们是不努力、傻、脑子不够聪明、人不够精明的话，革命和让中国人民站起来，教员同志靠他们取得胜利是绝对不可能的。但事实就是教员同志依靠他们取得了伟大的胜利。这是为何？而代表并依靠有知识、富裕、努力、聪明、精英们的蒋校长，却在他面前败得一塌糊涂，这又是为何？</p>
-<p><img src="https://pic.imgdb.cn/item/631b7acf16f2c2beb1350303.png"></p>
-<h3 id="我们为什么会产生这种认识？"><a href="#我们为什么会产生这种认识？" class="headerlink" title="我们为什么会产生这种认识？"></a>我们为什么会产生这种认识？</h3><p>唯一的解释，就是<strong>我们看到的、以为事实的东西，其实不是真实的世界的本来面目</strong>。<strong>我们习惯于被人的外在、物的外壳所蒙蔽，而正是带着这种蒙蔽了我们双眼的东西看事物，自然就看不清事物本来面目</strong>。</p>
-<p>而且，更恐怖的是，我们是群体性动物，我们是社会性的。<strong>我们不在乎世界的本来的面目，我们只在乎，我们大家是否都这样认为。只要是大家都这样认为的，对与不对、错与不错都无关紧要</strong>。</p>
-<h3 id="教员同志的发现"><a href="#教员同志的发现" class="headerlink" title="教员同志的发现"></a>教员同志的发现</h3><p>而教员同志却是个凡事喜欢调查研究，一定要看清事物本来面目的人，这也是他的理想信念、教义所宗。经过他的社会实践，他发现，穷人并不是不勤劳、不努力或愚蠢的，富豪也并不是勤劳、努力和聪明的。只不过是<strong>穷人，安分守己、善良，为别人考虑的太多、惟独为自己考虑的太少、不喜欢占人便宜、生怕欠了别人什么，宁可天下人负我，我不可负天下人</strong>；富人却是为富不仁、投机倒把的。因为他认为他的父亲就是这样富的，所以他对他父亲的富，并不感觉敬佩，也不觉得珍贵。</p>
-<p>更伟大的发现，就是他发现了穷人即使是这样穷，他们还依然坚守着他们的做事原则，生怕对他人照顾不周、遗憾、抱歉、没有给别人带来好处。这该是种什么力量驱使着他们呢？</p>
-<h3 id="人心的力量是伟大的，不惧生死"><a href="#人心的力量是伟大的，不惧生死" class="headerlink" title="人心的力量是伟大的，不惧生死"></a>人心的力量是伟大的，不惧生死</h3><p>我们不妨做一个简单的调查研究，我们就不难发现，只要我们多跟那些大家普遍认为的社会底层、穷人们接触一下。我们就会发现，他们身上有个重要的标签，就是“<strong>凭良心</strong>”——凭良心做事，凭良心说话，凭良心做人。而那些富豪，却从来没有这个说话和意识。这是什么力量驱使着他们？是人心的力量，以心换心的力量。相比富人，穷人更容易、更懂得以心换心。所以教员同志的创业就选在了老少边穷的农村作为根据地。这是为什么呢？</p>
-<p>试想一下，一个对自己敲骨吸髓、高高在上的富豪们都能毕恭毕敬的人，在遇到跟他们一样穷、一样苦难，还专门帮着他们、跟他们一道经营生计的教员同志们，他们不会以心换心地对教员同志他们好吗？在这样的地方，蒋校长的屠刀能有用吗？</p>
-<p><img src="https://pic.imgdb.cn/item/631b7eb516f2c2beb137f642.gif"></p>
-<p>人心的力量是伟大的，不惧生死。无论是《隐入尘烟》中，老四马有铁，对同样苦难的曹贵英的以心换心（曹贵英因给马有铁送饭，掉在水渠里淹死，马有铁在还完一切“欠债”之后，紧随曹贵英而去），还是教员同志创业，走农村包围城市，都是人心力量的体现——<strong>人心的力量是伟大的，不惧生死</strong>。<strong>一个能掌握人心力量的人，必定是个成功的人，这不是财富或名誉地位所能衡量的</strong>。这或许就是大大同志所讲的，人心就是最大的政治所在吧。</p>
+    <title>用上这些英文写作神器，从此英语变母语</title>
+    <url>/archives/dda485e0.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic.imgdb.cn/item/630e33d116f2c2beb13be7a5.jpg"></p>
+<h3 id="QuillBot-SCl论文改写神器"><a href="#QuillBot-SCl论文改写神器" class="headerlink" title="QuillBot SCl论文改写神器"></a>QuillBot SCl论文改写神器</h3><p><a href="https://quillbot.com/">https://quillbot.com/</a></p>
+<h3 id="Wordvice-Al-Proofreader-英文自动校对工具"><a href="#Wordvice-Al-Proofreader-英文自动校对工具" class="headerlink" title="Wordvice Al Proofreader 英文自动校对工具"></a>Wordvice Al Proofreader 英文自动校对工具</h3><p>一款英文自动校对工具，可为您自动检测文本各类语言使用错误，完成准确高效的校对。</p>
+<p><a href="https://wordvice.ai/cn">https://wordvice.ai/cn</a></p>
+<h3 id="Grammarly-在线语法校对工具"><a href="#Grammarly-在线语法校对工具" class="headerlink" title="Grammarly 在线语法校对工具"></a>Grammarly 在线语法校对工具</h3><p>能够对语法，标点和拼写错误的地方进行检测，同时也会给出修改意见，支持Windows、Mac、ios和Android，可以查重</p>
+<p><a href="https://www.grammarly.com/">https://www.grammarly.com</a></p>
+<h3 id="languagetool-语法与拼写进行检查工具"><a href="#languagetool-语法与拼写进行检查工具" class="headerlink" title="languagetool 语法与拼写进行检查工具"></a>languagetool 语法与拼写进行检查工具</h3><p>用于对语法与拼写进行检查的工具，免费的在线检测软件，提供中文界面，具有英文校对功能，支持多种语言，能够给出错误原因，提供修改方法，直接复制段落，即可检测。</p>
+<p><a href="https://languagetool.org/">https:&#x2F;languagetool.org</a></p>
+<h3 id="Checker-拼写、语法和样式检测工具"><a href="#Checker-拼写、语法和样式检测工具" class="headerlink" title="Checker 拼写、语法和样式检测工具"></a>Checker 拼写、语法和样式检测工具</h3><p>能够即时检测并修改拼写、语法和样式错误，以不同颜色的Highlight出错误并修改意见，让文章句式更加准确。</p>
+<p><a href="http://www.1checker.com/">http://www.1checker.com/</a></p>
+<p><img src="https://pic.imgdb.cn/item/630e327216f2c2beb13b4416.jpg"></p>
+<h3 id="StyleWriter-英文润色软件"><a href="#StyleWriter-英文润色软件" class="headerlink" title="StyleWriter 英文润色软件"></a>StyleWriter 英文润色软件</h3><p>具有校对功能，指出语法、拼写、标点、大写字母等错误，将需要润色的地方用颜色标注出来，自动给出修改意见。</p>
+<p><a href="http://www.stylewriter-usa.com/">http://www.stylewriter-usa.com</a></p>
+<h3 id="writeful-自动词组搭配搜集"><a href="#writeful-自动词组搭配搜集" class="headerlink" title="writeful 自动词组搭配搜集"></a>writeful 自动词组搭配搜集</h3><p>能够自动从google的图书、学术、网页上搜集一个词组的搭配，并给出了每种搭配的百分比，还会配上例句，很直观，很方便。现在也推出了word插件，类似grammarly的风格，兼具语法提示和修改功能</p>
+<p><a href="https://www.writeful.com/">https:&#x2F;www.writeful.com/</a></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1430,84 +1278,22 @@
 			</script>
 		]]></content>
       <categories>
-        <category>纵横捭阖</category>
+        <category>网站工具分享</category>
       </categories>
       <tags>
-        <tag>思想前沿</tag>
+        <tag>网站工具分享</tag>
       </tags>
   </entry>
   <entry>
-    <title>从资本的角度来看我们当前为什么会那么卷？</title>
-    <url>/archives/e49512ed.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="资本的天性"><a href="#资本的天性" class="headerlink" title="资本的天性"></a>资本的天性</h3><p>内卷，可以说是已经深入到了我们各行各业的现状，国内基本都是一片红海，各个行业门槛高筑，大家都陷入到了这场无止境的内卷中，不知道何时是个头。今天就从资本的角度，来看看内卷。</p>
-<p><img src="https://pic.imgdb.cn/item/6314bd7716f2c2beb19371ad.jpg"></p>
-<p>我们知道，在资本的生产体系中，小到开个店，大到公司集团，我们总是希望我们的店越开越大、公司发展越来越大，而绝不是越来越小或停滞不前。这便是资本最原始的动力，也是本质。资本天性就是要做大、无限制的去扩张，否则，资本生产体系的维持就成了问题。但是资本一扩张，就会使人难受，要么外卷、要么内卷。</p>
-<h3 id="资本生产因素无法克服的魔咒"><a href="#资本生产因素无法克服的魔咒" class="headerlink" title="资本生产因素无法克服的魔咒"></a>资本生产因素无法克服的魔咒</h3><p><img src="https://pic.imgdb.cn/item/6314b8bd16f2c2beb18dfbff.jpghe"></p>
-<p>这也是马克思所指出的，资本主义社会所无法克服的。资本的生产组织方式，必然导致资本主义的生产体系。当社会的一切生产要素靠资本调动时，就对资本产生了依赖，而资本它的本性又是扩展的，且是无限扩展的，否则，资本将使人难受。因为，资本一旦无法扩张，它的生产经营就受到限制，甚至难以为继， 而必须不竭其力的为其寻找可以扩张的地方。</p>
-<h3 id="内卷，资本生产因素的必然存在"><a href="#内卷，资本生产因素的必然存在" class="headerlink" title="内卷，资本生产因素的必然存在"></a>内卷，资本生产因素的必然存在</h3><p>当资本可以从外部获取资源来扩张自己的时候，资本驱使资源走向外卷，从外部获取资源，把整体利益格局做大。此时，资本体系内部不感觉难受，相反感受到的是喜悦。当资本无法从外部吸取资源进行扩张时，就只能从内部进行竞争，试图从内部进行压榨来扩张自己的资本，这样便走向了内卷。此时，资本体系内部感觉极度难受。这样就是当前我们普通感觉难受的所在。因为，处在内卷中，大家都在彼此拼刺刀。资本为了无止境的扩张，不得不使得大家无止境的拼刺刀。</p>
-<p><img src="https://pic.imgdb.cn/item/6314be1716f2c2beb194e999.jpg"></p>
-<p>同时，内卷是资本扩张的必然。有资本生产因素的存在，内卷也会必然存在。内卷的程度，跟资本从外部获取资源的能力成反比。当前，我们剩余的生产力和产品，找不到合适的市场，无法从外部获取资本所需要的资源，而不得不使得资本从内部扩张，对资本体系内部进行榨取，以换取自身的扩张资源。由此，也可理解，一边多年前西方国家为什么要全球殖民。因为不殖民，资本体系内部难受、矛盾重重。对外殖民却让资本得到扩张，从而缓解了内部矛盾。</p>
-<h3 id="打破资本引起内卷的途径"><a href="#打破资本引起内卷的途径" class="headerlink" title="打破资本引起内卷的途径"></a>打破资本引起内卷的途径</h3><p>打破资本内部扩张引起内卷的途径，无非三条：一是等待生产力的新突破，来给资本创造新的资源，以满足其扩张的需要；二是对引导资本向外获取资源；这两条打破内卷的方法，虽只是暂时的，但是也不是轻易能达成的。要永久的解决资本引起的内卷，必然要寻找不依赖于资本的生产因素，组织其比资本更具活力的生产因素，这便是第三条途径。资本的生产活力之所以大，就在于它的无限扩张性。有限的人生，追求了无限的扩张。这便是资本扭曲了人性，人性也由资本充分体系出来。由此，资本体系的人性，也有着资本的影子。</p>
-<h3 id="我们的内卷将会更甚"><a href="#我们的内卷将会更甚" class="headerlink" title="我们的内卷将会更甚"></a>我们的内卷将会更甚</h3><p>由此不难发现，在现有的国情下，我们的内卷还会持久，其程度一定还会超过世界上任何一个国家和民族。这是资本生产体系的因素所决定的。由此，我们将会比历史上、世界上任何一个国家的人民都会深刻体会到带着资本影子的人性。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>纵横捭阖</category>
-      </categories>
-      <tags>
-        <tag>思想前沿</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>亲测有效地科学上网方法</title>
-    <url>/archives/4661d43f.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="全球化、数字化的必然趋势"><a href="#全球化、数字化的必然趋势" class="headerlink" title="全球化、数字化的必然趋势"></a>全球化、数字化的必然趋势</h3><p>数字化时代，数字生存能力，直接决定了我们的生存、活动范围。人们已经弄不清楚，究竟是数字化加速了全球化，还是全球化加速了数字化。数字化与全球化已经密不可分。</p>
-<p>无论是研究全球化、还是研究数字化，二者都是任何一方的重要研究内容。在数字化的过程中，全球化首当其中。在全球化过程中，数字化是其中的重要内容。数字化必然走向全球化、全球化必然数字化。在个人数字化生存当中，走向数字化的同时，必然走向全球化。</p>
-<p>世界已经不是一个孤立的世界，网络数字时代，带来的众创个体的崛起，其本身蕴含着巨大的创造力和生存力，它不同于工业时代、信息时代，它是真正的数字时代。任何事物的发展，不再是个局部的发展，而是整体、全局的协同。在个人数字化生存当中，面临的不是某个地理上的生存，而是由网络连接起来的全球。</p>
-<p>这就需要我们有全球数字的生存力，我们不能生存在某个局部的<strong>信息茧房</strong>里，而这就是给大家介绍科学上网的所在。</p>
-<h3 id="科学上网"><a href="#科学上网" class="headerlink" title="科学上网"></a>科学上网</h3><p>科学上网，顾名思义，是科学、是文明、是生产力的上网，而不是落后的、倒退的、违反人伦、释放阴暗的上网。这里面自然要有抵制低质内容和服务的能力，还要有辨别是非、不参与任何可能违反相关法律、规则的行为，不参与别有用途的政治有关的领域。这是我们科学上网的精神和约束所在，是我们每个科学上网的人的共同行为准则。</p>
-<p>具体的我们该怎么科学上网呢？网上科学上网的方法很多，其中良莠不齐，很多要么是付费，要么是根本无法使用的东西，其结果不是浪费了时间，就是掉入了别人的圈套。为了打造一个清爽的网络空间是我们共同的责任，所介绍的每一种方法，都应该是亲测有效的。</p>
-<p>今天就给大家介绍两个亲测有效的科学上网方法：一个是免费高速的科学上网方法；一个是付费价廉高速的科学上网方法。</p>
-<h3 id="连接麻烦但免费高速的科学上网方法"><a href="#连接麻烦但免费高速的科学上网方法" class="headerlink" title="连接麻烦但免费高速的科学上网方法"></a>连接麻烦但免费高速的科学上网方法</h3><p>该方法因为是国外一个学术项目，据官方介绍好像是日本的。一提起，日本大家都没有好印象，毕竟他们干的坏事太多了。但是科学上网，该用的、能用的，还是可以用一用的。因为免费的，它的很多节点的维护存在不及时，因此，连接就是不那么容易的事情，需要不断地去尝试连接各个节点，是个不容易的活，可以说十分难用。但是一旦连接上，科学上网的速度和质量就非常优质的。要使用它，我们首先需要去官网下载一个客户端软件。</p>
-<p><img src="https://pic.imgdb.cn/item/6327275716f2c2beb1adba52.png"></p>
-<p><a href="https://www.vpngate.net/cn/">下载官方网址</a><br><a href="https://www.vpngate.net/cn/">https://www.vpngate.net/cn/</a></p>
-<p>国内默认，是无法打开的。官方网站也就提供给我们一个科学上网的客户端软件。需要客户端软件的，可以通过<strong>本站微信联系获取安装程序</strong>。</p>
-<p><img src="https://pic.imgdb.cn/item/6327277d16f2c2beb1ae0840.png"></p>
-<p>客户端安装后，打开软件，选择 VPN Gate 公共VPN中继服务器，就可以打开很多列表的节点。</p>
-<p><img src="https://pic.imgdb.cn/item/6327279c16f2c2beb1ae4147.png"></p>
-<p>双击其中任何一个节点，就可以连接到外网，但是<strong>成功率极低</strong>。对没有上网特定需求想白嫖的，可以试试。</p>
-<h3 id="付费价廉高速的科学上网方法"><a href="#付费价廉高速的科学上网方法" class="headerlink" title="付费价廉高速的科学上网方法"></a>付费价廉高速的科学上网方法</h3><p>月租9.99元，速度可在YouTube上看4k视频，每天3毛钱，实属不错。</p>
-<p><img src="https://pic.imgdb.cn/item/632727b716f2c2beb1ae70ca.png"></p>
-<p>官方有详细的操作教程，也有客服端软件下载，安装指引操作就可以了。</p>
-<p><a href="https://www.awcloud.xyz/#/register?code=mtEqWIxT">官网：点击这里</a></p>
-<p><strong>再次说明，科学上网，帮助我们提升自己的同时，切记要有上网行为和安全的防范能力，不要参与违反相关规定的行为！！！</strong></p>
+    <title>网盘资源搜索利器</title>
+    <url>/archives/5c7af6de.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>网盘基本上就是个宝藏，什么图片、视频、音频、文档资源都可以在里面找到。找教程、找音乐、找文件模板、找图片等等，方便快捷，是搜索引擎之外的又一重要搜索渠道。</p>
+<h3 id="超能搜"><a href="#超能搜" class="headerlink" title="超能搜"></a>超能搜</h3><p>集合16个网盘搜索导航，不愧网盘资源搜索利器</p>
+<p><a href="http://www.chaonengso.com/">超能搜 - 百度网盘搜索神器 (chaonengso.com)</a></p>
+<p><img src="https://pic.imgdb.cn/item/630f623016f2c2beb1d789db.png"></p>
+<h3 id="U盘搜"><a href="#U盘搜" class="headerlink" title="U盘搜"></a>U盘搜</h3><p><a href="https://disk.upanso.com/search">https://disk.upanso.com/search</a></p>
+<p><img src="https://pic.imgdb.cn/item/630f623316f2c2beb1d78b53.png"></p>
+<h3 id="搜盘网"><a href="#搜盘网" class="headerlink" title="搜盘网"></a>搜盘网</h3><p><a href="http://www.soupan.info/">网盘搜索引擎 - 搜盘网 (soupan.info)</a></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1595,25 +1381,15 @@
       </tags>
   </entry>
   <entry>
-    <title>教条是数字化生存的大敌</title>
-    <url>/archives/31b447b.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="反教条启蒙"><a href="#反教条启蒙" class="headerlink" title="反教条启蒙"></a>反教条启蒙</h3><p><img src="https://pic.imgdb.cn/item/632db18316f2c2beb1ccbee4.jpg"></p>
-<p>“<strong>教条</strong>”这个词，我们一般的启蒙多见于教员同志的著作，比如他的《反对本本主义》就是为了反对当时红军中的教条主义思想而写的。那时没有用“教条主义”这个名称，而叫它做“本本主义”。</p>
-<p>可以说，从古至今，任何一个有所成就的人，没有一个不是反对“本本主义”的先锋和表率，秦皇汉武、唐宗宋祖，以及教员同志，他们每一个都是跳出教条行事逻辑的典范，而才成为一代有所开拓的雄主。</p>
-<p><img src="https://pic.imgdb.cn/item/632db1b216f2c2beb1ccf882.png"></p>
-<h3 id="总结规律"><a href="#总结规律" class="headerlink" title="总结规律"></a>总结规律</h3><p>历史的规律、事物发展的规律，一再告诉我们，<strong>凡事没有开拓，等待它的必定是衰亡</strong>，除此，没有任何其他例外！从古至今的政权更替、家族兴盛无不受这一规律的支配。无论是创业者刘邦、还是创业者朱元璋，无论其如何为其子孙用心良苦，并用尽手段，一旦遇到不能继续开拓的继承者，衰亡的命运就由此开始，灭亡也就由此诞生。对封建统治者是这样，对一个家庭也是这样。父亲或祖父一代拼命努力，积极开拓，只要有一代子孙无开拓之功，便难以维持家族长久的兴旺。所以，<strong>开拓才是跳出历史的周期、富不过三代魔咒的良方</strong>。</p>
-<p><img src="https://pic.imgdb.cn/item/632db1ce16f2c2beb1cd1e04.jpg"></p>
-<p>或许有人会问，这似乎跟文章主题不符。其实，这个例子正是用来帮助大家理解，<strong>根深蒂固的“教条”对一个国家、民族、家族以至于个人是多么的不利</strong>。</p>
-<p><strong>“教条”从古至今，一直根植于我们意识的深处</strong>，同时，在我们后天的学校教育中、学习中、工作中、生活中，都无处不在的加强“教条”的训练。从而使我们祈希望于书本中找到答案，按照成功学去取得成功。可现实的情况是，越是紧守书本、照搬别人的做法，人生失败的越惨。若是大家族，加上圣旨样的祖训，墨守成规，让“教条”固化在自己的行事逻辑中，在一个<strong>快速变化的社会</strong>，根本就是一切人间悲剧的来源。</p>
-<h3 id="可怕的现象"><a href="#可怕的现象" class="headerlink" title="可怕的现象"></a>可怕的现象</h3><p>改革开放的40多年的历程中，28年的网络化、信息化发展，把知识的更新，几乎压缩到了一年一更新的频度。数字化时代的社会无疑是个更快速变化迭代的社会，知识的更新，达到以月为频度的更新是在所难免的。在这个快速更新的时代，<strong>谨守“教条”无疑是死路一条</strong>。</p>
-<p><img src="https://pic.imgdb.cn/item/632db1fe16f2c2beb1cd55bc.jpg"></p>
-<p>特别是移动互联网的飞速发展，自媒体的崛起，信息和知识早已不再是稀缺的东西。相反，我们拥有的信息太多，甚至多到无从下手。但与此同时，真正有用的信息和知识却寥寥无几。这是<strong>信息、知识异化的必然，必然加速人的异化</strong>。</p>
-<p>算法的推荐和人的主观愿望共同了决定他（她）看到的是信息还是噪声。无论是算法的投其所好，让人生活在“<strong>信息茧房</strong>”里，还是别有用心的传递，海量的信息或标榜的知识都会像潮水一样将人淹没，让其失去丧失思考和能动性，被“教条”为机器。从而引发出一种可怕的现象，<strong>机器向人的方向发展，人却像机器一样生活</strong>。</p>
-<p><img src="https://pic.imgdb.cn/item/632db21d16f2c2beb1cd7f74.jpg"></p>
-<h3 id="教条忽略“情境”"><a href="#教条忽略“情境”" class="headerlink" title="教条忽略“情境”"></a>教条忽略“情境”</h3><p>与此同时，<strong>大数据的陷阱更会加速“教条”思维的深化</strong>。为什么这样说呢？大数据标榜的生产力，十分诱人，大有一切被大数据、人工智能取代之势。可忘却了<strong>大数据、人工智能的底层逻辑是依赖于历史的数据、已经发生的数据</strong>。仅仅依赖这些数据出发的知识和经验，这不正和历史上、人类社会上，一切“教条”同出一辙吗？！</p>
-<p>因为，它们都<strong>忽略了一个根本的东西——现场的环境</strong>，也就是北京大学教授胡泳在其著作<a href="https://u.jd.com/XI7cnFa">《数字位移 重新思考数字化》</a>中称之为“<strong>情境</strong>”的东西。但凡忽视掉这个东西的知识和经验，没有一个不落入“教条”的窠臼里，难免不被淘汰和抛弃的命运。</p>
-<p><img src="https://pic.imgdb.cn/item/632db25116f2c2beb1cdbe94.jpg"></p>
-<h3 id="数字化生存所在"><a href="#数字化生存所在" class="headerlink" title="数字化生存所在"></a>数字化生存所在</h3><p>这无疑不说明着，在数字化生存中，唯有在学习的同时，注重“<strong>情境</strong>”，直击事物的本质，加以运用，以<strong>开拓</strong>的行事逻辑能力，才是我们站住脚跟，发展事业的核心竞争力，否则，我们就要被“教条”裹挟，成为它的俘虏，难免被绞杀的命运。这也就是为什么<strong>教科书、成功学里面没有一个按照“本本”能取得人生成功的</strong>所在。</p>
+    <title>数字营销好帮手</title>
+    <url>/archives/d27c11fe.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>数字营销基本上是我们数字经济时代，首选的营销手段。一个好的数字营销帮手，就能让我们的数字营销少走很多弯路。因此作为数字营销人，不断寻找数字营销手段，就是一项核心技能。</p>
+<h3 id="Similarweb"><a href="#Similarweb" class="headerlink" title="Similarweb"></a>Similarweb</h3><p>Similarweb可以分析任何网站的数据或者APP应用，并显示同类网站的情况，无愧是数字营销和研究的好帮手。</p>
+<p><img src="https://pic.imgdb.cn/item/630f74a716f2c2beb1e2693b.png"></p>
+<p>如搜百度网站的数字情况，<br><img src="https://pic.imgdb.cn/item/630f74a916f2c2beb1e26a6f.png"></p>
+<p>寻找其他网站，APP的数字营销渠道类似。</p>
+<p><strong>网址：</strong>点击下面链接访问！<br><a href="https://www.similarweb.com/zh/">站点流量 — 查看并分析任何网站 | Similarweb</a></p>
+<p><a href="https://www.shuzisharing.com/">数字素养空间 - 数字能力 (shuzisharing.com)</a></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1644,82 +1420,25 @@
 			</script>
 		]]></content>
       <categories>
-        <category>数字化</category>
+        <category>网站工具分享</category>
       </categories>
       <tags>
-        <tag>数字能力</tag>
+        <tag>网站工具分享</tag>
       </tags>
   </entry>
   <entry>
-    <title>数字化转型，首先得转变驱动我们转型的底层逻辑</title>
-    <url>/archives/f3a4fbd6.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字化、智能化是我们弯道超车的赛点"><a href="#数字化、智能化是我们弯道超车的赛点" class="headerlink" title="数字化、智能化是我们弯道超车的赛点"></a>数字化、智能化是我们弯道超车的赛点</h3><p>从1994年中国全功能接入互联开始，到2022年的28年时间里，中国历经了万维网、互联网、移动互联网的浪潮。中国社会也经历了网络化、信息化的飞速发展，现在正在步入数字化和智能化进程。可以说，44年的改革开放中，互联网发展的28年里，为中国的经济腾飞、社会转型提供了最为关键和主要的动力。毫无疑问地说，我们是抓住了网络化、信息化这波红利的国家，并跻身世界网络化、信息化的第二。因此，我们国家也迅速跻身为全球第二大经济体，直逼美国。可以预见地说，只要我们抓住当前数字化、智能化这波红利，在未来5~10年的时间里，我们必然成为第一大经济体。这是弯道超车的赛点。</p>
-<p><img src="https://pic.imgdb.cn/item/6329e07916f2c2beb130087c.jpg"></p>
-<p>或许你会问，为什么会是数字化、智能化？我们不防回顾一下，20世纪90年代以来，数字和通信技术的发展带来的互联网、移动互联网，从工具化跃迁到社会化，以不断地加强联系方式，就已经深刻变革了我们的社会，颠覆了生产和商业的运行方式以及人们的生活和思维方式。今天，数字科技随着5G技术、大数据、人工智能，必然不断地在加强联系的基础上，加上数字化、智能化，而进一步加速了一个全新的生产生活体系的建立，其变革将更加迅猛和深刻。这种迅猛和深刻的变化，必然带来社会的飞速发展。</p>
-<p><img src="https://pic.imgdb.cn/item/6329e28c16f2c2beb1322d0e.jpg"></p>
-<h3 id="都面临数字化转型"><a href="#都面临数字化转型" class="headerlink" title="都面临数字化转型"></a>都面临数字化转型</h3><p>要实现数字化、智能化，首当其冲的就是要实现数字化转型，智能化也不例外。因为智能化必须建立在数字化提供的全时数据基础上，没有数字化提供的全时数据，智能化就会成为无水之源、无本之木。</p>
-<p>数字化转型，无论是对企业，还是对个人都是要面对的。因为只有这样，才能更好地适应数字化、抓住即将来临的数字化红利。</p>
-<p><img src="https://pic.imgdb.cn/item/6329e2ec16f2c2beb132893d.jpg"></p>
-<h3 id="数字化转型的底层思维"><a href="#数字化转型的底层思维" class="headerlink" title="数字化转型的底层思维"></a>数字化转型的底层思维</h3><p>但怎么来完成数字化转型，从而抓住这波数字化红利呢？抛开技术层面的探讨，我们做事，首先就要建立一套符合事物发展的认识框架，一套抓住事物本质的底层逻辑，只有这样，我们才能把握住事物朝着我们预期的方向发展。</p>
-<p>那么问题的关键就来了，我们该用什么样的底层逻辑来指导我们正在面临的数字化转型呢？或许北京大学教授胡泳在其著作<a href="https://u.jd.com/XI7cnFa">《数字位移 重新思考数字化》</a>一书中给我们提供了指导。</p>
-<p><a href="https://u.jd.com/XI7cnFa"><img src="https://pic.imgdb.cn/item/6329e37916f2c2beb1331f14.png"></a></p>
-<p>他在开篇<a href="https://u.jd.com/XI7cnFa">《原子与比特》</a>一文中提出了“原子思维”和“比特思维”，指出数字化时代，思维的底层逻辑是移动比特，而不是原子。原子思维是工业化时代的认知思维。现在的问题是，我们在面对比特世界的时候，却秉持的是”原子思维“，以原子思维来对待当前的数字化转型，是数字化过程中一个共同病状。</p>
-<p>想想汽车刚被发明出来时，人们对它认识仅仅停留在”无马的马车“，我们认知事物的方式总是通过现有的事物去定义新的事物。这是我们病状存在的根本所在。</p>
-<p><img src="https://pic.imgdb.cn/item/6329e33916f2c2beb132d17a.jpg"></p>
-<p>在数字化转型中，我们通过反思”无马的马车“来看待数字化。首先是原子世界的认知方式向比特世界的认知方式的转变。只有完成这个底层逻辑的转变，才能帮助我们实现数字化转型。</p>
-<p>与此同时，在数字化转型过程中，强调比特思维的同时，并不是完全抛弃原子，比特与原子其是一个对立统一的存在。这是在数字化生存当中的一个重要能力——悖论管理能力，我们需要在矛盾、对立中，去把握统一。比如，制造业在转型过程中，如果将比特思维和原子思维统一，将会迎来”个人制造“、”社群制造“、”增材制造“、”分子制造“、以至于”机器自主制造“的时代，从而建立起”物的自主生产体系“。对生命而言，碳基生命体也将不再是唯一的存在形式，走向”碳基+硅基“、”自然智能+人工智能“的结合体生命将会展现。</p>
-<p><img src="https://pic.imgdb.cn/item/6329e1f916f2c2beb1319725.jpg"></p>
-<p>如此这般巨大的社会变革、以至于人类变革，所带来的社会生产力和财富，必然是以往任何变革所不及的，抓住数字化、智能化的红利，实现弯道超车，首先就是完成我们数字化转型底层思维的建立。从工业时代的原子思维，转变到数字时代的比特思维。这个转变谁完成得越快、越早，谁就抢得先机。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>掌握宇宙第一法则，培养宇宙第一能力</title>
-    <url>/archives/9dc1f124.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/634c297116f2c2beb1df1d92.jpg"></p>
-<h3 id="宇宙第一法则"><a href="#宇宙第一法则" class="headerlink" title="宇宙第一法则"></a>宇宙第一法则</h3><p><strong>矛盾法则</strong>，当之无愧为宇宙第一法则。这是教员同志总结给我们的<strong>认识事物的遗产</strong>。</p>
-<p>教员同志在《矛盾论》中指出，“矛盾存在于一切事物法则的过程中”，“每一事物的发展过程中存在着自始至终的矛盾运动”，“没有什么事物是不包含矛盾的，没有矛盾就没有世界“。这使得我们不难发现，<strong>宇宙的第一法则就是矛盾</strong>。宇宙中任何事物的变化、发展都离不开矛盾，抓住了矛盾就抓住了事物的本质、抓住了矛盾规律，就抓住了宇宙中各个事物变化、发展的规律。<br><img src="https://www.gpbctv.com/uploads/20210530/zip_16223593014kyzq7.jpg"></p>
-<h3 id="对立统一"><a href="#对立统一" class="headerlink" title="对立统一"></a>对立统一</h3><p>与此同时，教员同志还指出，对于矛盾的把握和运用原则是“<strong>对立统一</strong>”原则，<strong>在对立中把握统一，在统一中把握住对立</strong>。具体的方法，是要抓住事物“<strong>质的多样性</strong>”。理解了事物“质的多样性”，就理解了事物在变化、发展过程中的各种联系，从而理解事物的本质，找到改造事物的道路和方法。</p>
-<h3 id="质的多样性"><a href="#质的多样性" class="headerlink" title="质的多样性"></a>质的多样性</h3><p>毫无疑问，对于事物”质的多样性“理解，就是解决问题的突破口。<strong>对于“质的多样性”的理解和把握水平，就决定了解决问题能力高低、甚至是成败</strong>。因此，培养抓住事物“质的多样性”能力，也就显得尤为重要。但怎么来培养这种能力呢，我们不防<strong>先锻炼自己多方面、多位置、多角度、多体验、多场景地来看待同一个事物的能力，进而达到把一个事物的各种联系弄清楚的水平</strong>。</p>
-<h3 id="前木匠出身的副总理对”质的多样性“理解"><a href="#前木匠出身的副总理对”质的多样性“理解" class="headerlink" title="前木匠出身的副总理对”质的多样性“理解"></a>前木匠出身的副总理对”质的多样性“理解</h3><p>前木匠出身的副总理李瑞环在对于“质的多样性”理解上，给我们作出了榜样。他以自己最为熟悉的木匠行业为例进行了说明。他说：“列宁讲，具体之所以具体，表现为过程，表现为综合，表现为质的多样性。这话单从字面理解比较费劲，如果从生活中去理解就比较容易。比如，一块木头是什么?就是一块木头，这个回答并没有错，但它还是什么?这就要看具体情况。拿它来做家具就是原料，拿它来烧火就是燃料，拿它来挑水就是工具，拿它来和坏人斗争就是武器，拿它来行凶打劫就是凶器，拿到法庭就是证据，但还是那块木头。这就是质的多样性”。</p>
-<h3 id="教员的告诫"><a href="#教员的告诫" class="headerlink" title="教员的告诫"></a>教员的告诫</h3><p>同时教员同志，还告诫我们，在研究问题，在找事物“质的多样性”的过程中，<strong>“忌带主观性、片面性和表面性”</strong>。而这就成了很多人的拦路虎。我们<strong>根本发现不了我们自身的主观性，我们看世界根本就是盲人摸象，我们总喜欢走马观花</strong>。<strong>我们时常被各种世俗、各种经验、各种现象所规定着，而忘记了要看事物的本来面目</strong>。</p>
-<h3 id="世俗是我们的障碍"><a href="#世俗是我们的障碍" class="headerlink" title="世俗是我们的障碍"></a>世俗是我们的障碍</h3><p>比如，在功利的社会，我们<strong>喜欢用钱、用地位、用权贵来衡量人、来判别人成功</strong>。我们更喜欢用<strong>看得见的</strong>来衡量<strong>看不见的</strong>。我们习惯于<strong>看到的改变</strong>，而看不上<strong>看不到的改变</strong>。我们习惯于用<strong>外在的证明</strong>来认可<strong>别人内在的拥有</strong>等等。我们<strong>总认为</strong>，<strong>权位越高、金钱越多，人的能力越强</strong>。<strong>要想反驳得看实力，得要拿出更硬的东西来证明</strong>。这便是我们俗人的常态，难免不落入形而上学的窠臼。究其根本，一方面是我们很多人，本身的能力和水平就限制了我们自己对这个世界的认识；二是外界的影响和教训更加把我们锁定在世俗和形式的茧房里；三是，我们很少对自己提出批评，更不习惯批评自己。因此，<strong>我们对于世界的认识，在盲人摸象的道路上越陷越深</strong>。</p>
-<h3 id="逐”道“而行，方能掌握宇宙第一法则"><a href="#逐”道“而行，方能掌握宇宙第一法则" class="headerlink" title="逐”道“而行，方能掌握宇宙第一法则"></a>逐”道“而行，方能掌握宇宙第一法则</h3><p>而掌握宇宙第一法则的人，首先就是<strong>鄙弃</strong>各种主观、片面和表面的高手，是<strong>搞</strong>事物客观性、全面性和本质性的<strong>行家里手</strong>，他们看待事物是<strong>抓“道”的所在</strong>。<strong>逐“道”而行</strong>，便是他们的行事准则。这也是教员同志屹立不倒的所在。他<strong>即使</strong>环境再恶劣、条件再艰苦、对手再强大，在他面前都只不过是<strong>世俗而已</strong>。蒋校长败在这么一位教员手下，一点也不冤枉。头号军事强国美国带领的联合国军，败在这么一位教员同志带领下的破衣烂衫、装备靠敌人供给的农民自卫军下，也一点也不冤枉。因为他们都犯了一个同样的错误。<strong>没有掌握“道”</strong>，却带了<strong>世俗的眼睛</strong>来看待并决策了这个世界，却忘记了要去看这个<strong>世界的本来面目</strong>。蒋校长以为，位高权重，就是能力和本领的象征，头号军事强国美国以为船坚炮利就是实力。其实，这些都<strong>只不过</strong>是别人的<strong>努力方向</strong>和<strong>专注</strong>并不在此而已，<strong>并不代表</strong>别人没有这个能力和实力。他们活生生的把一个书生、一个教书匠培养成了一个伟人。他们更活生生地证明了自己世俗的失败！<br><img src="https://pic1.imgdb.cn/item/634c29b616f2c2beb1df9bff.jpg"></p>
-<h3 id="从来没有什么神仙、皇帝"><a href="#从来没有什么神仙、皇帝" class="headerlink" title="从来没有什么神仙、皇帝"></a>从来没有什么神仙、皇帝</h3><p>由此，这便是我们要锻炼的宇宙第一能力的所在，<strong>不要掉入各种主观、片面和表面的窠臼，不要忘记、要注重看待事物的本来面目，一切从事物的本来面目出发</strong>。就像越秀公园，孙中山遗嘱碑下，一块早年竖着的石碑上所写的那样：“<strong>从来没有什么神仙、皇帝</strong>”。的确，从来没有，这些只不过是人们赋予的而已，当人们赋予的时候就有，不赋予的时候，屁都不是！</p>
-<h3 id="怎么锻炼我们的宇宙第一能力"><a href="#怎么锻炼我们的宇宙第一能力" class="headerlink" title="怎么锻炼我们的宇宙第一能力"></a>怎么锻炼我们的宇宙第一能力</h3><p>怎么来锻炼我们的宇宙第一能力呢？其实，途径<strong>很简单也很困难</strong>，那就是去掉我们身上的各种主观、片面和浮于表面的毛病，我们要时刻和自己的这些毛病做斗争，深耕培养我们看事物的客观性、全面性和本质性。只有这样方能练就我们宇宙第一能力。为什么说简单呢？因为这个途径并不复杂。而又为什么说很困难呢？因为，我们很难看清我们自己，尤其是我们置身其中的时候，我们根本不知道怎么判别我们是否主观、片面和浮于表面了，每个人都会觉得自己很有理、都没问题，就像我们每个人看待自己都是好人，而对别人却并不这样看待一样。这便决定了我们是否能练就宇宙第一能力的所在！</p>
+    <title>从资本的角度来看我们当前为什么会那么卷？</title>
+    <url>/archives/e49512ed.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="资本的天性"><a href="#资本的天性" class="headerlink" title="资本的天性"></a>资本的天性</h3><p>内卷，可以说是已经深入到了我们各行各业的现状，国内基本都是一片红海，各个行业门槛高筑，大家都陷入到了这场无止境的内卷中，不知道何时是个头。今天就从资本的角度，来看看内卷。</p>
+<p><img src="https://pic.imgdb.cn/item/6314bd7716f2c2beb19371ad.jpg"></p>
+<p>我们知道，在资本的生产体系中，小到开个店，大到公司集团，我们总是希望我们的店越开越大、公司发展越来越大，而绝不是越来越小或停滞不前。这便是资本最原始的动力，也是本质。资本天性就是要做大、无限制的去扩张，否则，资本生产体系的维持就成了问题。但是资本一扩张，就会使人难受，要么外卷、要么内卷。</p>
+<h3 id="资本生产因素无法克服的魔咒"><a href="#资本生产因素无法克服的魔咒" class="headerlink" title="资本生产因素无法克服的魔咒"></a>资本生产因素无法克服的魔咒</h3><p><img src="https://pic.imgdb.cn/item/6314b8bd16f2c2beb18dfbff.jpghe"></p>
+<p>这也是马克思所指出的，资本主义社会所无法克服的。资本的生产组织方式，必然导致资本主义的生产体系。当社会的一切生产要素靠资本调动时，就对资本产生了依赖，而资本它的本性又是扩展的，且是无限扩展的，否则，资本将使人难受。因为，资本一旦无法扩张，它的生产经营就受到限制，甚至难以为继， 而必须不竭其力的为其寻找可以扩张的地方。</p>
+<h3 id="内卷，资本生产因素的必然存在"><a href="#内卷，资本生产因素的必然存在" class="headerlink" title="内卷，资本生产因素的必然存在"></a>内卷，资本生产因素的必然存在</h3><p>当资本可以从外部获取资源来扩张自己的时候，资本驱使资源走向外卷，从外部获取资源，把整体利益格局做大。此时，资本体系内部不感觉难受，相反感受到的是喜悦。当资本无法从外部吸取资源进行扩张时，就只能从内部进行竞争，试图从内部进行压榨来扩张自己的资本，这样便走向了内卷。此时，资本体系内部感觉极度难受。这样就是当前我们普通感觉难受的所在。因为，处在内卷中，大家都在彼此拼刺刀。资本为了无止境的扩张，不得不使得大家无止境的拼刺刀。</p>
+<p><img src="https://pic.imgdb.cn/item/6314be1716f2c2beb194e999.jpg"></p>
+<p>同时，内卷是资本扩张的必然。有资本生产因素的存在，内卷也会必然存在。内卷的程度，跟资本从外部获取资源的能力成反比。当前，我们剩余的生产力和产品，找不到合适的市场，无法从外部获取资本所需要的资源，而不得不使得资本从内部扩张，对资本体系内部进行榨取，以换取自身的扩张资源。由此，也可理解，一边多年前西方国家为什么要全球殖民。因为不殖民，资本体系内部难受、矛盾重重。对外殖民却让资本得到扩张，从而缓解了内部矛盾。</p>
+<h3 id="打破资本引起内卷的途径"><a href="#打破资本引起内卷的途径" class="headerlink" title="打破资本引起内卷的途径"></a>打破资本引起内卷的途径</h3><p>打破资本内部扩张引起内卷的途径，无非三条：一是等待生产力的新突破，来给资本创造新的资源，以满足其扩张的需要；二是对引导资本向外获取资源；这两条打破内卷的方法，虽只是暂时的，但是也不是轻易能达成的。要永久的解决资本引起的内卷，必然要寻找不依赖于资本的生产因素，组织其比资本更具活力的生产因素，这便是第三条途径。资本的生产活力之所以大，就在于它的无限扩张性。有限的人生，追求了无限的扩张。这便是资本扭曲了人性，人性也由资本充分体系出来。由此，资本体系的人性，也有着资本的影子。</p>
+<h3 id="我们的内卷将会更甚"><a href="#我们的内卷将会更甚" class="headerlink" title="我们的内卷将会更甚"></a>我们的内卷将会更甚</h3><p>由此不难发现，在现有的国情下，我们的内卷还会持久，其程度一定还会超过世界上任何一个国家和民族。这是资本生产体系的因素所决定的。由此，我们将会比历史上、世界上任何一个国家的人民都会深刻体会到带着资本影子的人性。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1757,15 +1476,74 @@
       </tags>
   </entry>
   <entry>
-    <title>大富的底层逻辑——先“杀贫”，后“杀富”</title>
-    <url>/archives/cab7c31d.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="世界平与不平重要吗"><a href="#世界平与不平重要吗" class="headerlink" title="世界平与不平重要吗"></a>世界平与不平重要吗</h3><p>如果世界是平的，那么贫的就不正常、富的也不正常；如果世界本来就是不平的，那么追求平的，就是逆天而行。但无论怎样，一定时期世界的总量却是个确定的数。因此，世界平与不平重要吗？无论世界的平与不平，都不妨碍我们对这个话题的讨论。</p>
-<h3 id="大富的底层逻辑"><a href="#大富的底层逻辑" class="headerlink" title="大富的底层逻辑"></a>大富的底层逻辑</h3><p>一定时期内，社会的总财富是恒定的，你多他就少、你少他就多。你要大富，就必然要从别人那里分得一部分财富到自己的口袋。总之是，必然要占有别人的一部分财产，才能使得自己大富。这便是创业致富、大富大贵的底层逻辑。任何的大富都离不开这个逻辑规律的支配，否则，像仅靠出卖自己劳动的工薪层，无论如何努力，获取的永远都只是少的可怜财富。关于这一点，马克思在《资本论》中，用“剩余价值论”给我们进行了详细的讲解，资本家通过剥削工人的剩余价值，来实现自己财富的积累。说到底，这就是通过“杀贫”来积累自己的财富。这也是资本完成原始积累的第一步，通过榨取穷人来实现。<br><img src="https://pic1.imgdb.cn/item/634d5e0e16f2c2beb19eabf4.jpg"><br>在榨取完穷人，积累到了资本。但要达到大富，还是很遥远的。毕竟“杀贫”只能是财富的积累，要达到大富，资本家靠“杀贫”是难以完成的。毕竟穷人可榨取的财富十分有限，完全满足不了资本大鳄的胃口。此时，资本家就要完成一个大的飞跃，向富人榨取迈进。通过“杀富”，完成自己的大富。</p>
-<p>由此，我们不难发现一个从无到有，从贫到大富的脉络。<strong>先通过穷人，“杀穷”积累原始资本，以获取“杀富”的筹码，然后“杀富”，来达到自己的大富</strong>。这里用了“杀”，可能很难让我们接受，毕竟别人没有拿着刀，别人拿的是产品、服务或是什么类的社会规则，怎么能说“杀”呢，这毕竟这说的太见血了。其实，这只不过是我们<strong>对“杀”的理解和见识太局限</strong>罢了。我们<strong>看得见拿着刀的“杀”，却看不见不拿着刀的”杀“</strong>。</p>
-<h3 id="相-“杀”是财富流转的秘密"><a href="#相-“杀”是财富流转的秘密" class="headerlink" title="相 “杀”是财富流转的秘密"></a>相 “杀”是财富流转的秘密</h3><p>其实，<strong>“杀”并不一定跟举刀有关，并不一定是打着举刀的旗号“杀”来的</strong>。这里不妨举一个大家都能理解其义的例子。比如，教员同志的创业，其本质就是一场“<strong>杀富济贫</strong>”的游戏，但旗号并非如此，他们的旗号却是要建立一个世界大同的共产主义社会、一个没有剥削、人人平等的理想国，从而，让中国人站起来、民族强盛起来。这里的“杀富济贫”丝毫没有贬低教员同志的意思，相反我认为他的”杀富“是先进的，因为，那个条件下的”富“是极其不健康的存在。在这里引述只不过是一种客观的民间话语的陈述。对于教员同志，我们没有任何可以诋毁他的地方，他的理想伟大，值得华夏子孙永世以他为荣，他的功劳，不输秦皇汉武。</p>
-<p>再举一个现实的例子，比如现在的地产公司某大，通过皮带生意，获得原始资本，结果疯狂进军房地产，通过老百姓和职工，举刀向银行榨取了大量财富，使得自己大富了一把，结果政府加强管制，爆了雷，玩不下去了，留下了遍地哀嚎的百姓和银行烂账，使得政府不得不保民生，给其擦屁股。完美的阐释了大富的底层逻辑和玩法。只不过是某大的玩法，“杀富”搞错了方向，没吞下，杀错了“富”，结果被人勒住脖子，噎着了自己。</p>
-<h3 id="“杀富”的合理性"><a href="#“杀富”的合理性" class="headerlink" title="“杀富”的合理性"></a>“杀富”的合理性</h3><p>由此可见，有的“富”是可以“杀”的，有的“富”是不可以“杀”的。但<strong>“杀富”是社会分化后的宇宙定律</strong>。因为“富”导致了社会分化，导致了多寡和不均。大富就极大地促使了这种不等的激化。无论是哪种创业、哪个行当，”富“的存在，<strong>必然是存在某种不合理的因素</strong>，尽管这种不合理因素，在我们看来，它是合理的。究其根本来说，它<strong>一定通过某些不合理的手段改变了规则</strong>，从而<strong>导致天平的倾斜</strong>。尽管这种倾斜在很多时候是<strong>符合事物当下发展情况的，但不代表这种符合的发展存在就一定是真理、是天道所踪</strong>。我们觉得的合理，只不过是我们被现实规定了，而看不出来。所以”富“的合法性是存疑的，因而”杀富“的合法性逻辑也就由此建立。因此，在这里<strong>”杀富“不是大逆不道，而是天道所常</strong>。对大富来说，就其人的差别而言，<strong>当他能力和智慧的差别不足以支撑财富的差别之时，便是灾难的开始</strong>。<br><img src="https://pic1.imgdb.cn/item/634d5e3416f2c2beb19f9dc8.jpg"><br>所以，我们常常看见各种大富人的光鲜和慈善，很多人被其表象所迷惑。其实，只不过是我们看到的表面是冰山一角而已，对于现象背后的庞大山体，永远在看不见的冰山之下。由此，聪明的人，都会发现，这个世界上<strong>没有无缘无故地爱，更没有无缘无故的恨，更不会相信天上真有馅饼掉下来</strong>。因为，馅饼不会自动产生，馅饼怎么来的，一定是在施舍的背后，对另外有一个不平衡的所在。而这个不平衡必然要另一个不平衡来支撑（当然，这里要排除亲情），从而不断地传递。于是不合理的因素，在看似一切合理中产生了。”富“的理所当然的表象，必然导致赤裸”杀富“的不理所当然，而<strong>不得不使”杀富“穿上各种外衣</strong>（产品、服务、规则、需求等等）来使得我们看起来不是”杀富“的逻辑和过程。</p>
-<h3 id="“杀富”的循环往复"><a href="#“杀富”的循环往复" class="headerlink" title="“杀富”的循环往复"></a>“杀富”的循环往复</h3><p><strong>文明的方式入侵，必然是文明的反抗方式</strong>。这是事物发展的对等逻辑，也是矛盾的对立统一。一个聪明的商人，一个聪明的富人，一定知道自己的财富来源，也一定理解这个逻辑，由此，他们会吃斋念佛，以求心安或智慧有限，以求更好的运气，谋求更大的财富。但就究其根本，就是<strong>”杀贫“积累资本，”杀富“获得大富，如此的迭代循环往复，直到他们的智慧的差距不足以支撑财富的差距时，被新的猎手所狙杀</strong>。这便是关于大富的一些运行逻辑。</p>
+    <title>让目标实现变得可控的五个技巧</title>
+    <url>/archives/deb41e96.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="设定合适的目标难易程度"><a href="#设定合适的目标难易程度" class="headerlink" title="设定合适的目标难易程度"></a>设定合适的目标难易程度</h3><p>一般建议设定在“稍微困难”的程度比较合适，有一定的难度，但是必须是跳起来能够够得着的。</p>
+<h3 id="设定完成目标的期限"><a href="#设定完成目标的期限" class="headerlink" title="设定完成目标的期限"></a>设定完成目标的期限</h3><p>即设定目标的时间终点，一个没有完成时间终点的目标，一定是个没有结果的目标，无任何意义。</p>
+<h3 id="划分实现目标的步骤"><a href="#划分实现目标的步骤" class="headerlink" title="划分实现目标的步骤"></a>划分实现目标的步骤</h3><p>要有能达成目标实现的可操作详细步骤，知道该怎么做才好，然后，照着做并坚持下去。</p>
+<h3 id="找到目标的客观评价方法"><a href="#找到目标的客观评价方法" class="headerlink" title="找到目标的客观评价方法"></a>找到目标的客观评价方法</h3><p>对自己的目标或实现步骤是否达成，要有客观公正的第三者客观评价。</p>
+<h3 id="把大目标分成小目标"><a href="#把大目标分成小目标" class="headerlink" title="把大目标分成小目标"></a>把大目标分成小目标</h3><p>目标太大，达成度和进步程度就很难掌握，因此把大目标分成小目标，定期进行检视、评价，以便给自己进行反馈。</p>
+<p><img src="https://pic.imgdb.cn/item/6319dbfa16f2c2beb1648d55.png"></p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>自我提升</category>
+      </categories>
+      <tags>
+        <tag>自我提升</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从《隐入尘烟》看教员同志成功的秘诀：人心的力量</title>
+    <url>/archives/2ba2beb.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="从《隐入尘烟》说来"><a href="#从《隐入尘烟》说来" class="headerlink" title="从《隐入尘烟》说来"></a>从《隐入尘烟》说来</h3><p>《隐入尘烟》，其实对我来说，电影里面的那些场景是比较熟悉和容易理解的，没有代差、没有不可言喻的领悟。但是看后，我还是得到了新的认识——人心的力量。这得感谢导演的用心和对底层人民的理解。</p>
+<p><img src="https://pic.imgdb.cn/item/631b74b716f2c2beb12fdb05.png"></p>
+<p>老四马有铁，可以说一生都在为三哥劳作，当三哥利用完他，当他要成为负担砸在三哥手里时，三哥却想起来要做为家人给他找个伴，成个家。就这样，马有铁跟同样命运的曹贵英结合到了一起。于是，两个命运悲惨、操劳的一生的人，才首次彼此感受到被关心、被照顾、被彼此理解，所以他们抛开一切世俗，用心、努力地过好自己的日子。他们勤劳、不怨天尤人、默默耕耘，习惯被忽略、被嘲笑。</p>
+<p><img src="https://pic.imgdb.cn/item/631b755616f2c2beb13063fd.png"></p>
+<h3 id="穷人的特点"><a href="#穷人的特点" class="headerlink" title="穷人的特点"></a>穷人的特点</h3><p>他们善良，为别人考虑的太多、惟独为自己考虑的太少。在村里的富豪——张永福，需要他的熊猫血救命时，他却毫无索求的无偿地一次又一次地捐献了自己的生命之血，即使是抽不出来也要满足别人需要，只希望富豪能够活下来，把富豪欠村里面的地租、水费还了，让村民有个好生活。</p>
+<p><img src="https://pic.imgdb.cn/item/631b758c16f2c2beb1308e65.png"></p>
+<p>尽管影片最后也没透露他救的富豪有没有救活生存下来，可以说这是<strong>极其精彩的一段，非常深刻</strong>。它揭露了富豪的富是怎么来的，一个穷人的穷又是怎么来的。<strong>富豪靠吸血，穷人靠无偿的献血，只为富豪能够把欠他们的，本该属于他们的钱还给他们</strong>。</p>
+<p>想象现在的富豪——恒大许先生，再看看广大的购房者，哪个不是把自己的一生都搭进去，无偿给许先生献血了，还要许先生好好活着，就为了把本该属于他们的东西要回来。可以说他们也是真正的雷锋，但是他们却没有雷锋那么好的运气。其中，对于这种深刻的刻画，还有很多，比如老三（三哥）的富怎么来的，为什么比老四马有铁过得好，都有深刻的刻画。</p>
+<p>他们不喜欢占人便宜、生怕欠了别人什么，宁可天下人负我，我不可负天下人。马有铁在自己唯一的寄托——妻子曹贵英死后，虽然自己已生无可念，但他还是秉守做人的原则，要把他们认为欠别人的东西逐一还清，然后安静地给世界一个告别。</p>
+<p><img src="https://pic.imgdb.cn/item/631b75fb16f2c2beb130e758.png"></p>
+<h3 id="穷人真的是差吗？"><a href="#穷人真的是差吗？" class="headerlink" title="穷人真的是差吗？"></a>穷人真的是差吗？</h3><p>把这些综合起来，基本就不难看清我们的一个底层社会现实。比如我们，都喜欢追逐名利，都希望出人头地、荣华富贵。并且，我们还坚定地认为，我们的荣华富贵是我们的奋斗所致，是我们的天经地义、天道酬勤而理所当然的；而穷人的穷困潦倒、悲惨的一生，是他们的不努力、傻、脑子不够聪明，人不够精明，他们理当如此。</p>
+<p>如果是这样，我想教员同志革命的一生，中国革命的道路，都不可能是走农村包围城市而取得成功的。因为那时的革命都是从老少边穷地区的农村开始的，是极度贫困的地方，就是放在当前，其中很多地方还是国家的深度贫困地区。那些农村地区，主要就是极度贫穷的、命运极度悲惨的农民，如果他们是不努力、傻、脑子不够聪明、人不够精明的话，革命和让中国人民站起来，教员同志靠他们取得胜利是绝对不可能的。但事实就是教员同志依靠他们取得了伟大的胜利。这是为何？而代表并依靠有知识、富裕、努力、聪明、精英们的蒋校长，却在他面前败得一塌糊涂，这又是为何？</p>
+<p><img src="https://pic.imgdb.cn/item/631b7acf16f2c2beb1350303.png"></p>
+<h3 id="我们为什么会产生这种认识？"><a href="#我们为什么会产生这种认识？" class="headerlink" title="我们为什么会产生这种认识？"></a>我们为什么会产生这种认识？</h3><p>唯一的解释，就是<strong>我们看到的、以为事实的东西，其实不是真实的世界的本来面目</strong>。<strong>我们习惯于被人的外在、物的外壳所蒙蔽，而正是带着这种蒙蔽了我们双眼的东西看事物，自然就看不清事物本来面目</strong>。</p>
+<p>而且，更恐怖的是，我们是群体性动物，我们是社会性的。<strong>我们不在乎世界的本来的面目，我们只在乎，我们大家是否都这样认为。只要是大家都这样认为的，对与不对、错与不错都无关紧要</strong>。</p>
+<h3 id="教员同志的发现"><a href="#教员同志的发现" class="headerlink" title="教员同志的发现"></a>教员同志的发现</h3><p>而教员同志却是个凡事喜欢调查研究，一定要看清事物本来面目的人，这也是他的理想信念、教义所宗。经过他的社会实践，他发现，穷人并不是不勤劳、不努力或愚蠢的，富豪也并不是勤劳、努力和聪明的。只不过是<strong>穷人，安分守己、善良，为别人考虑的太多、惟独为自己考虑的太少、不喜欢占人便宜、生怕欠了别人什么，宁可天下人负我，我不可负天下人</strong>；富人却是为富不仁、投机倒把的。因为他认为他的父亲就是这样富的，所以他对他父亲的富，并不感觉敬佩，也不觉得珍贵。</p>
+<p>更伟大的发现，就是他发现了穷人即使是这样穷，他们还依然坚守着他们的做事原则，生怕对他人照顾不周、遗憾、抱歉、没有给别人带来好处。这该是种什么力量驱使着他们呢？</p>
+<h3 id="人心的力量是伟大的，不惧生死"><a href="#人心的力量是伟大的，不惧生死" class="headerlink" title="人心的力量是伟大的，不惧生死"></a>人心的力量是伟大的，不惧生死</h3><p>我们不妨做一个简单的调查研究，我们就不难发现，只要我们多跟那些大家普遍认为的社会底层、穷人们接触一下。我们就会发现，他们身上有个重要的标签，就是“<strong>凭良心</strong>”——凭良心做事，凭良心说话，凭良心做人。而那些富豪，却从来没有这个说话和意识。这是什么力量驱使着他们？是人心的力量，以心换心的力量。相比富人，穷人更容易、更懂得以心换心。所以教员同志的创业就选在了老少边穷的农村作为根据地。这是为什么呢？</p>
+<p>试想一下，一个对自己敲骨吸髓、高高在上的富豪们都能毕恭毕敬的人，在遇到跟他们一样穷、一样苦难，还专门帮着他们、跟他们一道经营生计的教员同志们，他们不会以心换心地对教员同志他们好吗？在这样的地方，蒋校长的屠刀能有用吗？</p>
+<p><img src="https://pic.imgdb.cn/item/631b7eb516f2c2beb137f642.gif"></p>
+<p>人心的力量是伟大的，不惧生死。无论是《隐入尘烟》中，老四马有铁，对同样苦难的曹贵英的以心换心（曹贵英因给马有铁送饭，掉在水渠里淹死，马有铁在还完一切“欠债”之后，紧随曹贵英而去），还是教员同志创业，走农村包围城市，都是人心力量的体现——<strong>人心的力量是伟大的，不惧生死</strong>。<strong>一个能掌握人心力量的人，必定是个成功的人，这不是财富或名誉地位所能衡量的</strong>。这或许就是大大同志所讲的，人心就是最大的政治所在吧。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -1853,6 +1631,369 @@
       </categories>
       <tags>
         <tag>网站工具分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>亲测有效地科学上网方法</title>
+    <url>/archives/4661d43f.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="全球化、数字化的必然趋势"><a href="#全球化、数字化的必然趋势" class="headerlink" title="全球化、数字化的必然趋势"></a>全球化、数字化的必然趋势</h3><p>数字化时代，数字生存能力，直接决定了我们的生存、活动范围。人们已经弄不清楚，究竟是数字化加速了全球化，还是全球化加速了数字化。数字化与全球化已经密不可分。</p>
+<p>无论是研究全球化、还是研究数字化，二者都是任何一方的重要研究内容。在数字化的过程中，全球化首当其中。在全球化过程中，数字化是其中的重要内容。数字化必然走向全球化、全球化必然数字化。在个人数字化生存当中，走向数字化的同时，必然走向全球化。</p>
+<p>世界已经不是一个孤立的世界，网络数字时代，带来的众创个体的崛起，其本身蕴含着巨大的创造力和生存力，它不同于工业时代、信息时代，它是真正的数字时代。任何事物的发展，不再是个局部的发展，而是整体、全局的协同。在个人数字化生存当中，面临的不是某个地理上的生存，而是由网络连接起来的全球。</p>
+<p>这就需要我们有全球数字的生存力，我们不能生存在某个局部的<strong>信息茧房</strong>里，而这就是给大家介绍科学上网的所在。</p>
+<h3 id="科学上网"><a href="#科学上网" class="headerlink" title="科学上网"></a>科学上网</h3><p>科学上网，顾名思义，是科学、是文明、是生产力的上网，而不是落后的、倒退的、违反人伦、释放阴暗的上网。这里面自然要有抵制低质内容和服务的能力，还要有辨别是非、不参与任何可能违反相关法律、规则的行为，不参与别有用途的政治有关的领域。这是我们科学上网的精神和约束所在，是我们每个科学上网的人的共同行为准则。</p>
+<p>具体的我们该怎么科学上网呢？网上科学上网的方法很多，其中良莠不齐，很多要么是付费，要么是根本无法使用的东西，其结果不是浪费了时间，就是掉入了别人的圈套。为了打造一个清爽的网络空间是我们共同的责任，所介绍的每一种方法，都应该是亲测有效的。</p>
+<p>今天就给大家介绍两个亲测有效的科学上网方法：一个是免费高速的科学上网方法；一个是付费价廉高速的科学上网方法。</p>
+<h3 id="连接麻烦但免费高速的科学上网方法"><a href="#连接麻烦但免费高速的科学上网方法" class="headerlink" title="连接麻烦但免费高速的科学上网方法"></a>连接麻烦但免费高速的科学上网方法</h3><p>该方法因为是国外一个学术项目，据官方介绍好像是日本的。一提起，日本大家都没有好印象，毕竟他们干的坏事太多了。但是科学上网，该用的、能用的，还是可以用一用的。因为免费的，它的很多节点的维护存在不及时，因此，连接就是不那么容易的事情，需要不断地去尝试连接各个节点，是个不容易的活，可以说十分难用。但是一旦连接上，科学上网的速度和质量就非常优质的。要使用它，我们首先需要去官网下载一个客户端软件。</p>
+<p><img src="https://pic.imgdb.cn/item/6327275716f2c2beb1adba52.png"></p>
+<p><a href="https://www.vpngate.net/cn/">下载官方网址</a><br><a href="https://www.vpngate.net/cn/">https://www.vpngate.net/cn/</a></p>
+<p>国内默认，是无法打开的。官方网站也就提供给我们一个科学上网的客户端软件。需要客户端软件的，可以通过<strong>本站微信联系获取安装程序</strong>。</p>
+<p><img src="https://pic.imgdb.cn/item/6327277d16f2c2beb1ae0840.png"></p>
+<p>客户端安装后，打开软件，选择 VPN Gate 公共VPN中继服务器，就可以打开很多列表的节点。</p>
+<p><img src="https://pic.imgdb.cn/item/6327279c16f2c2beb1ae4147.png"></p>
+<p>双击其中任何一个节点，就可以连接到外网，但是<strong>成功率极低</strong>。对没有上网特定需求想白嫖的，可以试试。</p>
+<h3 id="付费价廉高速的科学上网方法"><a href="#付费价廉高速的科学上网方法" class="headerlink" title="付费价廉高速的科学上网方法"></a>付费价廉高速的科学上网方法</h3><p>月租9.99元，速度可在YouTube上看4k视频，每天3毛钱，实属不错。</p>
+<p><img src="https://pic.imgdb.cn/item/632727b716f2c2beb1ae70ca.png"></p>
+<p>官方有详细的操作教程，也有客服端软件下载，安装指引操作就可以了。</p>
+<p><a href="https://www.awcloud.xyz/#/register?code=mtEqWIxT">官网：点击这里</a></p>
+<p><strong>再次说明，科学上网，帮助我们提升自己的同时，切记要有上网行为和安全的防范能力，不要参与违反相关规定的行为！！！</strong></p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>网站工具分享</category>
+      </categories>
+      <tags>
+        <tag>网站工具分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字化转型，首先得转变驱动我们转型的底层逻辑</title>
+    <url>/archives/f3a4fbd6.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字化、智能化是我们弯道超车的赛点"><a href="#数字化、智能化是我们弯道超车的赛点" class="headerlink" title="数字化、智能化是我们弯道超车的赛点"></a>数字化、智能化是我们弯道超车的赛点</h3><p>从1994年中国全功能接入互联开始，到2022年的28年时间里，中国历经了万维网、互联网、移动互联网的浪潮。中国社会也经历了网络化、信息化的飞速发展，现在正在步入数字化和智能化进程。可以说，44年的改革开放中，互联网发展的28年里，为中国的经济腾飞、社会转型提供了最为关键和主要的动力。毫无疑问地说，我们是抓住了网络化、信息化这波红利的国家，并跻身世界网络化、信息化的第二。因此，我们国家也迅速跻身为全球第二大经济体，直逼美国。可以预见地说，只要我们抓住当前数字化、智能化这波红利，在未来5~10年的时间里，我们必然成为第一大经济体。这是弯道超车的赛点。</p>
+<p><img src="https://pic.imgdb.cn/item/6329e07916f2c2beb130087c.jpg"></p>
+<p>或许你会问，为什么会是数字化、智能化？我们不防回顾一下，20世纪90年代以来，数字和通信技术的发展带来的互联网、移动互联网，从工具化跃迁到社会化，以不断地加强联系方式，就已经深刻变革了我们的社会，颠覆了生产和商业的运行方式以及人们的生活和思维方式。今天，数字科技随着5G技术、大数据、人工智能，必然不断地在加强联系的基础上，加上数字化、智能化，而进一步加速了一个全新的生产生活体系的建立，其变革将更加迅猛和深刻。这种迅猛和深刻的变化，必然带来社会的飞速发展。</p>
+<p><img src="https://pic.imgdb.cn/item/6329e28c16f2c2beb1322d0e.jpg"></p>
+<h3 id="都面临数字化转型"><a href="#都面临数字化转型" class="headerlink" title="都面临数字化转型"></a>都面临数字化转型</h3><p>要实现数字化、智能化，首当其冲的就是要实现数字化转型，智能化也不例外。因为智能化必须建立在数字化提供的全时数据基础上，没有数字化提供的全时数据，智能化就会成为无水之源、无本之木。</p>
+<p>数字化转型，无论是对企业，还是对个人都是要面对的。因为只有这样，才能更好地适应数字化、抓住即将来临的数字化红利。</p>
+<p><img src="https://pic.imgdb.cn/item/6329e2ec16f2c2beb132893d.jpg"></p>
+<h3 id="数字化转型的底层思维"><a href="#数字化转型的底层思维" class="headerlink" title="数字化转型的底层思维"></a>数字化转型的底层思维</h3><p>但怎么来完成数字化转型，从而抓住这波数字化红利呢？抛开技术层面的探讨，我们做事，首先就要建立一套符合事物发展的认识框架，一套抓住事物本质的底层逻辑，只有这样，我们才能把握住事物朝着我们预期的方向发展。</p>
+<p>那么问题的关键就来了，我们该用什么样的底层逻辑来指导我们正在面临的数字化转型呢？或许北京大学教授胡泳在其著作<a href="https://u.jd.com/XI7cnFa">《数字位移 重新思考数字化》</a>一书中给我们提供了指导。</p>
+<p><a href="https://u.jd.com/XI7cnFa"><img src="https://pic.imgdb.cn/item/6329e37916f2c2beb1331f14.png"></a></p>
+<p>他在开篇<a href="https://u.jd.com/XI7cnFa">《原子与比特》</a>一文中提出了“原子思维”和“比特思维”，指出数字化时代，思维的底层逻辑是移动比特，而不是原子。原子思维是工业化时代的认知思维。现在的问题是，我们在面对比特世界的时候，却秉持的是”原子思维“，以原子思维来对待当前的数字化转型，是数字化过程中一个共同病状。</p>
+<p>想想汽车刚被发明出来时，人们对它认识仅仅停留在”无马的马车“，我们认知事物的方式总是通过现有的事物去定义新的事物。这是我们病状存在的根本所在。</p>
+<p><img src="https://pic.imgdb.cn/item/6329e33916f2c2beb132d17a.jpg"></p>
+<p>在数字化转型中，我们通过反思”无马的马车“来看待数字化。首先是原子世界的认知方式向比特世界的认知方式的转变。只有完成这个底层逻辑的转变，才能帮助我们实现数字化转型。</p>
+<p>与此同时，在数字化转型过程中，强调比特思维的同时，并不是完全抛弃原子，比特与原子其是一个对立统一的存在。这是在数字化生存当中的一个重要能力——悖论管理能力，我们需要在矛盾、对立中，去把握统一。比如，制造业在转型过程中，如果将比特思维和原子思维统一，将会迎来”个人制造“、”社群制造“、”增材制造“、”分子制造“、以至于”机器自主制造“的时代，从而建立起”物的自主生产体系“。对生命而言，碳基生命体也将不再是唯一的存在形式，走向”碳基+硅基“、”自然智能+人工智能“的结合体生命将会展现。</p>
+<p><img src="https://pic.imgdb.cn/item/6329e1f916f2c2beb1319725.jpg"></p>
+<p>如此这般巨大的社会变革、以至于人类变革，所带来的社会生产力和财富，必然是以往任何变革所不及的，抓住数字化、智能化的红利，实现弯道超车，首先就是完成我们数字化转型底层思维的建立。从工业时代的原子思维，转变到数字时代的比特思维。这个转变谁完成得越快、越早，谁就抢得先机。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教条是数字化生存的大敌</title>
+    <url>/archives/31b447b.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="反教条启蒙"><a href="#反教条启蒙" class="headerlink" title="反教条启蒙"></a>反教条启蒙</h3><p><img src="https://pic.imgdb.cn/item/632db18316f2c2beb1ccbee4.jpg"></p>
+<p>“<strong>教条</strong>”这个词，我们一般的启蒙多见于教员同志的著作，比如他的《反对本本主义》就是为了反对当时红军中的教条主义思想而写的。那时没有用“教条主义”这个名称，而叫它做“本本主义”。</p>
+<p>可以说，从古至今，任何一个有所成就的人，没有一个不是反对“本本主义”的先锋和表率，秦皇汉武、唐宗宋祖，以及教员同志，他们每一个都是跳出教条行事逻辑的典范，而才成为一代有所开拓的雄主。</p>
+<p><img src="https://pic.imgdb.cn/item/632db1b216f2c2beb1ccf882.png"></p>
+<h3 id="总结规律"><a href="#总结规律" class="headerlink" title="总结规律"></a>总结规律</h3><p>历史的规律、事物发展的规律，一再告诉我们，<strong>凡事没有开拓，等待它的必定是衰亡</strong>，除此，没有任何其他例外！从古至今的政权更替、家族兴盛无不受这一规律的支配。无论是创业者刘邦、还是创业者朱元璋，无论其如何为其子孙用心良苦，并用尽手段，一旦遇到不能继续开拓的继承者，衰亡的命运就由此开始，灭亡也就由此诞生。对封建统治者是这样，对一个家庭也是这样。父亲或祖父一代拼命努力，积极开拓，只要有一代子孙无开拓之功，便难以维持家族长久的兴旺。所以，<strong>开拓才是跳出历史的周期、富不过三代魔咒的良方</strong>。</p>
+<p><img src="https://pic.imgdb.cn/item/632db1ce16f2c2beb1cd1e04.jpg"></p>
+<p>或许有人会问，这似乎跟文章主题不符。其实，这个例子正是用来帮助大家理解，<strong>根深蒂固的“教条”对一个国家、民族、家族以至于个人是多么的不利</strong>。</p>
+<p><strong>“教条”从古至今，一直根植于我们意识的深处</strong>，同时，在我们后天的学校教育中、学习中、工作中、生活中，都无处不在的加强“教条”的训练。从而使我们祈希望于书本中找到答案，按照成功学去取得成功。可现实的情况是，越是紧守书本、照搬别人的做法，人生失败的越惨。若是大家族，加上圣旨样的祖训，墨守成规，让“教条”固化在自己的行事逻辑中，在一个<strong>快速变化的社会</strong>，根本就是一切人间悲剧的来源。</p>
+<h3 id="可怕的现象"><a href="#可怕的现象" class="headerlink" title="可怕的现象"></a>可怕的现象</h3><p>改革开放的40多年的历程中，28年的网络化、信息化发展，把知识的更新，几乎压缩到了一年一更新的频度。数字化时代的社会无疑是个更快速变化迭代的社会，知识的更新，达到以月为频度的更新是在所难免的。在这个快速更新的时代，<strong>谨守“教条”无疑是死路一条</strong>。</p>
+<p><img src="https://pic.imgdb.cn/item/632db1fe16f2c2beb1cd55bc.jpg"></p>
+<p>特别是移动互联网的飞速发展，自媒体的崛起，信息和知识早已不再是稀缺的东西。相反，我们拥有的信息太多，甚至多到无从下手。但与此同时，真正有用的信息和知识却寥寥无几。这是<strong>信息、知识异化的必然，必然加速人的异化</strong>。</p>
+<p>算法的推荐和人的主观愿望共同了决定他（她）看到的是信息还是噪声。无论是算法的投其所好，让人生活在“<strong>信息茧房</strong>”里，还是别有用心的传递，海量的信息或标榜的知识都会像潮水一样将人淹没，让其失去丧失思考和能动性，被“教条”为机器。从而引发出一种可怕的现象，<strong>机器向人的方向发展，人却像机器一样生活</strong>。</p>
+<p><img src="https://pic.imgdb.cn/item/632db21d16f2c2beb1cd7f74.jpg"></p>
+<h3 id="教条忽略“情境”"><a href="#教条忽略“情境”" class="headerlink" title="教条忽略“情境”"></a>教条忽略“情境”</h3><p>与此同时，<strong>大数据的陷阱更会加速“教条”思维的深化</strong>。为什么这样说呢？大数据标榜的生产力，十分诱人，大有一切被大数据、人工智能取代之势。可忘却了<strong>大数据、人工智能的底层逻辑是依赖于历史的数据、已经发生的数据</strong>。仅仅依赖这些数据出发的知识和经验，这不正和历史上、人类社会上，一切“教条”同出一辙吗？！</p>
+<p>因为，它们都<strong>忽略了一个根本的东西——现场的环境</strong>，也就是北京大学教授胡泳在其著作<a href="https://u.jd.com/XI7cnFa">《数字位移 重新思考数字化》</a>中称之为“<strong>情境</strong>”的东西。但凡忽视掉这个东西的知识和经验，没有一个不落入“教条”的窠臼里，难免不被淘汰和抛弃的命运。</p>
+<p><img src="https://pic.imgdb.cn/item/632db25116f2c2beb1cdbe94.jpg"></p>
+<h3 id="数字化生存所在"><a href="#数字化生存所在" class="headerlink" title="数字化生存所在"></a>数字化生存所在</h3><p>这无疑不说明着，在数字化生存中，唯有在学习的同时，注重“<strong>情境</strong>”，直击事物的本质，加以运用，以<strong>开拓</strong>的行事逻辑能力，才是我们站住脚跟，发展事业的核心竞争力，否则，我们就要被“教条”裹挟，成为它的俘虏，难免被绞杀的命运。这也就是为什么<strong>教科书、成功学里面没有一个按照“本本”能取得人生成功的</strong>所在。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我们为什么无法纠错？</title>
+    <url>/archives/3b90e809.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="对错误的传统观念"><a href="#对错误的传统观念" class="headerlink" title="对错误的传统观念"></a>对错误的传统观念</h3><p>知错就改，基本是老生常谈的一个话题，甚至在潜意识里面认为，这个是个极其简单的事情。以至于谁不知错就改，谁就不可理喻。这是我们对于错误的一般认识，是思维习惯中的认识，是停留在小孩子认知思维里面的认识。</p>
+<h3 id="错误存在的根本"><a href="#错误存在的根本" class="headerlink" title="错误存在的根本"></a>错误存在的根本</h3><p>但往往现实的情况，却是并非如此。其实，人的一生都是在认识错误的道路上。因为，我们事先不知道我们究竟怎样才是对的，只能不断地去尝试。而很多尝试，就是试错，人生的大部分时光就是不断地在错误道路上，寻求正确的东西。比如，我们到底是考研，考公务员，创业、还是找工作等等？我们不知道我们该选择哪个专业？在哪里就业？我们应该在哪些方面努力才是适合我们自己的？要找什么样的老婆等等，我们是不知道我们当前的选择究竟是对还是错的。与此同时，我们选择的时候，还要照顾到家人、亲友等等的心理需求和期盼。比如，到了婚育的年龄，你的父母就要期望你婚育，不管你合不合适，他们需要的是，你有没有给他们带来心理需要的媳妇或孩子，以便他们在社交当中的需要。这样就更加重了我们对于错误和正确的迷茫。知错就改、纠错，首先就需要建立在对错误有个清醒、明晰的认识上。否则，纠错就无从谈起。</p>
+<p><img src="https://pic.imgdb.cn/item/6330766016f2c2beb1dabe21.jpg"></p>
+<h3 id="找到正确的道路，你就能及时纠错吗？"><a href="#找到正确的道路，你就能及时纠错吗？" class="headerlink" title="找到正确的道路，你就能及时纠错吗？"></a>找到正确的道路，你就能及时纠错吗？</h3><p>当经过我们不断地努力，终于在我们努力试错过程中，找到了正确的道路，我们就能及时纠错，知错就改了吗？答案是不一定的。有的是可以及时纠错、立即知错就改的。比如，犯罪、违法，生病了不再硬抗，去看医生接受治疗，教育孩子，脾气火爆，要克制等等这些有仅仅是关于我们自身的错误，一般在没有生理缺陷的情况下，是可以做到及时纠错，或知错就改的。</p>
+<p>但是，对于那些超乎我们自身本体，对其他有影响的错误，及时纠错、知错就改，就显得并不那么容易。比如，你打工想获得富裕，在你打了十几年或几十年工后，也没有获得富裕，此时你方才明白，通过打工来富裕，根本就是个错误。此时，你能及时纠错吗？这时你的纠错就需要衡量了。如果你上有老、下有小了，一家人的生存、冷暖、人情世故系于你一身。此时，你去纠错、知错就改，不再打工，而是去创业？这可能吗？我相信，世界上很少有这么武断的人，即使有，也是被逼无赖的。因为在此种情境下，很少有去冒生存危机去干更加不确定性的创业的。</p>
+<p><img src="https://pic.imgdb.cn/item/6330768316f2c2beb1dae888.jpg"></p>
+<h3 id="纠错是有成本的"><a href="#纠错是有成本的" class="headerlink" title="纠错是有成本的"></a>纠错是有成本的</h3><p>这就说明纠错并不那么容易，也不是所有的错都能纠正的和知错就改的。因为纠错是需要成本的，错误的情况不一样，纠错的成本也不一样。有的成本很低、有的成本很高，以至于我们无法立即纠错。尽管很多人的一生都是在错误的道路上，越错越远，从而为人生的悲剧埋下伏笔，但他就是无法纠错。与此同时，虽然我们要为我们错误支付成本，我们不能立即纠错，但是知道对错，终究是对我们有益的，可以为我们后面的不再犯同类错积累经验。</p>
+<h3 id="怎样少犯错"><a href="#怎样少犯错" class="headerlink" title="怎样少犯错"></a>怎样少犯错</h3><p>减少试错、纠错的成本，最好的方法无疑是少犯错误。那究竟怎样才能少犯错误呢？！方法只有一个，就是凡事直击本质，找到我们究竟想要什么，思考怎样才能达到目的，除此之外的，传统习俗，观念约束，都要抛弃。一定要做到怎么接近事物的本质就怎么去做，就是少犯错误的总方法。很多时候，我们都被琐事所累   人是糊涂的。只会加深我们在错误的道路上越行越远。错误行远了，不是一下就能刹住车，要纠正过来，必须积攒纠错的能量，等能量积攒够了纠错就走上了正确的道路。</p>
+<p><img src="https://pic.imgdb.cn/item/633076be16f2c2beb1db30b9.jpg"></p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>纵横捭阖</category>
+      </categories>
+      <tags>
+        <tag>思想前沿</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>掌握宇宙第一法则，培养宇宙第一能力</title>
+    <url>/archives/9dc1f124.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/634c297116f2c2beb1df1d92.jpg"></p>
+<h3 id="宇宙第一法则"><a href="#宇宙第一法则" class="headerlink" title="宇宙第一法则"></a>宇宙第一法则</h3><p><strong>矛盾法则</strong>，当之无愧为宇宙第一法则。这是教员同志总结给我们的<strong>认识事物的遗产</strong>。</p>
+<p>教员同志在《矛盾论》中指出，“矛盾存在于一切事物法则的过程中”，“每一事物的发展过程中存在着自始至终的矛盾运动”，“没有什么事物是不包含矛盾的，没有矛盾就没有世界“。这使得我们不难发现，<strong>宇宙的第一法则就是矛盾</strong>。宇宙中任何事物的变化、发展都离不开矛盾，抓住了矛盾就抓住了事物的本质、抓住了矛盾规律，就抓住了宇宙中各个事物变化、发展的规律。<br><img src="https://www.gpbctv.com/uploads/20210530/zip_16223593014kyzq7.jpg"></p>
+<h3 id="对立统一"><a href="#对立统一" class="headerlink" title="对立统一"></a>对立统一</h3><p>与此同时，教员同志还指出，对于矛盾的把握和运用原则是“<strong>对立统一</strong>”原则，<strong>在对立中把握统一，在统一中把握住对立</strong>。具体的方法，是要抓住事物“<strong>质的多样性</strong>”。理解了事物“质的多样性”，就理解了事物在变化、发展过程中的各种联系，从而理解事物的本质，找到改造事物的道路和方法。</p>
+<h3 id="质的多样性"><a href="#质的多样性" class="headerlink" title="质的多样性"></a>质的多样性</h3><p>毫无疑问，对于事物”质的多样性“理解，就是解决问题的突破口。<strong>对于“质的多样性”的理解和把握水平，就决定了解决问题能力高低、甚至是成败</strong>。因此，培养抓住事物“质的多样性”能力，也就显得尤为重要。但怎么来培养这种能力呢，我们不防<strong>先锻炼自己多方面、多位置、多角度、多体验、多场景地来看待同一个事物的能力，进而达到把一个事物的各种联系弄清楚的水平</strong>。</p>
+<h3 id="前木匠出身的副总理对”质的多样性“理解"><a href="#前木匠出身的副总理对”质的多样性“理解" class="headerlink" title="前木匠出身的副总理对”质的多样性“理解"></a>前木匠出身的副总理对”质的多样性“理解</h3><p>前木匠出身的副总理李瑞环在对于“质的多样性”理解上，给我们作出了榜样。他以自己最为熟悉的木匠行业为例进行了说明。他说：“列宁讲，具体之所以具体，表现为过程，表现为综合，表现为质的多样性。这话单从字面理解比较费劲，如果从生活中去理解就比较容易。比如，一块木头是什么?就是一块木头，这个回答并没有错，但它还是什么?这就要看具体情况。拿它来做家具就是原料，拿它来烧火就是燃料，拿它来挑水就是工具，拿它来和坏人斗争就是武器，拿它来行凶打劫就是凶器，拿到法庭就是证据，但还是那块木头。这就是质的多样性”。</p>
+<h3 id="教员的告诫"><a href="#教员的告诫" class="headerlink" title="教员的告诫"></a>教员的告诫</h3><p>同时教员同志，还告诫我们，在研究问题，在找事物“质的多样性”的过程中，<strong>“忌带主观性、片面性和表面性”</strong>。而这就成了很多人的拦路虎。我们<strong>根本发现不了我们自身的主观性，我们看世界根本就是盲人摸象，我们总喜欢走马观花</strong>。<strong>我们时常被各种世俗、各种经验、各种现象所规定着，而忘记了要看事物的本来面目</strong>。</p>
+<h3 id="世俗是我们的障碍"><a href="#世俗是我们的障碍" class="headerlink" title="世俗是我们的障碍"></a>世俗是我们的障碍</h3><p>比如，在功利的社会，我们<strong>喜欢用钱、用地位、用权贵来衡量人、来判别人成功</strong>。我们更喜欢用<strong>看得见的</strong>来衡量<strong>看不见的</strong>。我们习惯于<strong>看到的改变</strong>，而看不上<strong>看不到的改变</strong>。我们习惯于用<strong>外在的证明</strong>来认可<strong>别人内在的拥有</strong>等等。我们<strong>总认为</strong>，<strong>权位越高、金钱越多，人的能力越强</strong>。<strong>要想反驳得看实力，得要拿出更硬的东西来证明</strong>。这便是我们俗人的常态，难免不落入形而上学的窠臼。究其根本，一方面是我们很多人，本身的能力和水平就限制了我们自己对这个世界的认识；二是外界的影响和教训更加把我们锁定在世俗和形式的茧房里；三是，我们很少对自己提出批评，更不习惯批评自己。因此，<strong>我们对于世界的认识，在盲人摸象的道路上越陷越深</strong>。</p>
+<h3 id="逐”道“而行，方能掌握宇宙第一法则"><a href="#逐”道“而行，方能掌握宇宙第一法则" class="headerlink" title="逐”道“而行，方能掌握宇宙第一法则"></a>逐”道“而行，方能掌握宇宙第一法则</h3><p>而掌握宇宙第一法则的人，首先就是<strong>鄙弃</strong>各种主观、片面和表面的高手，是<strong>搞</strong>事物客观性、全面性和本质性的<strong>行家里手</strong>，他们看待事物是<strong>抓“道”的所在</strong>。<strong>逐“道”而行</strong>，便是他们的行事准则。这也是教员同志屹立不倒的所在。他<strong>即使</strong>环境再恶劣、条件再艰苦、对手再强大，在他面前都只不过是<strong>世俗而已</strong>。蒋校长败在这么一位教员手下，一点也不冤枉。头号军事强国美国带领的联合国军，败在这么一位教员同志带领下的破衣烂衫、装备靠敌人供给的农民自卫军下，也一点也不冤枉。因为他们都犯了一个同样的错误。<strong>没有掌握“道”</strong>，却带了<strong>世俗的眼睛</strong>来看待并决策了这个世界，却忘记了要去看这个<strong>世界的本来面目</strong>。蒋校长以为，位高权重，就是能力和本领的象征，头号军事强国美国以为船坚炮利就是实力。其实，这些都<strong>只不过</strong>是别人的<strong>努力方向</strong>和<strong>专注</strong>并不在此而已，<strong>并不代表</strong>别人没有这个能力和实力。他们活生生的把一个书生、一个教书匠培养成了一个伟人。他们更活生生地证明了自己世俗的失败！<br><img src="https://pic1.imgdb.cn/item/634c29b616f2c2beb1df9bff.jpg"></p>
+<h3 id="从来没有什么神仙、皇帝"><a href="#从来没有什么神仙、皇帝" class="headerlink" title="从来没有什么神仙、皇帝"></a>从来没有什么神仙、皇帝</h3><p>由此，这便是我们要锻炼的宇宙第一能力的所在，<strong>不要掉入各种主观、片面和表面的窠臼，不要忘记、要注重看待事物的本来面目，一切从事物的本来面目出发</strong>。就像越秀公园，孙中山遗嘱碑下，一块早年竖着的石碑上所写的那样：“<strong>从来没有什么神仙、皇帝</strong>”。的确，从来没有，这些只不过是人们赋予的而已，当人们赋予的时候就有，不赋予的时候，屁都不是！</p>
+<h3 id="怎么锻炼我们的宇宙第一能力"><a href="#怎么锻炼我们的宇宙第一能力" class="headerlink" title="怎么锻炼我们的宇宙第一能力"></a>怎么锻炼我们的宇宙第一能力</h3><p>怎么来锻炼我们的宇宙第一能力呢？其实，途径<strong>很简单也很困难</strong>，那就是去掉我们身上的各种主观、片面和浮于表面的毛病，我们要时刻和自己的这些毛病做斗争，深耕培养我们看事物的客观性、全面性和本质性。只有这样方能练就我们宇宙第一能力。为什么说简单呢？因为这个途径并不复杂。而又为什么说很困难呢？因为，我们很难看清我们自己，尤其是我们置身其中的时候，我们根本不知道怎么判别我们是否主观、片面和浮于表面了，每个人都会觉得自己很有理、都没问题，就像我们每个人看待自己都是好人，而对别人却并不这样看待一样。这便决定了我们是否能练就宇宙第一能力的所在！</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>纵横捭阖</category>
+      </categories>
+      <tags>
+        <tag>思想前沿</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>向上“攀登”的秘诀</title>
+    <url>/archives/561f2e41.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="想出人头地和不想出人头地并存"><a href="#想出人头地和不想出人头地并存" class="headerlink" title="想出人头地和不想出人头地并存"></a>想出人头地和不想出人头地并存</h3><p>当今社会是个想出人头地和不想出人头地<strong>都难</strong>的<strong>并存</strong>时代。对于积极想出人头地的人来说，这类人群十分庞大和普遍的，<strong>财富和权贵是他们一直以来梦寐以求的，终身所想的东西</strong>。因为这个群体的庞大和对于<strong>财富、权贵的执着</strong>，更加<strong>加速了这个竞争</strong>，进而显得这个愿望的实现十分困难。因为<strong>财富和权贵能带来直接的现实利益</strong>，尤其是在当下的中国，再加之几千年以来的中国封建思想，<strong>对于集中权力和集中财富的追求往往大于了其他一切对社会有贡献的所在</strong>。</p>
+<h3 id="第一生存定律"><a href="#第一生存定律" class="headerlink" title="第一生存定律"></a>第一生存定律</h3><p>自古至今，<strong>制度的、权力的，大于技术的、技能的</strong>。这在当今也不例外。大家不防看看中国几千年来，没有科技和工程技术地位的历史总结中就不难找到答案。由此，我们不难总结出，在<strong>中国第一生存定律：制度&gt;技术</strong>。这里的制度是社会上层建筑的代表和统称，可以是权贵或中央集权，可以是社会关系的制度体系、等级关系。技术是生产力和先进的代表、统称。</p>
+<p>这一生存定律就决定了我们社会中，出人头地的难度。制度体系是科层级的，<strong>财富和权贵都集中在极少数人占据的金字塔顶端</strong>，能在这个体系中达到出人头地，其难度可想而知。</p>
+<p>与此同时，由于想出人头地的人站大多数，就直接决定了不想出人头地（是指不以权贵、财富为评判标准的人或所向）的人尴尬境地。一方面他们表现得不那么“<strong>上进</strong>”，另一方面，他们表现得不那么“<strong>识时务</strong>”。由此，这两方面，导致他们处于社会的不利地位，而<strong>被人轻视、唾弃、甚至是饱受欺负、什么好处都捞不到，而空有一身本领，还要被别人各类奇葩的规则和不平等支配</strong>。这是不想出人头地的人更难的所在。因为，他们<strong>不配合别人追求去努力，不以自己的努力帮助别人实现别人的目标（有句话叫做：你的努力只不过是帮别人实现目标）</strong>。所以导致，是个人都可踩他们一踩。这是在当今社会不想出人头地的人更难的生存状态。一方面要<strong>高屋建瓴的看清社会的面目，看到各类本质</strong>，一方面还要<strong>忍受各类低级的围攻和主导</strong>。</p>
+<p>这便是当今社会是个想出人头地和不想出人头地都难的并存时代的所在。难道难就没有办法了吗？其实并不然，<strong>凡事都是有规律的存在</strong>。例如，对于想出人头地的人来说，要获取权贵，占据社会有利的地位。<strong>其实什么学识、能力等什么都不重要，只要搞定决定你向上爬的“老大”即可</strong>。让你的“老大”获取你的信任，有好处想到你，你就成功了。也许有人会说：“不对，起码还要满足规则的基本条件才行”。这就是幼儿园没毕业的小朋友的认知了，“老大”都搞定了，难道那些基本条件，“老大”会不想办法搞定。再说就现在基本条件来说，大家基本都相差不大。</p>
+<h3 id="想出人头地第一解难定理"><a href="#想出人头地第一解难定理" class="headerlink" title="想出人头地第一解难定理"></a>想出人头地第一解难定理</h3><p>客观地说，要能做到这一步也是需要付出巨大牺牲的。因为，你需要<strong>忘掉自我</strong>，<strong>忘记自己</strong>，<strong>只记得“老大”</strong>、<strong>只记得“老大”的需要</strong>，<strong>在没有达到目的之前</strong>，<strong>要把自己活成“老大”的影子</strong>，这是需要巨大牺牲的存在。这便是<strong>第一解难定理：搞定“老大”就可以青云直上</strong>。这无疑是解决<strong>想出人头地的向上“攀登”秘诀</strong>，概莫能外。但另一方面，因为这一追逐过程中，并不存在对世界本来面目的把握，也诞生出另外一个必然的存在——“<strong>媚上者，必轻下</strong>”。所以，导致了这类人的存在是地位很高，却形象矮小的社会反差。</p>
+<h3 id="不想出人头地第一解难定理"><a href="#不想出人头地第一解难定理" class="headerlink" title="不想出人头地第一解难定理"></a>不想出人头地第一解难定理</h3><p>而对于不想出人头地的人来说呢，要破除“难”，就难很多，一是<strong>自己要有足够的本领，要不但的去把握事物的本来面目</strong>。这不是说在各种事物中占有先机，但至少要不被吃掉。二是要随时<strong>保持多种路径</strong>，保障自己不被现实规定，不求大贵大富，但无论在哪里都能使生活不受影响。因此，<strong>对于不想出人头地的人来说，解难的第一定理就是：搞定“自己”方能游刃有余</strong>。</p>
+<p><img src="https://pic1.imgdb.cn/item/6354ba9d16f2c2beb1cc72f4.png"></p>
+<p>发现规律，并运用规律，一切并不再难！难的只不过是无论怎样，只要是我们认为的不需追逐的东西，我们都能对它无动于衷！</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>纵横捭阖</category>
+      </categories>
+      <tags>
+        <tag>思想前沿</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大富的底层逻辑——先“杀贫”，后“杀富”</title>
+    <url>/archives/cab7c31d.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="世界平与不平重要吗"><a href="#世界平与不平重要吗" class="headerlink" title="世界平与不平重要吗"></a>世界平与不平重要吗</h3><p>如果世界是平的，那么贫的就不正常、富的也不正常；如果世界本来就是不平的，那么追求平的，就是逆天而行。但无论怎样，一定时期世界的总量却是个确定的数。因此，世界平与不平重要吗？无论世界的平与不平，都不妨碍我们对这个话题的讨论。</p>
+<h3 id="大富的底层逻辑"><a href="#大富的底层逻辑" class="headerlink" title="大富的底层逻辑"></a>大富的底层逻辑</h3><p>一定时期内，社会的总财富是恒定的，你多他就少、你少他就多。你要大富，就必然要从别人那里分得一部分财富到自己的口袋。总之是，必然要占有别人的一部分财产，才能使得自己大富。这便是创业致富、大富大贵的底层逻辑。任何的大富都离不开这个逻辑规律的支配，否则，像仅靠出卖自己劳动的工薪层，无论如何努力，获取的永远都只是少的可怜财富。关于这一点，马克思在《资本论》中，用“剩余价值论”给我们进行了详细的讲解，资本家通过剥削工人的剩余价值，来实现自己财富的积累。说到底，这就是通过“杀贫”来积累自己的财富。这也是资本完成原始积累的第一步，通过榨取穷人来实现。<br><img src="https://pic1.imgdb.cn/item/634d5e0e16f2c2beb19eabf4.jpg"><br>在榨取完穷人，积累到了资本。但要达到大富，还是很遥远的。毕竟“杀贫”只能是财富的积累，要达到大富，资本家靠“杀贫”是难以完成的。毕竟穷人可榨取的财富十分有限，完全满足不了资本大鳄的胃口。此时，资本家就要完成一个大的飞跃，向富人榨取迈进。通过“杀富”，完成自己的大富。</p>
+<p>由此，我们不难发现一个从无到有，从贫到大富的脉络。<strong>先通过穷人，“杀穷”积累原始资本，以获取“杀富”的筹码，然后“杀富”，来达到自己的大富</strong>。这里用了“杀”，可能很难让我们接受，毕竟别人没有拿着刀，别人拿的是产品、服务或是什么类的社会规则，怎么能说“杀”呢，这毕竟这说的太见血了。其实，这只不过是我们<strong>对“杀”的理解和见识太局限</strong>罢了。我们<strong>看得见拿着刀的“杀”，却看不见不拿着刀的”杀“</strong>。</p>
+<h3 id="相-“杀”是财富流转的秘密"><a href="#相-“杀”是财富流转的秘密" class="headerlink" title="相 “杀”是财富流转的秘密"></a>相 “杀”是财富流转的秘密</h3><p>其实，<strong>“杀”并不一定跟举刀有关，并不一定是打着举刀的旗号“杀”来的</strong>。这里不妨举一个大家都能理解其义的例子。比如，教员同志的创业，其本质就是一场“<strong>杀富济贫</strong>”的游戏，但旗号并非如此，他们的旗号却是要建立一个世界大同的共产主义社会、一个没有剥削、人人平等的理想国，从而，让中国人站起来、民族强盛起来。这里的“杀富济贫”丝毫没有贬低教员同志的意思，相反我认为他的”杀富“是先进的，因为，那个条件下的”富“是极其不健康的存在。在这里引述只不过是一种客观的民间话语的陈述。对于教员同志，我们没有任何可以诋毁他的地方，他的理想伟大，值得华夏子孙永世以他为荣，他的功劳，不输秦皇汉武。</p>
+<p>再举一个现实的例子，比如现在的地产公司某大，通过皮带生意，获得原始资本，结果疯狂进军房地产，通过老百姓和职工，举刀向银行榨取了大量财富，使得自己大富了一把，结果政府加强管制，爆了雷，玩不下去了，留下了遍地哀嚎的百姓和银行烂账，使得政府不得不保民生，给其擦屁股。完美的阐释了大富的底层逻辑和玩法。只不过是某大的玩法，“杀富”搞错了方向，没吞下，杀错了“富”，结果被人勒住脖子，噎着了自己。</p>
+<h3 id="“杀富”的合理性"><a href="#“杀富”的合理性" class="headerlink" title="“杀富”的合理性"></a>“杀富”的合理性</h3><p>由此可见，有的“富”是可以“杀”的，有的“富”是不可以“杀”的。但<strong>“杀富”是社会分化后的宇宙定律</strong>。因为“富”导致了社会分化，导致了多寡和不均。大富就极大地促使了这种不等的激化。无论是哪种创业、哪个行当，”富“的存在，<strong>必然是存在某种不合理的因素</strong>，尽管这种不合理因素，在我们看来，它是合理的。究其根本来说，它<strong>一定通过某些不合理的手段改变了规则</strong>，从而<strong>导致天平的倾斜</strong>。尽管这种倾斜在很多时候是<strong>符合事物当下发展情况的，但不代表这种符合的发展存在就一定是真理、是天道所踪</strong>。我们觉得的合理，只不过是我们被现实规定了，而看不出来。所以”富“的合法性是存疑的，因而”杀富“的合法性逻辑也就由此建立。因此，在这里<strong>”杀富“不是大逆不道，而是天道所常</strong>。对大富来说，就其人的差别而言，<strong>当他能力和智慧的差别不足以支撑财富的差别之时，便是灾难的开始</strong>。<br><img src="https://pic1.imgdb.cn/item/634d5e3416f2c2beb19f9dc8.jpg"><br>所以，我们常常看见各种大富人的光鲜和慈善，很多人被其表象所迷惑。其实，只不过是我们看到的表面是冰山一角而已，对于现象背后的庞大山体，永远在看不见的冰山之下。由此，聪明的人，都会发现，这个世界上<strong>没有无缘无故地爱，更没有无缘无故的恨，更不会相信天上真有馅饼掉下来</strong>。因为，馅饼不会自动产生，馅饼怎么来的，一定是在施舍的背后，对另外有一个不平衡的所在。而这个不平衡必然要另一个不平衡来支撑（当然，这里要排除亲情），从而不断地传递。于是不合理的因素，在看似一切合理中产生了。”富“的理所当然的表象，必然导致赤裸”杀富“的不理所当然，而<strong>不得不使”杀富“穿上各种外衣</strong>（产品、服务、规则、需求等等）来使得我们看起来不是”杀富“的逻辑和过程。</p>
+<h3 id="“杀富”的循环往复"><a href="#“杀富”的循环往复" class="headerlink" title="“杀富”的循环往复"></a>“杀富”的循环往复</h3><p><strong>文明的方式入侵，必然是文明的反抗方式</strong>。这是事物发展的对等逻辑，也是矛盾的对立统一。一个聪明的商人，一个聪明的富人，一定知道自己的财富来源，也一定理解这个逻辑，由此，他们会吃斋念佛，以求心安或智慧有限，以求更好的运气，谋求更大的财富。但就究其根本，就是<strong>”杀贫“积累资本，”杀富“获得大富，如此的迭代循环往复，直到他们的智慧的差距不足以支撑财富的差距时，被新的猎手所狙杀</strong>。这便是关于大富的一些运行逻辑。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>纵横捭阖</category>
+      </categories>
+      <tags>
+        <tag>思想前沿</tag>
       </tags>
   </entry>
   <entry>
@@ -1956,51 +2097,6 @@
       </tags>
   </entry>
   <entry>
-    <title>让目标实现变得可控的五个技巧</title>
-    <url>/archives/deb41e96.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="设定合适的目标难易程度"><a href="#设定合适的目标难易程度" class="headerlink" title="设定合适的目标难易程度"></a>设定合适的目标难易程度</h3><p>一般建议设定在“稍微困难”的程度比较合适，有一定的难度，但是必须是跳起来能够够得着的。</p>
-<h3 id="设定完成目标的期限"><a href="#设定完成目标的期限" class="headerlink" title="设定完成目标的期限"></a>设定完成目标的期限</h3><p>即设定目标的时间终点，一个没有完成时间终点的目标，一定是个没有结果的目标，无任何意义。</p>
-<h3 id="划分实现目标的步骤"><a href="#划分实现目标的步骤" class="headerlink" title="划分实现目标的步骤"></a>划分实现目标的步骤</h3><p>要有能达成目标实现的可操作详细步骤，知道该怎么做才好，然后，照着做并坚持下去。</p>
-<h3 id="找到目标的客观评价方法"><a href="#找到目标的客观评价方法" class="headerlink" title="找到目标的客观评价方法"></a>找到目标的客观评价方法</h3><p>对自己的目标或实现步骤是否达成，要有客观公正的第三者客观评价。</p>
-<h3 id="把大目标分成小目标"><a href="#把大目标分成小目标" class="headerlink" title="把大目标分成小目标"></a>把大目标分成小目标</h3><p>目标太大，达成度和进步程度就很难掌握，因此把大目标分成小目标，定期进行检视、评价，以便给自己进行反馈。</p>
-<p><img src="https://pic.imgdb.cn/item/6319dbfa16f2c2beb1648d55.png"></p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>自我提升</category>
-      </categories>
-      <tags>
-        <tag>自我提升</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>数字化的几个阶段</title>
     <url>/archives/62f12b5b.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/635e25ba16f2c2beb17ff9ec.jpg"></p>
@@ -2048,17 +2144,15 @@
       </tags>
   </entry>
   <entry>
-    <title>我们为什么无法纠错？</title>
-    <url>/archives/3b90e809.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="对错误的传统观念"><a href="#对错误的传统观念" class="headerlink" title="对错误的传统观念"></a>对错误的传统观念</h3><p>知错就改，基本是老生常谈的一个话题，甚至在潜意识里面认为，这个是个极其简单的事情。以至于谁不知错就改，谁就不可理喻。这是我们对于错误的一般认识，是思维习惯中的认识，是停留在小孩子认知思维里面的认识。</p>
-<h3 id="错误存在的根本"><a href="#错误存在的根本" class="headerlink" title="错误存在的根本"></a>错误存在的根本</h3><p>但往往现实的情况，却是并非如此。其实，人的一生都是在认识错误的道路上。因为，我们事先不知道我们究竟怎样才是对的，只能不断地去尝试。而很多尝试，就是试错，人生的大部分时光就是不断地在错误道路上，寻求正确的东西。比如，我们到底是考研，考公务员，创业、还是找工作等等？我们不知道我们该选择哪个专业？在哪里就业？我们应该在哪些方面努力才是适合我们自己的？要找什么样的老婆等等，我们是不知道我们当前的选择究竟是对还是错的。与此同时，我们选择的时候，还要照顾到家人、亲友等等的心理需求和期盼。比如，到了婚育的年龄，你的父母就要期望你婚育，不管你合不合适，他们需要的是，你有没有给他们带来心理需要的媳妇或孩子，以便他们在社交当中的需要。这样就更加重了我们对于错误和正确的迷茫。知错就改、纠错，首先就需要建立在对错误有个清醒、明晰的认识上。否则，纠错就无从谈起。</p>
-<p><img src="https://pic.imgdb.cn/item/6330766016f2c2beb1dabe21.jpg"></p>
-<h3 id="找到正确的道路，你就能及时纠错吗？"><a href="#找到正确的道路，你就能及时纠错吗？" class="headerlink" title="找到正确的道路，你就能及时纠错吗？"></a>找到正确的道路，你就能及时纠错吗？</h3><p>当经过我们不断地努力，终于在我们努力试错过程中，找到了正确的道路，我们就能及时纠错，知错就改了吗？答案是不一定的。有的是可以及时纠错、立即知错就改的。比如，犯罪、违法，生病了不再硬抗，去看医生接受治疗，教育孩子，脾气火爆，要克制等等这些有仅仅是关于我们自身的错误，一般在没有生理缺陷的情况下，是可以做到及时纠错，或知错就改的。</p>
-<p>但是，对于那些超乎我们自身本体，对其他有影响的错误，及时纠错、知错就改，就显得并不那么容易。比如，你打工想获得富裕，在你打了十几年或几十年工后，也没有获得富裕，此时你方才明白，通过打工来富裕，根本就是个错误。此时，你能及时纠错吗？这时你的纠错就需要衡量了。如果你上有老、下有小了，一家人的生存、冷暖、人情世故系于你一身。此时，你去纠错、知错就改，不再打工，而是去创业？这可能吗？我相信，世界上很少有这么武断的人，即使有，也是被逼无赖的。因为在此种情境下，很少有去冒生存危机去干更加不确定性的创业的。</p>
-<p><img src="https://pic.imgdb.cn/item/6330768316f2c2beb1dae888.jpg"></p>
-<h3 id="纠错是有成本的"><a href="#纠错是有成本的" class="headerlink" title="纠错是有成本的"></a>纠错是有成本的</h3><p>这就说明纠错并不那么容易，也不是所有的错都能纠正的和知错就改的。因为纠错是需要成本的，错误的情况不一样，纠错的成本也不一样。有的成本很低、有的成本很高，以至于我们无法立即纠错。尽管很多人的一生都是在错误的道路上，越错越远，从而为人生的悲剧埋下伏笔，但他就是无法纠错。与此同时，虽然我们要为我们错误支付成本，我们不能立即纠错，但是知道对错，终究是对我们有益的，可以为我们后面的不再犯同类错积累经验。</p>
-<h3 id="怎样少犯错"><a href="#怎样少犯错" class="headerlink" title="怎样少犯错"></a>怎样少犯错</h3><p>减少试错、纠错的成本，最好的方法无疑是少犯错误。那究竟怎样才能少犯错误呢？！方法只有一个，就是凡事直击本质，找到我们究竟想要什么，思考怎样才能达到目的，除此之外的，传统习俗，观念约束，都要抛弃。一定要做到怎么接近事物的本质就怎么去做，就是少犯错误的总方法。很多时候，我们都被琐事所累   人是糊涂的。只会加深我们在错误的道路上越行越远。错误行远了，不是一下就能刹住车，要纠正过来，必须积攒纠错的能量，等能量积攒够了纠错就走上了正确的道路。</p>
-<p><img src="https://pic.imgdb.cn/item/633076be16f2c2beb1db30b9.jpg"></p>
+    <title>在数字化进程中寻找趋势的几点思考</title>
+    <url>/archives/a0065adf.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/63612e7116f2c2beb1c705f7.png"></p>
+<p>任何事物在趋势面前，一切都显得不值一提。<strong>趋势不对，努力白费！</strong> 抓住趋势，就抓住了未来，那时就是猪在风口。</p>
+<p>（一）<strong>经济层面</strong>的判断：一个公司有抓住趋势，首先在它的股价上有所表现。<strong>股价波动背后的逻辑，价值决定价格、趋势决定股价！</strong></p>
+<p>（二）<strong>大的趋势</strong>判断：大公司要不断发展新的业务，不仅如此，一旦市场上新的业务出现，还需要需迅速出手，一般的手法就是将其收购、纳入囊中。但是这个纳入囊中也不是随便就能成功的、能给公司带来有益的补充的。它需要对社会总的趋势一个准确的判断。例如在智能手机出现之前，万维网主宰着网络空间，在智能手机之后，万维网主宰的网络空间被移动互联网取代。在当前移动互联网主宰的世界，或许网络空间走向物联网或万有网或许就是下一个大的趋势。</p>
+<p>（三）<strong>盈利模式</strong>趋势的判断：当移动互联网取代万维网时，用户从桌面走向移动终端，于是流量就产生了，产生了流量，盈利就由此产生。大趋势的走向一定会立即在用户端首先表现出来，抓住用户端的走向，就抓住了盈利的模式。随着数字化的进程深入，或许移动终端从当前的<strong>人机分离的终端结合走向人机合体终端的融合</strong>，<strong>从视觉语音走向触感、意念</strong>将是下一个取代的趋势。</p>
+<p>（四）<strong>社会变革</strong>的趋势：移动互联网的趋势，人和手机的结合，引发了情境感知的移动计算社会，自媒体变革了整个社会的能见度、可见度和亲密度。或许接下来，<strong>自然智能+人工智能的合体人</strong> 将是社会的主流结构，人工智能完成1到100的学习和计算，而人的自然智能则完成机器和算法无法完成的0到1的识别。即用人解决0到1的问题，机器解决1到100的问题。</p>
+<p>（五）<strong>安全保障</strong>的趋势：当用户从桌面走向移动终端时，极度不平衡的物质和精神需求的巨大差距，使得人们<strong>对于方便和效率的关注，远远大于了对自己隐私的关心</strong>。或许在下一个趋势面前，当人机合体时，<strong>隐私却是作为独立个体最鲜明的特征</strong>。那时谁在隐私方面方面抓住了趋势，谁就抓住了下一个的主宰。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -2089,24 +2183,23 @@
 			</script>
 		]]></content>
       <categories>
-        <category>纵横捭阖</category>
+        <category>数字化</category>
       </categories>
       <tags>
-        <tag>思想前沿</tag>
+        <tag>数字能力</tag>
       </tags>
   </entry>
   <entry>
-    <title>向上“攀登”的秘诀</title>
-    <url>/archives/561f2e41.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="想出人头地和不想出人头地并存"><a href="#想出人头地和不想出人头地并存" class="headerlink" title="想出人头地和不想出人头地并存"></a>想出人头地和不想出人头地并存</h3><p>当今社会是个想出人头地和不想出人头地<strong>都难</strong>的<strong>并存</strong>时代。对于积极想出人头地的人来说，这类人群十分庞大和普遍的，<strong>财富和权贵是他们一直以来梦寐以求的，终身所想的东西</strong>。因为这个群体的庞大和对于<strong>财富、权贵的执着</strong>，更加<strong>加速了这个竞争</strong>，进而显得这个愿望的实现十分困难。因为<strong>财富和权贵能带来直接的现实利益</strong>，尤其是在当下的中国，再加之几千年以来的中国封建思想，<strong>对于集中权力和集中财富的追求往往大于了其他一切对社会有贡献的所在</strong>。</p>
-<h3 id="第一生存定律"><a href="#第一生存定律" class="headerlink" title="第一生存定律"></a>第一生存定律</h3><p>自古至今，<strong>制度的、权力的，大于技术的、技能的</strong>。这在当今也不例外。大家不防看看中国几千年来，没有科技和工程技术地位的历史总结中就不难找到答案。由此，我们不难总结出，在<strong>中国第一生存定律：制度&gt;技术</strong>。这里的制度是社会上层建筑的代表和统称，可以是权贵或中央集权，可以是社会关系的制度体系、等级关系。技术是生产力和先进的代表、统称。</p>
-<p>这一生存定律就决定了我们社会中，出人头地的难度。制度体系是科层级的，<strong>财富和权贵都集中在极少数人占据的金字塔顶端</strong>，能在这个体系中达到出人头地，其难度可想而知。</p>
-<p>与此同时，由于想出人头地的人站大多数，就直接决定了不想出人头地（是指不以权贵、财富为评判标准的人或所向）的人尴尬境地。一方面他们表现得不那么“<strong>上进</strong>”，另一方面，他们表现得不那么“<strong>识时务</strong>”。由此，这两方面，导致他们处于社会的不利地位，而<strong>被人轻视、唾弃、甚至是饱受欺负、什么好处都捞不到，而空有一身本领，还要被别人各类奇葩的规则和不平等支配</strong>。这是不想出人头地的人更难的所在。因为，他们<strong>不配合别人追求去努力，不以自己的努力帮助别人实现别人的目标（有句话叫做：你的努力只不过是帮别人实现目标）</strong>。所以导致，是个人都可踩他们一踩。这是在当今社会不想出人头地的人更难的生存状态。一方面要<strong>高屋建瓴的看清社会的面目，看到各类本质</strong>，一方面还要<strong>忍受各类低级的围攻和主导</strong>。</p>
-<p>这便是当今社会是个想出人头地和不想出人头地都难的并存时代的所在。难道难就没有办法了吗？其实并不然，<strong>凡事都是有规律的存在</strong>。例如，对于想出人头地的人来说，要获取权贵，占据社会有利的地位。<strong>其实什么学识、能力等什么都不重要，只要搞定决定你向上爬的“老大”即可</strong>。让你的“老大”获取你的信任，有好处想到你，你就成功了。也许有人会说：“不对，起码还要满足规则的基本条件才行”。这就是幼儿园没毕业的小朋友的认知了，“老大”都搞定了，难道那些基本条件，“老大”会不想办法搞定。再说就现在基本条件来说，大家基本都相差不大。</p>
-<h3 id="想出人头地第一解难定理"><a href="#想出人头地第一解难定理" class="headerlink" title="想出人头地第一解难定理"></a>想出人头地第一解难定理</h3><p>客观地说，要能做到这一步也是需要付出巨大牺牲的。因为，你需要<strong>忘掉自我</strong>，<strong>忘记自己</strong>，<strong>只记得“老大”</strong>、<strong>只记得“老大”的需要</strong>，<strong>在没有达到目的之前</strong>，<strong>要把自己活成“老大”的影子</strong>，这是需要巨大牺牲的存在。这便是<strong>第一解难定理：搞定“老大”就可以青云直上</strong>。这无疑是解决<strong>想出人头地的向上“攀登”秘诀</strong>，概莫能外。但另一方面，因为这一追逐过程中，并不存在对世界本来面目的把握，也诞生出另外一个必然的存在——“<strong>媚上者，必轻下</strong>”。所以，导致了这类人的存在是地位很高，却形象矮小的社会反差。</p>
-<h3 id="不想出人头地第一解难定理"><a href="#不想出人头地第一解难定理" class="headerlink" title="不想出人头地第一解难定理"></a>不想出人头地第一解难定理</h3><p>而对于不想出人头地的人来说呢，要破除“难”，就难很多，一是<strong>自己要有足够的本领，要不但的去把握事物的本来面目</strong>。这不是说在各种事物中占有先机，但至少要不被吃掉。二是要随时<strong>保持多种路径</strong>，保障自己不被现实规定，不求大贵大富，但无论在哪里都能使生活不受影响。因此，<strong>对于不想出人头地的人来说，解难的第一定理就是：搞定“自己”方能游刃有余</strong>。</p>
-<p><img src="https://pic1.imgdb.cn/item/6354ba9d16f2c2beb1cc72f4.png"></p>
-<p>发现规律，并运用规律，一切并不再难！难的只不过是无论怎样，只要是我们认为的不需追逐的东西，我们都能对它无动于衷！</p>
+    <title>数据为王之道</title>
+    <url>/archives/c5662c25.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/6363cf7f16f2c2beb12dec04.jpg"></p>
+<p>数据最神奇的力量开始于预测比赛、后盛行于预测美国总统选举，这是数据史上曾经发生过的真实一幕。随着数据作为生产要素进入市场，数据几乎成了数字化的主宰。没有数据的数字化，根本很难想象会是什么样的。在数字化红利当中，数据就是王者。究其原因就是我们对数据的求真与现实数据的失真之间的矛盾所决定的。越是现实数据失真的厉害，我们对于数据的求真就越迫切，拥有真数据的价值就越高。这使得我们不仅要问，现实数据为什么会失真呢？或许导致现实数据失真的原因有很多，我们这里总结几个：</p>
+<p>1）多与用的矛盾。信息似乎铺天盖地、到处都是，但是可用的信息却寥寥无几。</p>
+<p>2）主观与客观，全面与片面的矛盾。我们总是习惯主观地、有选择地看待了数据和信息还不觉得。</p>
+<p>3）信息与知识的矛盾。我们总是自以为自己需要的是信息，但其实真正需要的是知识。从<strong>数据</strong>到<strong>信息</strong>再到<strong>知识</strong>，每一步都受认识规律的支配，每一步都有一个巨大的鸿沟需要跨越。</p>
+<p>与此同时，数据失真使得我们对数据十分依赖，引发我们在使用数据、分析数据上另一个失真的存在。比如，我们在使用数据、分析数据时，想直接从数据中找到因果关系，过于强调直接的因果性，使得模型中缺少变量。</p>
+<p>另外，数据到处理步骤时，数据几乎已是历史数据，现实的情况实际已经发生了实质性的改变。我们还以固化的思维，依赖历史数据，却忘记了还要依赖于现实的当下。这是几乎所有大数据失效的根本所在。另一方面，即使数据是时效分析的，人的适应性和灵活性，都会使得任何事物的数据在现实面前失效，凡事基于数据的经验或结论，都会被人在针对性预防、操纵中令其失效，这是人性。这使得那些认为大数据的作用是让历史告诉未来的人，深伤其心，不再相信数据，从而不得不发出一个普遍的疑问，数据真的可靠吗？数据真的能为王吗？</p>
+<p>其实数据能不能为王，不是绝对的。持静态观念的人，在实践中会对数据为王产生深深的不再相信。持动态观念的人，会在数据为王中不断地寻求进步。他们会在数据之中，不断地加入情境，比如行为、社交、兴趣、个人、环境等变量，在这些变量中去使用数据，给数据新的意义和价值。这或许便是数据为王之道。单纯的数据，产生不了王者，因为那不是道之所在。这使得我们在进行数字化建设时，不得不考虑数据与情境的配合，考虑什么场景下的数据和可使用的场景。这或许就是数据和人本身配合的需要。</p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -2137,10 +2230,103 @@
 			</script>
 		]]></content>
       <categories>
-        <category>纵横捭阖</category>
+        <category>数字化</category>
       </categories>
       <tags>
-        <tag>思想前沿</tag>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>从平台经济看数字经济</title>
+    <url>/archives/15e98320.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/63692c7816f2c2beb1cb6c6f.jpg"></p>
+<p>   通俗地讲，今天的基于信息技术或新一代信息技术、并搭建有互联网用户平台的科技公司，都可以说是平台公司。像我国当前的互联网巨头——腾讯、百度、阿里、京东、跳动字节等公司，国外的Google、脸书、亚马逊等 。平台用户、平台公司及其他第三方围绕或基于平台所产生的一系列经济活动，就构成了平台经济。信息技术或新一代信息技术，就是数字技术的主要类别之一。可以说数字科技是我们当前数字经济的主要技术支撑。因此，数字经济就可以被看作是围绕数字科技所产生的一系列经济活动。在我国的数字经济定义中，分为数字产业化产业和数字产业化两大块内容。平台经济可以说这两大内容都有所涉及。无论是数字产业化，还是产业数字化，在当今的数字经济中，平台经济可以说是主要形式，平台是当前数字经济最集中的表现。    </p>
+<p>   因为大家只要看看Google、脸书、亚马逊、腾讯、百度、阿里、跳动字节等等这些平台公司的市值，就知道平台经济强大的经济效应，就是当前数字经济最杰出的代表。我们不防通过这些公司的平台经济的经验和趋势，来找找数字经济的启示。</p>
+<p>   这些基于信息技术，并努力在新一代信息技术中拔得头筹的公司，都是相关领域的巨头。像Google、百度，是搜索领域的巨头，阿里、京东、亚马逊是电商领域的巨头，腾讯、脸书是社交领域的巨头。这些巨头公司，比以往任何时候表现出强大的“赢者通吃”和“强者恒强”的特征，在数字经济中，更容易形成垄断。任何新型领域刚刚崭露头角的公司，都会被这些巨头纳入碗中。因为这些巨头，不仅在创新自己的主业，还在关注外部创新的主业，一但他们觉得外部的创新对他们有用，成为他们的囊中之物，便是他们的主要目标。像脸书收购照片墙。像Google不仅是搜索领域的霸主，就是在手机操纵系统Android领域，它也是霸主。</p>
+<p>   其次，就是他们要不断的创造对用户有用的东西或让他们感兴趣的内容，来留住大规模的用户流量。在数字经济中，流量就是金钱，是经济活动、数字化生存中一切交换、交易的“硬通货”。没有流量、就是没有价值。巨头公司就是超大规模流量的拥有者，有海量的用户免费的为他产生生产资料，他们能加工成数据商品。与此同时，他们还能搭建平台操纵系统，让海量的平台开发者为其寄生，或维护其技术的迭代，以保持业界的影响和存在，更维护技术的长青。比如现在阿里、百度等等的开源平台等等，为其构建抵御风险的防御。</p>
+<p>   再次，他们会向相邻或甚至不相干的市场发起不对等、不对称的打击。例如，微信干掉了电信运营商短信、电商、美团、饿了么干掉了线下实体店，滴滴干掉出租车公司大部分业务等等。因为，这些平台公司他们是通过匹配具有互补需求的客户来获得生存力的。阿里的创始人马云，通过阿里巴巴，通过批发平台，“让天下不再有难做的生意”，匹配了工厂、匹配了物流和客户。与此同时，工厂、物流、客户，任何一方的增长都助力了其他方的增长，可以说平台经济，还是个“多边市场”。</p>
+<p>   此外，平台极具天然的扩张性，由于平台的易复制性、零成本边际效应，使得平台要不断地追求扩大边界，来扩大竞争的边界。而使得垄断更加严重的同时，还导致平台与寄生平台的生态系统失衡。因此，数字平台公司，必须对于自己的扩展要有个理性的认识。他们的诞生就决定了他们的使命。无限的扩张欲望，是适得其反的。</p>
+<p>   最后，这些平台公司，成长起来前，需要大量的烧钱。也即需要雄厚的资本持续注入，直到有稳定的相当规模的用户流量。他们的运作体系，不在于传统的商业模式，盈利挣钱，盈利和利润并不是数字平台公司运作的底层逻辑，而是流量体系的运作能否正常运行。只要流量体系正常，能源源不断的免费产生生产资料——用户行为、数据资料等等，公司的持续发展就存在强劲的动力。因此，数字经济跟人的粘性更强。像京东一直亏钱，但是并不影响京东的运作，像滴滴烧了那么多钱，依然不会因为缺钱而轰然倒塌。像手机已经成为了“瘾”。我们可以不带钱生活，但是不带手机更不一刻也不能生存。</p>
+<p>   这些，都不难给我们一些数字经济的一些启示：<br>    1.流量为王、要建立数字经济中的流量通道和体系。流量的成败，就是数字经济的成败。而且要为此做好烧钱的准备。没有雄厚的资本来前期烧钱，好的创意，根本就是巨人囊中之物。<br>    2.数字经济世界，垄断更加厉害，是个“赢者通吃”和“强者恒强”的世界。<br>    3.打败你的，不一定是你的同行，说不定是跨界的那个小子或玩家。在数字世界，真正的危险不是来自你看得见的危险，反而更多是你看不见、想不到的威胁。<br>    4.数字经济是更具“互补需求”的经济，用户更加需要便捷和高效的满足自身需要，数字平台要能更好地提供相关需求。<br>    5.整个数字经济中，用户明面上绝对是低成本或零成本的支付平台公司的费用。因为，数据、行为的权益，还没有一个定权，而平台公司，毫无支付用户的费用，而白白的利用了这些数据资料。这将是一个充满争议的话题和焦点。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数字经济是使用经济，拥有不再是人们的追求</title>
+    <url>/archives/f2fcf713.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/636a6ec216f2c2beb1a379e0.jpg"><br>在人类经济的历史长河中，对生产生活资料的拥有、所有权，一直都是人们追逐的东西。比如土地、房屋、财产等等，对物权我们一直以来注重其拥有性，并以此来评判人的社会财富和地位等级。而这一切，在数字社会，数字经济将对其重新进行赋权。</p>
+<p>已经展露头角的共享经济、分享经济，已经给我们给出了数字经济生活中，对于拥有、所有权的新认识。在这之前，人们将物权的所有权和使用权相互剥离。所有权通过出租使用权来获得收益。这便是地租产生，通过物的所有权，来奴役、操控人的底层逻辑。</p>
+<p>随着社会生产力的发展和社会财富的积累。生产生活资料的拥有不再是少数人特权，加之数字技术给社会交换和连接所带来的低成本，使得对于人身外之物的认识，更加接近事物的本来面目。</p>
+<p>分享经济当中的，滴滴顺风车把大量私家车的闲置率降低，同时又减轻了车主养车的费用成本。共享经济当中的租赁，共享单车、共享充电宝等，使使用人不再关注这些物的所有权。物品从工厂出来，不再经由中间商，使物直接面对使用的人。</p>
+<p>这使得我们不得不注重，在数字经济中，使用权的突出地位。人们不再关注物的所有和归属，能不能供自己所使用，才是应该关注的重点。</p>
+<p>可以预见的未来，数字经济中的创业者和企业，更应该专注给人创造使用的场景和使用的广度、深度，谁能抓住数字经济给人带来的对使用的需求，谁就是数字经济的王者。资产不再是下一个经济体的评价标准。与之相伴的必将是使用度或使用方面的衡量将是新的资产尺度。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>数字化</category>
+      </categories>
+      <tags>
+        <tag>数字能力</tag>
       </tags>
   </entry>
   <entry>
@@ -2214,52 +2400,6 @@
 <p>2.在网络化、信息化的过程中，不能简单套用互联网企业的模式，更不能简单依靠互联网企业来完成实体制造业数字化转型。互联网公司落地与实体制造业转型是两种不同的战略。前者主张“互联网＋”，把互联网流量尽可能多的扩张，凸显“虚”的渗透性。而实体制造业，则要注重的是实体，是质量、品质和广大的个性化定制满足。</p>
 <p>3.相对于互联网企业所谓“互联网思维”，CPS（即信息物理系统）理念更适合实体制造业转型。实体制造业转型必须围绕CPS理念展开，用明确目标，改造实体结构，虚实深度融合，才能充分发挥“实”的优势，才不至于脱实向虚。</p>
 <p>4.数字化转型管理要突破传统管理思维，创新管理思维，用高维管理低维，系统思维战胜线性思维，高维战胜低维。对于实体制造业数字化转型我们需要跳出原来的思考窠臼，不是从实体看实体，而是“实多要虚看，虚多要看实”，从虚拟看实体，从实体看虚拟,更要习惯从信息科学的角度看待制造业。</p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在数字化进程中寻找趋势的几点思考</title>
-    <url>/archives/a0065adf.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/63612e7116f2c2beb1c705f7.png"></p>
-<p>任何事物在趋势面前，一切都显得不值一提。<strong>趋势不对，努力白费！</strong> 抓住趋势，就抓住了未来，那时就是猪在风口。</p>
-<p>（一）<strong>经济层面</strong>的判断：一个公司有抓住趋势，首先在它的股价上有所表现。<strong>股价波动背后的逻辑，价值决定价格、趋势决定股价！</strong></p>
-<p>（二）<strong>大的趋势</strong>判断：大公司要不断发展新的业务，不仅如此，一旦市场上新的业务出现，还需要需迅速出手，一般的手法就是将其收购、纳入囊中。但是这个纳入囊中也不是随便就能成功的、能给公司带来有益的补充的。它需要对社会总的趋势一个准确的判断。例如在智能手机出现之前，万维网主宰着网络空间，在智能手机之后，万维网主宰的网络空间被移动互联网取代。在当前移动互联网主宰的世界，或许网络空间走向物联网或万有网或许就是下一个大的趋势。</p>
-<p>（三）<strong>盈利模式</strong>趋势的判断：当移动互联网取代万维网时，用户从桌面走向移动终端，于是流量就产生了，产生了流量，盈利就由此产生。大趋势的走向一定会立即在用户端首先表现出来，抓住用户端的走向，就抓住了盈利的模式。随着数字化的进程深入，或许移动终端从当前的<strong>人机分离的终端结合走向人机合体终端的融合</strong>，<strong>从视觉语音走向触感、意念</strong>将是下一个取代的趋势。</p>
-<p>（四）<strong>社会变革</strong>的趋势：移动互联网的趋势，人和手机的结合，引发了情境感知的移动计算社会，自媒体变革了整个社会的能见度、可见度和亲密度。或许接下来，<strong>自然智能+人工智能的合体人</strong> 将是社会的主流结构，人工智能完成1到100的学习和计算，而人的自然智能则完成机器和算法无法完成的0到1的识别。即用人解决0到1的问题，机器解决1到100的问题。</p>
-<p>（五）<strong>安全保障</strong>的趋势：当用户从桌面走向移动终端时，极度不平衡的物质和精神需求的巨大差距，使得人们<strong>对于方便和效率的关注，远远大于了对自己隐私的关心</strong>。或许在下一个趋势面前，当人机合体时，<strong>隐私却是作为独立个体最鲜明的特征</strong>。那时谁在隐私方面方面抓住了趋势，谁就抓住了下一个的主宰。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
 			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
@@ -2399,6 +2539,90 @@
       </tags>
   </entry>
   <entry>
+    <title>火出天际的ChatGPT在国内的玩法</title>
+    <url>/archives/3da08d6e.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic.imgdb.cn/item/63e523894757feff33f63223.png"><br>ChatGPT已经火出了天际，对于这么一款具有跨时代的文字语言AI工具，很多人都被其强大的智能所吸引。可是国内并不能访问，实为憾事，毕竟ChatGPT确实能给我们带来很多有用的东西。<br>为了解决这个问题，今天给出一个可以访问的解决方案，供大家参考。如需协助，请在本站内寻找联系方式，可获专人协助处理。下面就来看看具体怎么操作：</p>
+<p>整个操作的<strong>核心步骤</strong>：</p>
+<p><em><strong>一是建立国际外网访问代理</strong></em>；</p>
+<p><em><strong>二是建立国外虚拟主机</strong></em>；</p>
+<p><em><strong>三是远程登录国外虚拟主机，访问并使用ChatGPT</strong></em>。</p>
+<p><strong>一 建立国际外网访问代理：</strong></p>
+<p>该步俗称翻墙，现在翻墙软件有多种，但真正实惠好用的却很少，这个给大家推荐一款：**<a href="https://awcloud.cc/#/register?code=mtEqWIxT">阿伟云代理</a>**。<br>该代理性价比最高、教程完善，使用方便。<br><a href="https://awcloud.cc/#/register?code=mtEqWIxT"><img src="https://pic.imgdb.cn/item/63e524634757feff33f77399.png"></a></p>
+<p>如上图所示：开通了2年只用了14.48G，<em><strong>88元包含250G，不限时使用，非常划算</strong></em>。</p>
+<p><a href="https://awcloud.cc/#/register?code=mtEqWIxT"><img src="https://pic.imgdb.cn/item/63e5241b4757feff33f70e65.png"></a></p>
+<p><a href="https://awcloud.cc/#/register?code=mtEqWIxT"><img src="https://pic.imgdb.cn/item/63e5241b4757feff33f70e65.png"></a></p>
+<p><strong>二 建立国外虚拟主机</strong></p>
+<p>通过国内主机不能访问ChatGPT，必须通过国外主机，这就需要我们租赁国外可以正常访问的虚拟主机。<br>这里跟大家推荐绝对可以正常访问，且性价比高的一款国外云平台：***<a href="https://www.vultr.com/?ref=8288474">vultr</a>**、支持支付宝充值，充值10美金约60多人民币，访问ChatGPT可以玩半年，十分方便。</p>
+<p>1、访问链接1：***<a href="https://www.vultr.com/?ref=8288474">点此打开</a>***</p>
+<p>2、访问链接2：***<a href="https://www.vultr.com/?ref=9340785-8H">点此打开</a>***</p>
+<p>打开页面后，除注册外，还支持GitHub和Google账号登录。</p>
+<p><a href="https://www.vultr.com/?ref=8288474"><img src="https://pic.imgdb.cn/item/63e524904757feff33f7b3cc.png"></a></p>
+<p><a href="https://www.vultr.com/?ref=9340785-8H"><img src="https://pic.imgdb.cn/item/63e524a64757feff33f7d4c0.png"></a></p>
+<p>上图点击“+”号创建虚拟主机，如上图所示。选择“Shared vCPU”，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e524c04757feff33f7fc4a.png"></p>
+<p>选择：“Regular Performance”，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e524da4757feff33f82764.png"></p>
+<p>部署位置：选择建议选择：美国（America），因为ChatGPT是美国的产品，不会自己禁止自己访问，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e524f04757feff33f8484c.png"></p>
+<p>选择安装window操作系统，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e5250a4757feff33f86f45.png"></p>
+<p>选择最小存储：55GB，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e525204757feff33f88d83.png"></p>
+<p>不需要备份服务，选择“OFF”，如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e5253d4757feff33f8b5b9.png"></p>
+<p>设置完成后，点击“Deploy Now”</p>
+<p><img src="https://pic.imgdb.cn/item/63e528ff4757feff33fe5454.png"></p>
+<p><strong>三 远程登录国外虚拟主机，访问并使用ChatGPT</strong></p>
+<p>在上述所间的虚拟主机中，访问ChatGPT。具体是<em><strong>远程登录</strong></em>到上述创建的虚拟主机，打开浏览器，输入：<a href="https://openai.com/blog/chatgpt/%EF%BC%8C">https://openai.com/blog/chatgpt/，</a><br>如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e52a814757feff3300730d.png"></p>
+<p>点击上图中：“TRY CHATGPT”，打开如下界面：</p>
+<p><img src="https://pic.imgdb.cn/item/63e525574757feff33f8d902.png"></p>
+<p>点击游览器刷新按钮，刷新页面，就打开如下ChatGPT登录、注册界面：</p>
+<p><img src="https://pic.imgdb.cn/item/63e525754757feff33f9033b.png"></p>
+<p>可以注册ChatGPT（短信验证码时，需国外手机号，但可使用接码平台注册，不会可以本站内寻找联系方式，联系本站专人协助），也可以使用Google账号和微软账号访问。</p>
+<p><img src="https://pic.imgdb.cn/item/63e525944757feff33f93426.png"></p>
+<p>登录之后，就可以进入到ChatGPT的使用了。如下图所示：</p>
+<p><img src="https://pic.imgdb.cn/item/63e525a94757feff33f9522b.png"></p>
+<p><img src="https://pic.imgdb.cn/item/63e525c24757feff33f9726d.png"></p>
+<p>用完ChatGPT后，如果虚拟主机没有其他服务或用处，建议回到***<a href="https://www.vultr.com/?ref=8288474">vultr</a>***，销毁掉刚创建的虚拟机，免得扣费，这样我们充值10美金，可以用少则半年多则好几年不是问题。</p>
+<p><img src="https://pic.imgdb.cn/item/63e525df4757feff33f99ea4.png"></p>
+<p>好了，简要介绍到这里，如需协助，请在本站内寻找联系方式，可获专人协助处理。</p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>网站工具分享</category>
+      </categories>
+      <tags>
+        <tag>网站工具分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有效搜索的流程是怎样的？</title>
     <url>/archives/91eef585.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>   很多人每天都在利用搜索解决问题，但是很少有人清楚一个有效的搜索流程是怎样的？也很少有人想起还有搜索流程这回事。其实，在我们构建自己的<a href="https://www.shuzisharing.com/archives/eb757e57.html">搜索框架</a>时，就已经触及到了搜索流程，只是被我们忽略。现在我们来看看一个具体的搜索流程是怎样的。</p>
@@ -2445,147 +2669,6 @@
 		]]></content>
       <categories>
         <category>信息搜索力</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>从平台经济看数字经济</title>
-    <url>/archives/15e98320.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/63692c7816f2c2beb1cb6c6f.jpg"></p>
-<p>   通俗地讲，今天的基于信息技术或新一代信息技术、并搭建有互联网用户平台的科技公司，都可以说是平台公司。像我国当前的互联网巨头——腾讯、百度、阿里、京东、跳动字节等公司，国外的Google、脸书、亚马逊等 。平台用户、平台公司及其他第三方围绕或基于平台所产生的一系列经济活动，就构成了平台经济。信息技术或新一代信息技术，就是数字技术的主要类别之一。可以说数字科技是我们当前数字经济的主要技术支撑。因此，数字经济就可以被看作是围绕数字科技所产生的一系列经济活动。在我国的数字经济定义中，分为数字产业化产业和数字产业化两大块内容。平台经济可以说这两大内容都有所涉及。无论是数字产业化，还是产业数字化，在当今的数字经济中，平台经济可以说是主要形式，平台是当前数字经济最集中的表现。    </p>
-<p>   因为大家只要看看Google、脸书、亚马逊、腾讯、百度、阿里、跳动字节等等这些平台公司的市值，就知道平台经济强大的经济效应，就是当前数字经济最杰出的代表。我们不防通过这些公司的平台经济的经验和趋势，来找找数字经济的启示。</p>
-<p>   这些基于信息技术，并努力在新一代信息技术中拔得头筹的公司，都是相关领域的巨头。像Google、百度，是搜索领域的巨头，阿里、京东、亚马逊是电商领域的巨头，腾讯、脸书是社交领域的巨头。这些巨头公司，比以往任何时候表现出强大的“赢者通吃”和“强者恒强”的特征，在数字经济中，更容易形成垄断。任何新型领域刚刚崭露头角的公司，都会被这些巨头纳入碗中。因为这些巨头，不仅在创新自己的主业，还在关注外部创新的主业，一但他们觉得外部的创新对他们有用，成为他们的囊中之物，便是他们的主要目标。像脸书收购照片墙。像Google不仅是搜索领域的霸主，就是在手机操纵系统Android领域，它也是霸主。</p>
-<p>   其次，就是他们要不断的创造对用户有用的东西或让他们感兴趣的内容，来留住大规模的用户流量。在数字经济中，流量就是金钱，是经济活动、数字化生存中一切交换、交易的“硬通货”。没有流量、就是没有价值。巨头公司就是超大规模流量的拥有者，有海量的用户免费的为他产生生产资料，他们能加工成数据商品。与此同时，他们还能搭建平台操纵系统，让海量的平台开发者为其寄生，或维护其技术的迭代，以保持业界的影响和存在，更维护技术的长青。比如现在阿里、百度等等的开源平台等等，为其构建抵御风险的防御。</p>
-<p>   再次，他们会向相邻或甚至不相干的市场发起不对等、不对称的打击。例如，微信干掉了电信运营商短信、电商、美团、饿了么干掉了线下实体店，滴滴干掉出租车公司大部分业务等等。因为，这些平台公司他们是通过匹配具有互补需求的客户来获得生存力的。阿里的创始人马云，通过阿里巴巴，通过批发平台，“让天下不再有难做的生意”，匹配了工厂、匹配了物流和客户。与此同时，工厂、物流、客户，任何一方的增长都助力了其他方的增长，可以说平台经济，还是个“多边市场”。</p>
-<p>   此外，平台极具天然的扩张性，由于平台的易复制性、零成本边际效应，使得平台要不断地追求扩大边界，来扩大竞争的边界。而使得垄断更加严重的同时，还导致平台与寄生平台的生态系统失衡。因此，数字平台公司，必须对于自己的扩展要有个理性的认识。他们的诞生就决定了他们的使命。无限的扩张欲望，是适得其反的。</p>
-<p>   最后，这些平台公司，成长起来前，需要大量的烧钱。也即需要雄厚的资本持续注入，直到有稳定的相当规模的用户流量。他们的运作体系，不在于传统的商业模式，盈利挣钱，盈利和利润并不是数字平台公司运作的底层逻辑，而是流量体系的运作能否正常运行。只要流量体系正常，能源源不断的免费产生生产资料——用户行为、数据资料等等，公司的持续发展就存在强劲的动力。因此，数字经济跟人的粘性更强。像京东一直亏钱，但是并不影响京东的运作，像滴滴烧了那么多钱，依然不会因为缺钱而轰然倒塌。像手机已经成为了“瘾”。我们可以不带钱生活，但是不带手机更不一刻也不能生存。</p>
-<p>   这些，都不难给我们一些数字经济的一些启示：<br>    1.流量为王、要建立数字经济中的流量通道和体系。流量的成败，就是数字经济的成败。而且要为此做好烧钱的准备。没有雄厚的资本来前期烧钱，好的创意，根本就是巨人囊中之物。<br>    2.数字经济世界，垄断更加厉害，是个“赢者通吃”和“强者恒强”的世界。<br>    3.打败你的，不一定是你的同行，说不定是跨界的那个小子或玩家。在数字世界，真正的危险不是来自你看得见的危险，反而更多是你看不见、想不到的威胁。<br>    4.数字经济是更具“互补需求”的经济，用户更加需要便捷和高效的满足自身需要，数字平台要能更好地提供相关需求。<br>    5.整个数字经济中，用户明面上绝对是低成本或零成本的支付平台公司的费用。因为，数据、行为的权益，还没有一个定权，而平台公司，毫无支付用户的费用，而白白的利用了这些数据资料。这将是一个充满争议的话题和焦点。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据为王之道</title>
-    <url>/archives/c5662c25.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/6363cf7f16f2c2beb12dec04.jpg"></p>
-<p>数据最神奇的力量开始于预测比赛、后盛行于预测美国总统选举，这是数据史上曾经发生过的真实一幕。随着数据作为生产要素进入市场，数据几乎成了数字化的主宰。没有数据的数字化，根本很难想象会是什么样的。在数字化红利当中，数据就是王者。究其原因就是我们对数据的求真与现实数据的失真之间的矛盾所决定的。越是现实数据失真的厉害，我们对于数据的求真就越迫切，拥有真数据的价值就越高。这使得我们不仅要问，现实数据为什么会失真呢？或许导致现实数据失真的原因有很多，我们这里总结几个：</p>
-<p>1）多与用的矛盾。信息似乎铺天盖地、到处都是，但是可用的信息却寥寥无几。</p>
-<p>2）主观与客观，全面与片面的矛盾。我们总是习惯主观地、有选择地看待了数据和信息还不觉得。</p>
-<p>3）信息与知识的矛盾。我们总是自以为自己需要的是信息，但其实真正需要的是知识。从<strong>数据</strong>到<strong>信息</strong>再到<strong>知识</strong>，每一步都受认识规律的支配，每一步都有一个巨大的鸿沟需要跨越。</p>
-<p>与此同时，数据失真使得我们对数据十分依赖，引发我们在使用数据、分析数据上另一个失真的存在。比如，我们在使用数据、分析数据时，想直接从数据中找到因果关系，过于强调直接的因果性，使得模型中缺少变量。</p>
-<p>另外，数据到处理步骤时，数据几乎已是历史数据，现实的情况实际已经发生了实质性的改变。我们还以固化的思维，依赖历史数据，却忘记了还要依赖于现实的当下。这是几乎所有大数据失效的根本所在。另一方面，即使数据是时效分析的，人的适应性和灵活性，都会使得任何事物的数据在现实面前失效，凡事基于数据的经验或结论，都会被人在针对性预防、操纵中令其失效，这是人性。这使得那些认为大数据的作用是让历史告诉未来的人，深伤其心，不再相信数据，从而不得不发出一个普遍的疑问，数据真的可靠吗？数据真的能为王吗？</p>
-<p>其实数据能不能为王，不是绝对的。持静态观念的人，在实践中会对数据为王产生深深的不再相信。持动态观念的人，会在数据为王中不断地寻求进步。他们会在数据之中，不断地加入情境，比如行为、社交、兴趣、个人、环境等变量，在这些变量中去使用数据，给数据新的意义和价值。这或许便是数据为王之道。单纯的数据，产生不了王者，因为那不是道之所在。这使得我们在进行数字化建设时，不得不考虑数据与情境的配合，考虑什么场景下的数据和可使用的场景。这或许就是数据和人本身配合的需要。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
-      </categories>
-      <tags>
-        <tag>数字能力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人该怎么去提升数字化能力</title>
-    <url>/archives/e9556f7d.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字化能力是当今数字经济时代最核心的能力"><a href="#数字化能力是当今数字经济时代最核心的能力" class="headerlink" title="数字化能力是当今数字经济时代最核心的能力"></a>数字化能力是当今数字经济时代最核心的能力</h3><p>   数字化能力，可以说是我们当今数字经济时代最核心的能力。因为数字化能力直接决定了我们享受数字红利的能力。这个数字红利，直接表现在我们的收入和各项分配上，可以说是我们每个普通人不得不重点提升的能力。</p>
-<h3 id="当前并没有能个体普遍参与的数字化盈利途径"><a href="#当前并没有能个体普遍参与的数字化盈利途径" class="headerlink" title="当前并没有能个体普遍参与的数字化盈利途径"></a>当前并没有能个体普遍参与的数字化盈利途径</h3><p>   具体怎么来提升这个能力呢？对当前正在数字化进程中的我们来说，个体普遍所获得的红利，还处于互联网红利渠道的运用。对于个体普遍走向数字化红利，现在还没有成熟的模式。如果说有，也只是玩概念、找鳌头。因为现在能真正成熟享受到数字化红利的主体，还只是数字化转型成功的企业。对于个体则由于数字的能力普及的渠道有限，而暂时无法享受其红利。</p>
-<h3 id="个体当前无法套用企业数字化转型模式"><a href="#个体当前无法套用企业数字化转型模式" class="headerlink" title="个体当前无法套用企业数字化转型模式"></a>个体当前无法套用企业数字化转型模式</h3><p>   那么我们该怎么提升我们的数字化能力，以便为个体数字红利渠道成熟时，抓住机遇做准备呢？</p>
-<p>   如果将企业主体的数字化能力移植过来，必然陷入了数字化技术的专业深度。这不是非专业人士的普通大众所能接受的。因为数字化的技术涉及很深、很专业的信息、数字、甚至是高等数学等技术，很显然不是个体普遍数字红利的途径。</p>
-<p>   那么我们个体怎么来做好准备，参与这个数字红利呢？</p>
-<h3 id="提供一种数字化能力构建"><a href="#提供一种数字化能力构建" class="headerlink" title="提供一种数字化能力构建"></a>提供一种数字化能力构建</h3><p>   我们只有通过挖掘数字化的本质为主、结合互联网红利的发展经验，来构建自己的数字化能力架构。以数字红利视角来审视，互联网红利的当前衔接，来案例化数字化能力的提升。当前，我们可将数字化能力构建为：数字获取能力、数字形态化能力和数字资本化能力的框架来提升自己，以此作为底层逻辑来思考，结合实践和案例的方式来探寻数字化能力的普适路径。</p>
-<p><img src="https://pic.imgdb.cn/item/6310a9a916f2c2beb178273c.png" alt="数字化能力构建图"></p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>数字化</category>
       </categories>
       <tags>
         <tag>数字能力</tag>
@@ -2897,14 +2980,15 @@
       </tags>
   </entry>
   <entry>
-    <title>数字经济是使用经济，拥有不再是人们的追求</title>
-    <url>/archives/f2fcf713.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p><img src="https://pic1.imgdb.cn/item/636a6ec216f2c2beb1a379e0.jpg"><br>在人类经济的历史长河中，对生产生活资料的拥有、所有权，一直都是人们追逐的东西。比如土地、房屋、财产等等，对物权我们一直以来注重其拥有性，并以此来评判人的社会财富和地位等级。而这一切，在数字社会，数字经济将对其重新进行赋权。</p>
-<p>已经展露头角的共享经济、分享经济，已经给我们给出了数字经济生活中，对于拥有、所有权的新认识。在这之前，人们将物权的所有权和使用权相互剥离。所有权通过出租使用权来获得收益。这便是地租产生，通过物的所有权，来奴役、操控人的底层逻辑。</p>
-<p>随着社会生产力的发展和社会财富的积累。生产生活资料的拥有不再是少数人特权，加之数字技术给社会交换和连接所带来的低成本，使得对于人身外之物的认识，更加接近事物的本来面目。</p>
-<p>分享经济当中的，滴滴顺风车把大量私家车的闲置率降低，同时又减轻了车主养车的费用成本。共享经济当中的租赁，共享单车、共享充电宝等，使使用人不再关注这些物的所有权。物品从工厂出来，不再经由中间商，使物直接面对使用的人。</p>
-<p>这使得我们不得不注重，在数字经济中，使用权的突出地位。人们不再关注物的所有和归属，能不能供自己所使用，才是应该关注的重点。</p>
-<p>可以预见的未来，数字经济中的创业者和企业，更应该专注给人创造使用的场景和使用的广度、深度，谁能抓住数字经济给人带来的对使用的需求，谁就是数字经济的王者。资产不再是下一个经济体的评价标准。与之相伴的必将是使用度或使用方面的衡量将是新的资产尺度。</p>
+    <title>个人该怎么去提升数字化能力</title>
+    <url>/archives/e9556f7d.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><h3 id="数字化能力是当今数字经济时代最核心的能力"><a href="#数字化能力是当今数字经济时代最核心的能力" class="headerlink" title="数字化能力是当今数字经济时代最核心的能力"></a>数字化能力是当今数字经济时代最核心的能力</h3><p>   数字化能力，可以说是我们当今数字经济时代最核心的能力。因为数字化能力直接决定了我们享受数字红利的能力。这个数字红利，直接表现在我们的收入和各项分配上，可以说是我们每个普通人不得不重点提升的能力。</p>
+<h3 id="当前并没有能个体普遍参与的数字化盈利途径"><a href="#当前并没有能个体普遍参与的数字化盈利途径" class="headerlink" title="当前并没有能个体普遍参与的数字化盈利途径"></a>当前并没有能个体普遍参与的数字化盈利途径</h3><p>   具体怎么来提升这个能力呢？对当前正在数字化进程中的我们来说，个体普遍所获得的红利，还处于互联网红利渠道的运用。对于个体普遍走向数字化红利，现在还没有成熟的模式。如果说有，也只是玩概念、找鳌头。因为现在能真正成熟享受到数字化红利的主体，还只是数字化转型成功的企业。对于个体则由于数字的能力普及的渠道有限，而暂时无法享受其红利。</p>
+<h3 id="个体当前无法套用企业数字化转型模式"><a href="#个体当前无法套用企业数字化转型模式" class="headerlink" title="个体当前无法套用企业数字化转型模式"></a>个体当前无法套用企业数字化转型模式</h3><p>   那么我们该怎么提升我们的数字化能力，以便为个体数字红利渠道成熟时，抓住机遇做准备呢？</p>
+<p>   如果将企业主体的数字化能力移植过来，必然陷入了数字化技术的专业深度。这不是非专业人士的普通大众所能接受的。因为数字化的技术涉及很深、很专业的信息、数字、甚至是高等数学等技术，很显然不是个体普遍数字红利的途径。</p>
+<p>   那么我们个体怎么来做好准备，参与这个数字红利呢？</p>
+<h3 id="提供一种数字化能力构建"><a href="#提供一种数字化能力构建" class="headerlink" title="提供一种数字化能力构建"></a>提供一种数字化能力构建</h3><p>   我们只有通过挖掘数字化的本质为主、结合互联网红利的发展经验，来构建自己的数字化能力架构。以数字红利视角来审视，互联网红利的当前衔接，来案例化数字化能力的提升。当前，我们可将数字化能力构建为：数字获取能力、数字形态化能力和数字资本化能力的框架来提升自己，以此作为底层逻辑来思考，结合实践和案例的方式来探寻数字化能力的普适路径。</p>
+<p><img src="https://pic.imgdb.cn/item/6310a9a916f2c2beb178273c.png" alt="数字化能力构建图"></p>
 <p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
 </div>
 
@@ -2993,93 +3077,6 @@
       </categories>
       <tags>
         <tag>网站工具分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>两年前的判断，正在被一步步证实</title>
-    <url>/archives/f906543a.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>偶然间翻到，两年前写的对世界判断的文章，现在读来，基本方向上还是朝着判断的方向发展，虽然那时是特朗普，现在是拜登，但依旧没有改变这个判断。拜登、拜登，在失败的道路上，又登上了一步。而对于中国，二十一世纪是中国人的世纪，这一点越来越明显。世界动荡的局势，宣布了美式民主的失败和更加证实了它是导致世界混乱的根源，这将会让越来越多的人们认识到。中国只要敢于进取，勇于作为，猛打猛冲的同时继续稳住大盘，接手美国，在不久的将来实现一切目的是完全有可能的。</p>
-<h3 id="下面附上两年前的分析："><a href="#下面附上两年前的分析：" class="headerlink" title="下面附上两年前的分析："></a>下面附上两年前的分析：</h3><p>从2018年的中兴事件到2019年全面打压中国领先世界的5G技术的华为事件，再到今年的芯片禁令升级，美国无限制施展“长臂管辖”，从禁止芯片领域开始无节操的打压中国高科技发展。</p>
-<p>2020年6月，美国还禁止哈工大、哈工程等使用MATLAB软件，由此可见美国的打压蔓延到行业软件。可以预计在不久的将来美国可能会对更多的组织禁用更多的行业软件，以实现精准打击，首当其冲的工业软件会在所难免。</p>
-<p>美国目的很明确，通过打压中国的高科技、高端制造业的发展，从而遏制中国的发展，夺回美国制造业世界级工厂体系的地位，捍卫美国全球霸权的主导地位。原因有二：一是特朗普以让美国制造业回流，让美国再次伟大为口号，赢得了选票，但是美国一直高昂的人力成本根本无法支撑美国制造业回流。早在2017年富士康就宣布去美国建厂，至今为止，富士康在美国“百亿美元建厂”计划，进行得并不乐观。制定的各项“指标”，几乎都无法完成。可见特朗普这一口号实现是困难重重，无法兑现。二是全球已基本形成最优化的产业链：美国以高科技技术，主要负责设计、软件生态、操作系统、品牌。欧洲、韩国、台湾地区提供高技术的芯片生产。中国负责其他零部件的生产，组装，其余国家提供原材料。这个产业链是资本效率最高，每一个环节都使得资本得到最大的增值，特别是在中国这个环节，由于中国本身具有完整的工业链条，导致生产成本最低，大量成熟工人让效率最高。最优化的产业链，具有最高产值和利润，逐利是资本的本性，这是当前运行的客观规律，特朗普更是无法改变。这两个原因无疑限制了特朗普要达成自己的目的必须要寻找其他可能的路径。</p>
-<p>但美国实现其目的的可能路径在哪里呢？美国深谙“先进网络通信技术+AI信息智能化自动化机械生产的工业体系”是未来世界级工业之王，谁率先完成“先进网络通信技术与AI信息智能化自动化机械生产的工业体系”的建立，谁就是未来之王。同时，这也是美国完成制造业回流，让美国再次伟大的唯一可能路径。</p>
-<p>因为“先进网络通信技术+AI信息智能化自动化机械生产的工业体系”，是高度智能化、自动化、去人化的工业、军工体系，谁率先建立这一工业体系，谁就不用考虑人力成本和世界产业链布局，给世界带来源源不断的产品和输出，就能牢固树立自己的霸权地位和领先优势。基于这层逻辑不难理解，美国宁可自伤其身也要无底线打压中国的高科技发展，不仅是阻滞中国的发展，更重要是捍卫美国自己的霸权。这种思维逻辑，其实并不是仅仅针对中国，而是针对所有发展处于世界第二的大国，且在高科技领域触犯了美国霸权的国家都难逃的厄运。</p>
-<p>基于美国此种逻辑，中国该怎么办？我国的劣势在哪里？又有什么优势？该如何应对？</p>
-<h3 id="劣势在哪里："><a href="#劣势在哪里：" class="headerlink" title="劣势在哪里："></a><strong>劣势在哪里：</strong></h3><p>（一）中国半导体产业全面落后于美国，面对美国针对芯片、工业软件等技术封锁，会使我国高科技、高端制造业处于被动的境地，阻滞我国高科技、高端制造业和社会经济发展在所难免。</p>
-<p>据荷兰王国驻沪总领事馆的科技与创新官员Bart van Hezewijk(范泽伟)发表在LinkedIn上的，通过对全球136家半导体公司销售数据整理的全球半导体产业价值链格局统计显示（见图1），中国除了在半导体封装测试领域占有跟美国媲美的优势外，其他各项跟美国完全没有可比性。</p>
-<p><img src="https://pic1.imgdb.cn/item/634ac38016f2c2beb1ce48b9.png"></p>
-<p>这其中主要差距表现在设备制造和EDA&amp;IP（自动化设计软件和知识产权核心）这两个领域里。设备制造主要是光刻机，现在中国最好的就是中芯国际14nm的芯片制造，而国际已经到达了5nm的量产，2nm的芯片技术研究也取得突破。EDA就更没有。在IC设计IDM、代工、封测这三个领域最近几年发展的还是比较快的。尤其是IC设计&amp;IDM，这里面汇集了大量有潜力的公司，但跟美国还有相当差距。</p>
-<p>（二）芯片、工业软件领域需要众多复合型高精尖人才，特别需要融合物理、数学、工程学、材料学、化学及计算机科学等学科人才，我国现阶段该领域人才十分缺乏，同时具备两项或三项学科的专业人才更是凤毛麟角，极度缺乏“从0到1”实现的专业领军人才。</p>
-<p>据2019年12月18日最新发布的《中国集成电路产业人才白皮书（2018-2019年版）》的数据统计分析来看，截止到2018年年底，我国半导体集成电路产业从业人员规模约为46.1万人，比2017年同期增加了6.1万人，增长率15.3%，人才供需状况得到一定程度改善，预计到2021年前后，全行业人才需求规模为72.2万人左右，也就是说，至2021年，我国仍然存在26.1万人的集成电路人才缺口，缺口依然较大。同时顶尖人才流失严重，国家集成电路产业发展咨询委员会副主任、国家外国专家局原局长马俊如表示：“每年从高校毕业的集成电路相关毕业生有20万，只有19%真正进入半导体行业。“从0到1”的专业领军人才更是没有。</p>
-<p>（三）芯片制造、工业软件研发都需要高度融合的生态圈。相比而言我国更缺乏芯片、工业软件领域领先的教学科研平台和生态环境、使得复合型高精尖人才培养和自我发展上跟不上发展需要，且我国高精尖人才流失严重问题一直未得到有效解决。</p>
-<p>（四）国内芯片、行业软件从业人员工资不高、行业生态不够景气。有调查显示：一个有8年工作经验的IC工程师在台湾以及新加坡的工资折合人民币大概70万元，在上海大概可以拿到100~150万元，但在硅谷则可以拿到30万美元（约210万元），这其中还有将近一倍的差距。</p>
-<p>由于芯片、行业软件是高投入，资本密集，回报周期长，产业链长的特点，往往难以吸引市场重资本，导致市场难以摆脱 “谁的外卖多，谁赚钱更容易”的市场效应。形成了“没有赚钱效应“–&gt;从业人员要求高、工资低–&gt;平台、生态资源不足–&gt;无市场竞争力–&gt;无市场赚钱效应–&gt;从业人员要求高、工资低”的恶性循环。</p>
-<p>（五）重要岗位、关键人员存被西化、被收买的风险不能排除。主要有以下四种：</p>
-<p>一是鼓吹新自由主义，否定社会主义，为资本主义摇旗呐喊，收买官员、智库人员在关键岗位以合法的形式的为敌人服务。</p>
-<p>二是打着“科学”旗号，窃取、破坏我国的科学发展。</p>
-<p>三是认为外国的月亮圆，外国的空气香。丑化中国、丑化中国共产党、配合敌对势力进行渗透。</p>
-<p>四是为敌国提供军事和国防情报，接受敌国训练，试图分裂国家等等。</p>
-<p>这四种中特别是党内的重要岗位、关键领域，持西方价值观的、极致的、利己主义的精英份子和被西方收买各级领导干部，将是我们党领导全国人民进行伟大复兴，破处一切万难的关键所在和难点所在。最明显的例子就是第二次海湾战争，伊拉克坦克师长拿着美国2亿元的贿赂，直接解散了部队，导致本土作战，美国没有怎么动用军事伊拉克就迅速土崩瓦解，出人意料。这是内部瓦解的最好警示。</p>
-<p>（六）我国各级领导干部、企事业单位领导，对芯片、行业软件认识不足，对芯片、行业软件科研、企业等成长规律、指导规范和监管等方面存在经验不足的现象较为普遍。</p>
-<p>在实际工作中，对技术、科研人员重视不够、往往行政资源大于科研、技术资源。使其科研、技术资源不足，科研、技术不仅面临苦、累，还要极度忍受常年累月的冷板凳和无成果，加之行政上的科层制管理，使得稍有科研、技术成果的人员，往往以提拔到行政事务性较重的工作或岗位作为职业发展路径，导致科研、技术人员成就向行政事务化发展，从而导致科研、技术缺乏深度和持续性，更浪费了科研、技术资源。同时，中国习惯“跟随式发展”的惯性思维还未彻底打破，无论是科学技术上，还是政策引导上短期还难以从根本上摆脱先行者控制。</p>
-<h3 id="优势在哪里："><a href="#优势在哪里：" class="headerlink" title="优势在哪里："></a><strong>优势在哪里：</strong></h3><p>（一）最大的优势是中国共产党的领导，以人民为中心的制度优势，可以集中力量办大事。</p>
-<p>（二）中国抗疫的成果有效，充分表明中国有能力、有信心抗击新冠疫情，中国全球最先抗疫成功，全球最快实现经济的全面复苏。世界经济更加看重中国，也更需要中国，全世界需要一个强大的中国作为世界经济的引擎，将是不可逆转的事实。</p>
-<p>（三）中国5G技术领先全球，已经撕开了美国科技霸权的口子，部分掌握了率先美国实现其目的内在逻辑的先进网络通信技术，加之AI技术的发展，中国跟美国几乎是齐头并进，且AI的科研论文发表量还高于美国，使得我国存在率先实现“先进网络通信技术+AI信息智能化自动化机械生产体系”，建立的世界级工业之王的可能性。于此同时，军工也将借此发生质的飞跃，必然引起美国恐慌。</p>
-<p>（四）美国社会的撕裂已经使得派系利益高于国家利益。这里有充足空间值得利用，可以寻找充足的战略缓冲空间。</p>
-<p>（五）中国的制度优势和世界发展的引擎被世界看到，由于资本追逐利润的本性，资本会自己找到方式来赚中国的利润。同时全球顶级人才，也会自己去主动寻找最快的成长方式和成长地方。</p>
-<p>（六）美国的人才优势差距会缩小。那个居里夫人，爱因斯坦，特斯拉等科技伟人云集的美国时代已经离去，天才科学家不再是美国的独有，全世界各国都拥有水平高超的科学家，美国的人才优势虽然有，但已经不是碾压式的存在了。</p>
-<p>（七）中国崛起的道路是正义的、是正大光明的，是无掠夺、剥削其他国家和民族的，他的崛起绝对不会因为某个人、某件事、某个国家而停下来，当下中国正处在一个不可逆转的上升区。</p>
-<h3 id="怎么做："><a href="#怎么做：" class="headerlink" title="怎么做："></a><strong>怎么做：</strong></h3><p>（一）<strong>在顶层设计方面，打破跟随式发展思维惯性，事实就是，尊重科学、利用科学走中国特色的社会主义伟大复兴道路</strong>。具体是：</p>
-<p>1）走独立自主的网络空间技术体系。一是利用TCP&#x2F;IP协议体系的不安全性，构建新的网络空间体系，如新IP技术体系。二是研发量子通信技术体系，构建全新的网络空间技术体系。</p>
-<p>2）实施网络空间强国战略。将“先进网络通信技术+AI信息智能化自动化机械生产技术体系”建设纳入国家首要战略，提升至“两弹一星”的建设地位。</p>
-<p>3）构建将网络空间技术+网络空间消费数字货币支付相互绑定的体系，从而谋求石油美元的取代战略，通过网络空间技术和网络空间消费支付体系，找到中国货币的全球等价物。</p>
-<p>（二）<strong>在科研、技术生态圈方面</strong></p>
-<p> 在涉及国计民生的关键行业、领域，像芯片、工业软件等领域鼓励公司、各社会组织展开集中公关，成立产业联盟、产教融合联盟和联合会，形成产业集聚。</p>
-<p>特别是在目前国内半导体行业人才集中度较高的地区，东部以上海为中心，南方以粤港澳大湾区为中心，北方则以北京为中心，谋划芯片、行业软件科研、技术生态圈和产业集群布局。尤其是美国的“先进网络通信技术+AI信息智能化自动化机械生产的世界工业体系”称霸逻辑，在粤港澳大湾区是国内最有可能率先实现之地。因为一是有深圳华为世界领先的5G通信技术；二是有阿里云工业互联网总部在广州。这为粤港澳大湾区争夺实现这一逻辑，奠定了基础。</p>
-<p>（三）<strong>在人才培养、基础学科建设方面</strong></p>
-<p>构建产教研融合的人才培养体系，选拔抽调全国优秀的芯片、行业软件的产、教、研人员、平台和实验室等，在半导体行业人才集中度较高的地区组建芯片、行业软件等学科性大学，进行人才队伍的培养、产出和再造。同时，提升科研、技术人员的工资待遇和社会福利。提升二次分配能力，并在二次分配中对科研、技术人才予以倾斜，缩小国内关键领域专业人才的待遇差的同时，引导优秀人才到关键领域的科研、技术上来。鼓励各科研机构、企事业单位，对科研、技术人员实行扁平化、去行政事务化管理和培养，鼓励社会各界给予科研、技术人员从业和奉献的优越感。</p>
-<p>（四）<strong>在金融体系方面</strong></p>
-<p>谋求建立全球可持续盈利的金融体系，增强金融防风险能力，特别是增强可持续的、可操作金融能力尤为重要。</p>
-<p>2020年初突如其来的一场新冠病毒让人们猝不及防，中国人民几个月辛辛苦苦生产口罩赚的几百亿，结果轻松被美国利用石油期货操纵一下轻易剥夺，中行就是这其中最好的例子。 </p>
-<p>（五）<strong>在从严治党方面</strong></p>
-<p>历来的历史证明，强大的不是敌人，而是腐朽无能的自己。我们最大的敌人，还是党内自身出现问题。管党治党、从严治党永远都在路上。</p>
-<p>重要岗位、关键领域的领导干部，一定要信念、立场坚定，不被洗脑、腐化和收买，要逐步探索职位越高，党性越强的对应统一。</p>
-<p>对各项政策制定、决策的下达以及工作的开展，都以“为民情怀”——以是否真的为中国人民服务、谋幸福、谋大幸福为评判、筛选标准。以便广大党员、领导干部自觉补足本领，敢于担当、实干、肯干只争朝夕，使被西方价值观洗脑者、被收买者无处遁形，使敌人无懈可击，纯化党的队伍，增强战斗力。</p>
-<h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a><strong>结束语</strong></h3><p>美国对我国的芯片、技术封禁对我国高科技、高端制造业乃至社会经济的发展负面影响无疑是巨大的，但也是总体可控的。从今年上半年我国国产化半导体行业发展来看，持续高增长的态势没有改变。可以说反而是刺激了国产半导体、电子行业的高速发展。根据广州市统计局发布的今年上半年广州经济运行情况分析，计算机软件信息产业在逆境中还稳步大幅增长。同时国产化的半导体、电子产品，性能也不错，只是走出去，在参与全球竞争中还处于劣势的态势，没有10到20年的积累，短期内是无法改变，但完成现有的业务完全没有问题。这也就奠定了美国将无法从高科技、高端制造业扼住中国咽喉的基础。只要我国内部不瓦解，那么美国要扼住中国的意图基本是不可能实现的，即使是美国采取战争也难以达成，除非美国自己都想急速沉沦。只要我们始终团结一致，走正确的道路、做正义的事情，就一定能够战胜一切艰难险阻，历史将证明最终的胜利一定是我们。</p>
-<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
-</div>
-
-			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
-			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
-			<script>
-			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-			if (!isMobile) {
-				try {
-					var plugin = new ReadmorePlugin();
-					plugin.init({
-						"id": "readmore-container",
-						"blogId": "78976-8607807416809-945",
-						"name": "网络空间说",
-						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
-						"keyword": "数字空间",
-						"lockToc": "yes",
-						"type": "hexo",
-						"random": "1",
-						"interval": "60",
-						"expires": "365",
-						"height": "auto"
-					});
-				} catch(e) {
-					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
-				}
-			}
-			</script>
-		]]></content>
-      <categories>
-        <category>纵横捭阖</category>
-      </categories>
-      <tags>
-        <tag>思想前沿</tag>
       </tags>
   </entry>
   <entry>
@@ -3220,6 +3217,93 @@
       </categories>
       <tags>
         <tag>数字能力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>两年前的判断，正在被一步步证实</title>
+    <url>/archives/f906543a.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div id="readmore-container"><p>偶然间翻到，两年前写的对世界判断的文章，现在读来，基本方向上还是朝着判断的方向发展，虽然那时是特朗普，现在是拜登，但依旧没有改变这个判断。拜登、拜登，在失败的道路上，又登上了一步。而对于中国，二十一世纪是中国人的世纪，这一点越来越明显。世界动荡的局势，宣布了美式民主的失败和更加证实了它是导致世界混乱的根源，这将会让越来越多的人们认识到。中国只要敢于进取，勇于作为，猛打猛冲的同时继续稳住大盘，接手美国，在不久的将来实现一切目的是完全有可能的。</p>
+<h3 id="下面附上两年前的分析："><a href="#下面附上两年前的分析：" class="headerlink" title="下面附上两年前的分析："></a>下面附上两年前的分析：</h3><p>从2018年的中兴事件到2019年全面打压中国领先世界的5G技术的华为事件，再到今年的芯片禁令升级，美国无限制施展“长臂管辖”，从禁止芯片领域开始无节操的打压中国高科技发展。</p>
+<p>2020年6月，美国还禁止哈工大、哈工程等使用MATLAB软件，由此可见美国的打压蔓延到行业软件。可以预计在不久的将来美国可能会对更多的组织禁用更多的行业软件，以实现精准打击，首当其冲的工业软件会在所难免。</p>
+<p>美国目的很明确，通过打压中国的高科技、高端制造业的发展，从而遏制中国的发展，夺回美国制造业世界级工厂体系的地位，捍卫美国全球霸权的主导地位。原因有二：一是特朗普以让美国制造业回流，让美国再次伟大为口号，赢得了选票，但是美国一直高昂的人力成本根本无法支撑美国制造业回流。早在2017年富士康就宣布去美国建厂，至今为止，富士康在美国“百亿美元建厂”计划，进行得并不乐观。制定的各项“指标”，几乎都无法完成。可见特朗普这一口号实现是困难重重，无法兑现。二是全球已基本形成最优化的产业链：美国以高科技技术，主要负责设计、软件生态、操作系统、品牌。欧洲、韩国、台湾地区提供高技术的芯片生产。中国负责其他零部件的生产，组装，其余国家提供原材料。这个产业链是资本效率最高，每一个环节都使得资本得到最大的增值，特别是在中国这个环节，由于中国本身具有完整的工业链条，导致生产成本最低，大量成熟工人让效率最高。最优化的产业链，具有最高产值和利润，逐利是资本的本性，这是当前运行的客观规律，特朗普更是无法改变。这两个原因无疑限制了特朗普要达成自己的目的必须要寻找其他可能的路径。</p>
+<p>但美国实现其目的的可能路径在哪里呢？美国深谙“先进网络通信技术+AI信息智能化自动化机械生产的工业体系”是未来世界级工业之王，谁率先完成“先进网络通信技术与AI信息智能化自动化机械生产的工业体系”的建立，谁就是未来之王。同时，这也是美国完成制造业回流，让美国再次伟大的唯一可能路径。</p>
+<p>因为“先进网络通信技术+AI信息智能化自动化机械生产的工业体系”，是高度智能化、自动化、去人化的工业、军工体系，谁率先建立这一工业体系，谁就不用考虑人力成本和世界产业链布局，给世界带来源源不断的产品和输出，就能牢固树立自己的霸权地位和领先优势。基于这层逻辑不难理解，美国宁可自伤其身也要无底线打压中国的高科技发展，不仅是阻滞中国的发展，更重要是捍卫美国自己的霸权。这种思维逻辑，其实并不是仅仅针对中国，而是针对所有发展处于世界第二的大国，且在高科技领域触犯了美国霸权的国家都难逃的厄运。</p>
+<p>基于美国此种逻辑，中国该怎么办？我国的劣势在哪里？又有什么优势？该如何应对？</p>
+<h3 id="劣势在哪里："><a href="#劣势在哪里：" class="headerlink" title="劣势在哪里："></a><strong>劣势在哪里：</strong></h3><p>（一）中国半导体产业全面落后于美国，面对美国针对芯片、工业软件等技术封锁，会使我国高科技、高端制造业处于被动的境地，阻滞我国高科技、高端制造业和社会经济发展在所难免。</p>
+<p>据荷兰王国驻沪总领事馆的科技与创新官员Bart van Hezewijk(范泽伟)发表在LinkedIn上的，通过对全球136家半导体公司销售数据整理的全球半导体产业价值链格局统计显示（见图1），中国除了在半导体封装测试领域占有跟美国媲美的优势外，其他各项跟美国完全没有可比性。</p>
+<p><img src="https://pic1.imgdb.cn/item/634ac38016f2c2beb1ce48b9.png"></p>
+<p>这其中主要差距表现在设备制造和EDA&amp;IP（自动化设计软件和知识产权核心）这两个领域里。设备制造主要是光刻机，现在中国最好的就是中芯国际14nm的芯片制造，而国际已经到达了5nm的量产，2nm的芯片技术研究也取得突破。EDA就更没有。在IC设计IDM、代工、封测这三个领域最近几年发展的还是比较快的。尤其是IC设计&amp;IDM，这里面汇集了大量有潜力的公司，但跟美国还有相当差距。</p>
+<p>（二）芯片、工业软件领域需要众多复合型高精尖人才，特别需要融合物理、数学、工程学、材料学、化学及计算机科学等学科人才，我国现阶段该领域人才十分缺乏，同时具备两项或三项学科的专业人才更是凤毛麟角，极度缺乏“从0到1”实现的专业领军人才。</p>
+<p>据2019年12月18日最新发布的《中国集成电路产业人才白皮书（2018-2019年版）》的数据统计分析来看，截止到2018年年底，我国半导体集成电路产业从业人员规模约为46.1万人，比2017年同期增加了6.1万人，增长率15.3%，人才供需状况得到一定程度改善，预计到2021年前后，全行业人才需求规模为72.2万人左右，也就是说，至2021年，我国仍然存在26.1万人的集成电路人才缺口，缺口依然较大。同时顶尖人才流失严重，国家集成电路产业发展咨询委员会副主任、国家外国专家局原局长马俊如表示：“每年从高校毕业的集成电路相关毕业生有20万，只有19%真正进入半导体行业。“从0到1”的专业领军人才更是没有。</p>
+<p>（三）芯片制造、工业软件研发都需要高度融合的生态圈。相比而言我国更缺乏芯片、工业软件领域领先的教学科研平台和生态环境、使得复合型高精尖人才培养和自我发展上跟不上发展需要，且我国高精尖人才流失严重问题一直未得到有效解决。</p>
+<p>（四）国内芯片、行业软件从业人员工资不高、行业生态不够景气。有调查显示：一个有8年工作经验的IC工程师在台湾以及新加坡的工资折合人民币大概70万元，在上海大概可以拿到100~150万元，但在硅谷则可以拿到30万美元（约210万元），这其中还有将近一倍的差距。</p>
+<p>由于芯片、行业软件是高投入，资本密集，回报周期长，产业链长的特点，往往难以吸引市场重资本，导致市场难以摆脱 “谁的外卖多，谁赚钱更容易”的市场效应。形成了“没有赚钱效应“–&gt;从业人员要求高、工资低–&gt;平台、生态资源不足–&gt;无市场竞争力–&gt;无市场赚钱效应–&gt;从业人员要求高、工资低”的恶性循环。</p>
+<p>（五）重要岗位、关键人员存被西化、被收买的风险不能排除。主要有以下四种：</p>
+<p>一是鼓吹新自由主义，否定社会主义，为资本主义摇旗呐喊，收买官员、智库人员在关键岗位以合法的形式的为敌人服务。</p>
+<p>二是打着“科学”旗号，窃取、破坏我国的科学发展。</p>
+<p>三是认为外国的月亮圆，外国的空气香。丑化中国、丑化中国共产党、配合敌对势力进行渗透。</p>
+<p>四是为敌国提供军事和国防情报，接受敌国训练，试图分裂国家等等。</p>
+<p>这四种中特别是党内的重要岗位、关键领域，持西方价值观的、极致的、利己主义的精英份子和被西方收买各级领导干部，将是我们党领导全国人民进行伟大复兴，破处一切万难的关键所在和难点所在。最明显的例子就是第二次海湾战争，伊拉克坦克师长拿着美国2亿元的贿赂，直接解散了部队，导致本土作战，美国没有怎么动用军事伊拉克就迅速土崩瓦解，出人意料。这是内部瓦解的最好警示。</p>
+<p>（六）我国各级领导干部、企事业单位领导，对芯片、行业软件认识不足，对芯片、行业软件科研、企业等成长规律、指导规范和监管等方面存在经验不足的现象较为普遍。</p>
+<p>在实际工作中，对技术、科研人员重视不够、往往行政资源大于科研、技术资源。使其科研、技术资源不足，科研、技术不仅面临苦、累，还要极度忍受常年累月的冷板凳和无成果，加之行政上的科层制管理，使得稍有科研、技术成果的人员，往往以提拔到行政事务性较重的工作或岗位作为职业发展路径，导致科研、技术人员成就向行政事务化发展，从而导致科研、技术缺乏深度和持续性，更浪费了科研、技术资源。同时，中国习惯“跟随式发展”的惯性思维还未彻底打破，无论是科学技术上，还是政策引导上短期还难以从根本上摆脱先行者控制。</p>
+<h3 id="优势在哪里："><a href="#优势在哪里：" class="headerlink" title="优势在哪里："></a><strong>优势在哪里：</strong></h3><p>（一）最大的优势是中国共产党的领导，以人民为中心的制度优势，可以集中力量办大事。</p>
+<p>（二）中国抗疫的成果有效，充分表明中国有能力、有信心抗击新冠疫情，中国全球最先抗疫成功，全球最快实现经济的全面复苏。世界经济更加看重中国，也更需要中国，全世界需要一个强大的中国作为世界经济的引擎，将是不可逆转的事实。</p>
+<p>（三）中国5G技术领先全球，已经撕开了美国科技霸权的口子，部分掌握了率先美国实现其目的内在逻辑的先进网络通信技术，加之AI技术的发展，中国跟美国几乎是齐头并进，且AI的科研论文发表量还高于美国，使得我国存在率先实现“先进网络通信技术+AI信息智能化自动化机械生产体系”，建立的世界级工业之王的可能性。于此同时，军工也将借此发生质的飞跃，必然引起美国恐慌。</p>
+<p>（四）美国社会的撕裂已经使得派系利益高于国家利益。这里有充足空间值得利用，可以寻找充足的战略缓冲空间。</p>
+<p>（五）中国的制度优势和世界发展的引擎被世界看到，由于资本追逐利润的本性，资本会自己找到方式来赚中国的利润。同时全球顶级人才，也会自己去主动寻找最快的成长方式和成长地方。</p>
+<p>（六）美国的人才优势差距会缩小。那个居里夫人，爱因斯坦，特斯拉等科技伟人云集的美国时代已经离去，天才科学家不再是美国的独有，全世界各国都拥有水平高超的科学家，美国的人才优势虽然有，但已经不是碾压式的存在了。</p>
+<p>（七）中国崛起的道路是正义的、是正大光明的，是无掠夺、剥削其他国家和民族的，他的崛起绝对不会因为某个人、某件事、某个国家而停下来，当下中国正处在一个不可逆转的上升区。</p>
+<h3 id="怎么做："><a href="#怎么做：" class="headerlink" title="怎么做："></a><strong>怎么做：</strong></h3><p>（一）<strong>在顶层设计方面，打破跟随式发展思维惯性，事实就是，尊重科学、利用科学走中国特色的社会主义伟大复兴道路</strong>。具体是：</p>
+<p>1）走独立自主的网络空间技术体系。一是利用TCP&#x2F;IP协议体系的不安全性，构建新的网络空间体系，如新IP技术体系。二是研发量子通信技术体系，构建全新的网络空间技术体系。</p>
+<p>2）实施网络空间强国战略。将“先进网络通信技术+AI信息智能化自动化机械生产技术体系”建设纳入国家首要战略，提升至“两弹一星”的建设地位。</p>
+<p>3）构建将网络空间技术+网络空间消费数字货币支付相互绑定的体系，从而谋求石油美元的取代战略，通过网络空间技术和网络空间消费支付体系，找到中国货币的全球等价物。</p>
+<p>（二）<strong>在科研、技术生态圈方面</strong></p>
+<p> 在涉及国计民生的关键行业、领域，像芯片、工业软件等领域鼓励公司、各社会组织展开集中公关，成立产业联盟、产教融合联盟和联合会，形成产业集聚。</p>
+<p>特别是在目前国内半导体行业人才集中度较高的地区，东部以上海为中心，南方以粤港澳大湾区为中心，北方则以北京为中心，谋划芯片、行业软件科研、技术生态圈和产业集群布局。尤其是美国的“先进网络通信技术+AI信息智能化自动化机械生产的世界工业体系”称霸逻辑，在粤港澳大湾区是国内最有可能率先实现之地。因为一是有深圳华为世界领先的5G通信技术；二是有阿里云工业互联网总部在广州。这为粤港澳大湾区争夺实现这一逻辑，奠定了基础。</p>
+<p>（三）<strong>在人才培养、基础学科建设方面</strong></p>
+<p>构建产教研融合的人才培养体系，选拔抽调全国优秀的芯片、行业软件的产、教、研人员、平台和实验室等，在半导体行业人才集中度较高的地区组建芯片、行业软件等学科性大学，进行人才队伍的培养、产出和再造。同时，提升科研、技术人员的工资待遇和社会福利。提升二次分配能力，并在二次分配中对科研、技术人才予以倾斜，缩小国内关键领域专业人才的待遇差的同时，引导优秀人才到关键领域的科研、技术上来。鼓励各科研机构、企事业单位，对科研、技术人员实行扁平化、去行政事务化管理和培养，鼓励社会各界给予科研、技术人员从业和奉献的优越感。</p>
+<p>（四）<strong>在金融体系方面</strong></p>
+<p>谋求建立全球可持续盈利的金融体系，增强金融防风险能力，特别是增强可持续的、可操作金融能力尤为重要。</p>
+<p>2020年初突如其来的一场新冠病毒让人们猝不及防，中国人民几个月辛辛苦苦生产口罩赚的几百亿，结果轻松被美国利用石油期货操纵一下轻易剥夺，中行就是这其中最好的例子。 </p>
+<p>（五）<strong>在从严治党方面</strong></p>
+<p>历来的历史证明，强大的不是敌人，而是腐朽无能的自己。我们最大的敌人，还是党内自身出现问题。管党治党、从严治党永远都在路上。</p>
+<p>重要岗位、关键领域的领导干部，一定要信念、立场坚定，不被洗脑、腐化和收买，要逐步探索职位越高，党性越强的对应统一。</p>
+<p>对各项政策制定、决策的下达以及工作的开展，都以“为民情怀”——以是否真的为中国人民服务、谋幸福、谋大幸福为评判、筛选标准。以便广大党员、领导干部自觉补足本领，敢于担当、实干、肯干只争朝夕，使被西方价值观洗脑者、被收买者无处遁形，使敌人无懈可击，纯化党的队伍，增强战斗力。</p>
+<h3 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a><strong>结束语</strong></h3><p>美国对我国的芯片、技术封禁对我国高科技、高端制造业乃至社会经济的发展负面影响无疑是巨大的，但也是总体可控的。从今年上半年我国国产化半导体行业发展来看，持续高增长的态势没有改变。可以说反而是刺激了国产半导体、电子行业的高速发展。根据广州市统计局发布的今年上半年广州经济运行情况分析，计算机软件信息产业在逆境中还稳步大幅增长。同时国产化的半导体、电子产品，性能也不错，只是走出去，在参与全球竞争中还处于劣势的态势，没有10到20年的积累，短期内是无法改变，但完成现有的业务完全没有问题。这也就奠定了美国将无法从高科技、高端制造业扼住中国咽喉的基础。只要我国内部不瓦解，那么美国要扼住中国的意图基本是不可能实现的，即使是美国采取战争也难以达成，除非美国自己都想急速沉沦。只要我们始终团结一致，走正确的道路、做正义的事情，就一定能够战胜一切艰难险阻，历史将证明最终的胜利一定是我们。</p>
+<p><img src="https://pic.imgdb.cn/item/6374ef6316f2c2beb17e0dff.png"></p>
+</div>
+
+			<link rel="stylesheet" type="text/css" href="https://qiniu.techgrow.cn/readmore/dist/hexo.css">
+			<script src="https://qiniu.techgrow.cn/readmore/dist/readmore.js" type="text/javascript"></script>
+			<script>
+			var isMobile = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
+			if (!isMobile) {
+				try {
+					var plugin = new ReadmorePlugin();
+					plugin.init({
+						"id": "readmore-container",
+						"blogId": "78976-8607807416809-945",
+						"name": "网络空间说",
+						"qrcode": "https://pic.imgdb.cn/item/6319d4f016f2c2beb15bd44e.jpg",
+						"keyword": "数字空间",
+						"lockToc": "yes",
+						"type": "hexo",
+						"random": "1",
+						"interval": "60",
+						"expires": "365",
+						"height": "auto"
+					});
+				} catch(e) {
+					console.warn("readmore plugin occurred error: " + e.name + " | " + e.message);
+				}
+			}
+			</script>
+		]]></content>
+      <categories>
+        <category>纵横捭阖</category>
+      </categories>
+      <tags>
+        <tag>思想前沿</tag>
       </tags>
   </entry>
   <entry>
